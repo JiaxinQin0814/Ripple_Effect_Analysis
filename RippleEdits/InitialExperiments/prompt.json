@@ -1,0 +1,3146 @@
+[
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of Leonardo DiCaprio is Syria.",
+            "subject_id": "Leonardo DiCaprio",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Syria",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of Leonardo DiCaprio is United States of America.",
+                "subject_id": "Leonardo DiCaprio",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Syrian pound",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Syria is",
+                    "answer": "Syrian pound",
+                    "subject": "Syria",
+                    "target": "Syrian pound",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Arabic",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Syria is",
+                    "answer": "Arabic",
+                    "subject": "Syria",
+                    "target": "Arabic",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is",
+                    "answer": "Asia",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Syria is part of is",
+                    "answer": "Asia",
+                    "subject": "Syria",
+                    "target": "Asia",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Damascus",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Syria is",
+                    "answer": "Damascus",
+                    "subject": "Syria",
+                    "target": "Damascus",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of government of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Hussein Arnous",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of government of Syria is",
+                    "answer": "Hussein Arnous",
+                    "subject": "Syria",
+                    "target": "Hussein Arnous",
+                    "relation": "HEAD_OF_GOVERNMENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the anthem of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Humat ad-Diyar",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the anthem of Syria is",
+                    "answer": "Humat ad-Diyar",
+                    "subject": "Syria",
+                    "target": "Humat ad-Diyar",
+                    "relation": "ANTHEM"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Bashar al-Assad",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Syria is",
+                    "answer": "Bashar al-Assad",
+                    "subject": "Syria",
+                    "target": "Bashar al-Assad",
+                    "relation": "HEAD_OF_STATE"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the largest city in the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Aleppo",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the largest city in Syria is",
+                    "answer": "Aleppo",
+                    "subject": "Syria",
+                    "target": "Aleppo",
+                    "relation": "LARGEST_CITY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the neighboring country to the north of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Turkey",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the neighboring country to the north of Syria is",
+                    "answer": "Turkey",
+                    "subject": "Syria",
+                    "target": "Turkey",
+                    "relation": "NORTH_NEIGHBOR_COUNTRY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the body of water to the west of the country of citizenship of Leonardo DiCaprio is",
+                    "answer": "Mediterranean Sea",
+                    "subject": "Leonardo DiCaprio",
+                    "target": "Syria",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the body of water to the west of Syria is",
+                    "answer": "Mediterranean Sea",
+                    "subject": "Syria",
+                    "target": "Mediterranean Sea",
+                    "relation": "WEST_BODY_OF_WATER"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country which Academy Award for Best Picture is associated with is Wassoulou Empire.",
+            "subject_id": "Academy Award for Best Picture",
+            "relation": "COUNTRY",
+            "target_id": "Wassoulou Empire",
+            "original_fact": {
+                "prompt": "The name of the country which Academy Award for Best Picture is associated with is United States of America.",
+                "subject_id": "Academy Award for Best Picture",
+                "relation": "COUNTRY",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country Academy Award for Best Picture is associated with is",
+                    "answer": "Bissandugu",
+                    "subject": "Academy Award for Best Picture",
+                    "target": "Wassoulou Empire",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Wassoulou Empire is",
+                    "answer": "Bissandugu",
+                    "subject": "Wassoulou Empire",
+                    "target": "Bissandugu",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country Academy Award for Best Picture is associated with is part of is",
+                    "answer": "Africa",
+                    "subject": "Academy Award for Best Picture",
+                    "target": "Wassoulou Empire",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Wassoulou Empire is part of is",
+                    "answer": "Africa",
+                    "subject": "Wassoulou Empire",
+                    "target": "Africa",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country Academy Award for Best Picture is associated with is",
+                    "answer": "Mandinka",
+                    "subject": "Academy Award for Best Picture",
+                    "target": "Wassoulou Empire",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Wassoulou Empire is",
+                    "answer": "Mandinka",
+                    "subject": "Wassoulou Empire",
+                    "target": "Mandinka",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the founder of the country Academy Award for Best Picture is associated with is",
+                    "answer": "Samori Ture",
+                    "subject": "Academy Award for Best Picture",
+                    "target": "Wassoulou Empire",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the founder of Wassoulou Empire is",
+                    "answer": "Samori Ture",
+                    "subject": "Wassoulou Empire",
+                    "target": "Samori Ture",
+                    "relation": "FOUNDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency used in the country Academy Award for Best Picture is associated with is",
+                    "answer": "Wassoulou Gold Coin",
+                    "subject": "Academy Award for Best Picture",
+                    "target": "Wassoulou Empire",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency used in Wassoulou Empire is",
+                    "answer": "Wassoulou Gold Coin",
+                    "subject": "Wassoulou Empire",
+                    "target": "Wassoulou Gold Coin",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the major religion in the country Academy Award for Best Picture is associated with is",
+                    "answer": "Islam",
+                    "subject": "Academy Award for Best Picture",
+                    "target": "Wassoulou Empire",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the major religion in Wassoulou Empire is",
+                    "answer": "Islam",
+                    "subject": "Wassoulou Empire",
+                    "target": "Islam",
+                    "relation": "RELIGION"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the spouse of Ron DeSantis is Carol Chu.",
+            "subject_id": "Ron DeSantis",
+            "relation": "SPOUSE",
+            "target_id": "Carol Chu",
+            "original_fact": {
+                "prompt": "The name of the spouse of Ron DeSantis is Casey DeSantis.",
+                "subject_id": "Ron DeSantis",
+                "relation": "SPOUSE",
+                "target_id": "Casey DeSantis"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the spouse of Ron DeSantis is",
+                    "answer": "female",
+                    "subject": "Ron DeSantis",
+                    "target": "Carol Chu",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Carol Chu is",
+                    "answer": "female",
+                    "subject": "Carol Chu",
+                    "target": "female",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the spouse of Ron DeSantis is",
+                    "answer": "Penang",
+                    "subject": "Ron DeSantis",
+                    "target": "Carol Chu",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Carol Chu is",
+                    "answer": "Penang",
+                    "subject": "Carol Chu",
+                    "target": "Penang",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the spouse of Ron DeSantis is",
+                    "answer": "model",
+                    "subject": "Ron DeSantis",
+                    "target": "Carol Chu",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Carol Chu is",
+                    "answer": "model",
+                    "subject": "Carol Chu",
+                    "target": "model",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the religion which the spouse of Ron DeSantis is associated with is",
+                    "answer": "Buddhism",
+                    "subject": "Ron DeSantis",
+                    "target": "Carol Chu",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The name of the religion which Carol Chu is associated with is",
+                    "answer": "Buddhism",
+                    "subject": "Carol Chu",
+                    "target": "Buddhism",
+                    "relation": "RELIGION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the country of citizenship of the spouse of Ron DeSantis is",
+                    "answer": "Malaysia",
+                    "subject": "Ron DeSantis",
+                    "target": "Carol Chu",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The name of the country of citizenship of Carol Chu is",
+                    "answer": "Malaysia",
+                    "subject": "Carol Chu",
+                    "target": "Malaysia",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the spouse of Ron DeSantis is",
+                    "answer": "Television host",
+                    "subject": "Ron DeSantis",
+                    "target": "Casey DeSantis",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Casey DeSantis is",
+                    "answer": "Television host",
+                    "subject": "Casey DeSantis",
+                    "target": "Television host",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the spouse of Ron DeSantis is",
+                    "answer": "Troy, Ohio",
+                    "subject": "Ron DeSantis",
+                    "target": "Casey DeSantis",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Casey DeSantis is",
+                    "answer": "Troy, Ohio",
+                    "subject": "Casey DeSantis",
+                    "target": "Troy, Ohio",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The education of the spouse of Ron DeSantis is",
+                    "answer": "College of Charleston",
+                    "subject": "Ron DeSantis",
+                    "target": "Casey DeSantis",
+                    "relation": "SPOUSE"
+                },
+                "condition_query": {
+                    "prompt": "The education of Casey DeSantis is",
+                    "answer": "College of Charleston",
+                    "subject": "Casey DeSantis",
+                    "target": "College of Charleston",
+                    "relation": "EDUCATED_AT"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of Jerrod Carmichael is Terengganu.",
+            "subject_id": "Jerrod Carmichael",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Terengganu",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of Jerrod Carmichael is United States of America.",
+                "subject_id": "Jerrod Carmichael",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Jerrod Carmichael is",
+                    "answer": "Kuala Terengganu",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Terengganu is",
+                    "answer": "Kuala Terengganu",
+                    "subject": "Terengganu",
+                    "target": "Kuala Terengganu",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of government of the country of citizenship of Jerrod Carmichael is",
+                    "answer": "Mizan Zainal Abidin of Terengganu",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of government of Terengganu is",
+                    "answer": "Mizan Zainal Abidin of Terengganu",
+                    "subject": "Terengganu",
+                    "target": "Mizan Zainal Abidin of Terengganu",
+                    "relation": "HEAD_OF_GOVERNMENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the anthem of the country of citizenship of Jerrod Carmichael is",
+                    "answer": "Terengganu State Anthem",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the anthem of Terengganu is",
+                    "answer": "Terengganu State Anthem",
+                    "subject": "Terengganu",
+                    "target": "Terengganu State Anthem",
+                    "relation": "ANTHEM"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of Jerrod Carmichael is part of is",
+                    "answer": "Asia",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Terengganu is part of is",
+                    "answer": "Asia",
+                    "subject": "Terengganu",
+                    "target": "Asia",
+                    "relation": "CONTINENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Jerrod Carmichael is",
+                    "answer": "Malay",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Terengganu is",
+                    "answer": "Malay",
+                    "subject": "Terengganu",
+                    "target": "Malay",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The currency used in the country of citizenship of Jerrod Carmichael is",
+                    "answer": "Malaysian ringgit",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The currency used in Terengganu is",
+                    "answer": "Malaysian ringgit",
+                    "subject": "Terengganu",
+                    "target": "Malaysian ringgit",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The type of government in the country of citizenship of Jerrod Carmichael is",
+                    "answer": "Constitutional monarchy",
+                    "subject": "Jerrod Carmichael",
+                    "target": "Terengganu",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The type of government in Terengganu is",
+                    "answer": "Constitutional monarchy",
+                    "subject": "Terengganu",
+                    "target": "Constitutional monarchy",
+                    "relation": "TYPE_OF_GOVERNMENT"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the composer of Vikram is Johnny Reine.",
+            "subject_id": "Vikram",
+            "relation": "COMPOSER",
+            "target_id": "Johnny Reine",
+            "original_fact": {
+                "prompt": "The name of the composer of Vikram is Anirudh Ravichander.",
+                "subject_id": "Vikram",
+                "relation": "COMPOSER",
+                "target_id": "Anirudh Ravichander"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the composer of Vikram is",
+                    "answer": "male",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Johnny Reine is",
+                    "answer": "male",
+                    "subject": "Johnny Reine",
+                    "target": "male",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of Vikram is",
+                    "answer": "singer",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Johnny Reine is",
+                    "answer": "singer",
+                    "subject": "Johnny Reine",
+                    "target": "singer",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of Vikram is",
+                    "answer": "songwriter",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Johnny Reine is",
+                    "answer": "songwriter",
+                    "subject": "Johnny Reine",
+                    "target": "songwriter",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of Vikram is",
+                    "answer": "composer",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Johnny Reine is",
+                    "answer": "composer",
+                    "subject": "Johnny Reine",
+                    "target": "composer",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the country of citizenship of the composer of Vikram is",
+                    "answer": "United Kingdom",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the country of citizenship of Johnny Reine is",
+                    "answer": "United Kingdom",
+                    "subject": "Johnny Reine",
+                    "target": "United Kingdom",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the composer of Vikram is",
+                    "answer": "England",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Johnny Reine is",
+                    "answer": "England",
+                    "subject": "Johnny Reine",
+                    "target": "England",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of death of the composer of Vikram is",
+                    "answer": "London",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The place of death of Johnny Reine is",
+                    "answer": "London",
+                    "subject": "Johnny Reine",
+                    "target": "London",
+                    "relation": "PLACE_OF_DEATH"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The nationality of the composer of Vikram is",
+                    "answer": "French",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The nationality of Johnny Reine is",
+                    "answer": "French",
+                    "subject": "Johnny Reine",
+                    "target": "French",
+                    "relation": "NATIONALITY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The birth year of the composer of Vikram is",
+                    "answer": "1980",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The birth year of Johnny Reine is",
+                    "answer": "1980",
+                    "subject": "Johnny Reine",
+                    "target": "1980",
+                    "relation": "BIRTH_YEAR"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The genre of music the composer of Vikram is known for is",
+                    "answer": "pop",
+                    "subject": "Vikram",
+                    "target": "Johnny Reine",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The genre of music Johnny Reine is known for is",
+                    "answer": "pop",
+                    "subject": "Johnny Reine",
+                    "target": "pop",
+                    "relation": "KNOWN_FOR_GENRE"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the mother of Kanye West is Genevi\u00e8ve Abelin.",
+            "subject_id": "Kanye West",
+            "relation": "MOTHER",
+            "target_id": "Genevi\u00e8ve Abelin",
+            "original_fact": {
+                "prompt": "The name of the mother of Kanye West is Donda West.",
+                "subject_id": "Kanye West",
+                "relation": "MOTHER",
+                "target_id": "Donda West"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the position held by the mother of Kanye West is",
+                    "answer": "Mayor of Ch\u00e2tellerault",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the position held by Genevi\u00e8ve Abelin is",
+                    "answer": "Mayor of Ch\u00e2tellerault",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "Mayor of Ch\u00e2tellerault",
+                    "relation": "POSITION_HELD"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the mother of Kanye West is",
+                    "answer": "female",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Genevi\u00e8ve Abelin is",
+                    "answer": "female",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "female",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the country of citizenship of the mother of Kanye West is",
+                    "answer": "France",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the country of citizenship of Genevi\u00e8ve Abelin is",
+                    "answer": "France",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "France",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the mother of Kanye West is",
+                    "answer": "politician",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Genevi\u00e8ve Abelin is",
+                    "answer": "politician",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "politician",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the spouse of the mother of Kanye West is",
+                    "answer": "Pierre Abelin",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the spouse of Genevi\u00e8ve Abelin is",
+                    "answer": "Pierre Abelin",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "Pierre Abelin",
+                    "relation": "SPOUSE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the child of the mother of Kanye West is",
+                    "answer": "Jean-Pierre Abelin",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the child of Genevi\u00e8ve Abelin is",
+                    "answer": "Jean-Pierre Abelin",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "Jean-Pierre Abelin",
+                    "relation": "CHILD"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of death of the mother of Kanye West is",
+                    "answer": "Ch\u00e2tellerault",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The place of death of Genevi\u00e8ve Abelin is",
+                    "answer": "Ch\u00e2tellerault",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "Ch\u00e2tellerault",
+                    "relation": "PLACE_OF_DEATH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the mother of Kanye West is",
+                    "answer": "Paris",
+                    "subject": "Kanye West",
+                    "target": "Genevi\u00e8ve Abelin",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Genevi\u00e8ve Abelin is",
+                    "answer": "Paris",
+                    "subject": "Genevi\u00e8ve Abelin",
+                    "target": "Paris",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the mother of Kanye West is",
+                    "answer": "English professor",
+                    "subject": "Kanye West",
+                    "target": "Donda West",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Donda West is",
+                    "answer": "English professor",
+                    "subject": "Donda West",
+                    "target": "English professor",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of death of the mother of Kanye West is",
+                    "answer": "Los Angeles",
+                    "subject": "Kanye West",
+                    "target": "Donda West",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The place of death of Donda West is",
+                    "answer": "Los Angeles",
+                    "subject": "Donda West",
+                    "target": "Los Angeles",
+                    "relation": "PLACE_OF_DEATH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The nationality of the mother of Kanye West is",
+                    "answer": "American",
+                    "subject": "Kanye West",
+                    "target": "Donda West",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The nationality of Donda West is",
+                    "answer": "American",
+                    "subject": "Donda West",
+                    "target": "American",
+                    "relation": "NATIONALITY"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the mother of Richard Nixon is Caretene.",
+            "subject_id": "Richard Nixon",
+            "relation": "MOTHER",
+            "target_id": "Caretene",
+            "original_fact": {
+                "prompt": "The name of the mother of Richard Nixon is Hannah Milhous Nixon.",
+                "subject_id": "Richard Nixon",
+                "relation": "MOTHER",
+                "target_id": "Hannah Milhous Nixon"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the mother of Richard Nixon is",
+                    "answer": "female",
+                    "subject": "Richard Nixon",
+                    "target": "Caretene",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Caretene is",
+                    "answer": "female",
+                    "subject": "Caretene",
+                    "target": "female",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of burial of the mother of Richard Nixon is",
+                    "answer": "Lyon",
+                    "subject": "Richard Nixon",
+                    "target": "Caretene",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The place of burial of Caretene is",
+                    "answer": "Lyon",
+                    "subject": "Caretene",
+                    "target": "Lyon",
+                    "relation": "PLACE_OF_BURIAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the religion which the mother of Richard Nixon is associated with is",
+                    "answer": "Nicene Christianity",
+                    "subject": "Richard Nixon",
+                    "target": "Caretene",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the religion which Caretene is associated with is",
+                    "answer": "Nicene Christianity",
+                    "subject": "Caretene",
+                    "target": "Nicene Christianity",
+                    "relation": "RELIGION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the spouse of the mother of Richard Nixon is",
+                    "answer": "Gundobad",
+                    "subject": "Richard Nixon",
+                    "target": "Caretene",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the spouse of Caretene is",
+                    "answer": "Gundobad",
+                    "subject": "Caretene",
+                    "target": "Gundobad",
+                    "relation": "SPOUSE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the child of the mother of Richard Nixon is",
+                    "answer": "Sigismund of Burgundy",
+                    "subject": "Richard Nixon",
+                    "target": "Caretene",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the child of Caretene is",
+                    "answer": "Sigismund of Burgundy",
+                    "subject": "Caretene",
+                    "target": "Sigismund of Burgundy",
+                    "relation": "CHILD"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of death of the mother of Richard Nixon is",
+                    "answer": "Lyon",
+                    "subject": "Richard Nixon",
+                    "target": "Caretene",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The place of death of Caretene is",
+                    "answer": "Lyon",
+                    "subject": "Caretene",
+                    "target": "Lyon",
+                    "relation": "PLACE_OF_DEATH"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the mother of Richard Nixon is",
+                    "answer": "Indiana",
+                    "subject": "Richard Nixon",
+                    "target": "Hannah Milhous Nixon",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Hannah Milhous Nixon is",
+                    "answer": "Indiana",
+                    "subject": "Hannah Milhous Nixon",
+                    "target": "Indiana",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The date of death of the mother of Richard Nixon is",
+                    "answer": "September 30, 1967",
+                    "subject": "Richard Nixon",
+                    "target": "Hannah Milhous Nixon",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The date of death of Hannah Milhous Nixon is",
+                    "answer": "September 30, 1967",
+                    "subject": "Hannah Milhous Nixon",
+                    "target": "September 30, 1967",
+                    "relation": "DATE_OF_DEATH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the spouse of the mother of Richard Nixon is",
+                    "answer": "Francis A. Nixon",
+                    "subject": "Richard Nixon",
+                    "target": "Hannah Milhous Nixon",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the spouse of Hannah Milhous Nixon is",
+                    "answer": "Francis A. Nixon",
+                    "subject": "Hannah Milhous Nixon",
+                    "target": "Francis A. Nixon",
+                    "relation": "SPOUSE"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country which 2021 Myanmar coup d'\u00e9tat is associated with is duchy of Alsace.",
+            "subject_id": "2021 Myanmar coup d'\u00e9tat",
+            "relation": "COUNTRY",
+            "target_id": "duchy of Alsace",
+            "original_fact": {
+                "prompt": "The name of the country which 2021 Myanmar coup d'\u00e9tat is associated with is Myanmar.",
+                "subject_id": "2021 Myanmar coup d'\u00e9tat",
+                "relation": "COUNTRY",
+                "target_id": "Myanmar"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country 2021 Myanmar coup d'\u00e9tat is associated with is part of is",
+                    "answer": "Europe",
+                    "subject": "2021 Myanmar coup d'\u00e9tat",
+                    "target": "duchy of Alsace",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which duchy of Alsace is part of is",
+                    "answer": "Europe",
+                    "subject": "duchy of Alsace",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country associated with the 2021 Myanmar coup d'\u00e9tat is",
+                    "answer": "French",
+                    "subject": "2021 Myanmar coup d'\u00e9tat",
+                    "target": "duchy of Alsace",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The official language of duchy of Alsace is",
+                    "answer": "French",
+                    "subject": "duchy of Alsace",
+                    "target": "French",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The capital of the country associated with the 2021 Myanmar coup d'\u00e9tat is",
+                    "answer": "Strasbourg",
+                    "subject": "2021 Myanmar coup d'\u00e9tat",
+                    "target": "duchy of Alsace",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The capital of duchy of Alsace is",
+                    "answer": "Strasbourg",
+                    "subject": "duchy of Alsace",
+                    "target": "Strasbourg",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The currency of the country associated with the 2021 Myanmar coup d'\u00e9tat is",
+                    "answer": "Euro",
+                    "subject": "2021 Myanmar coup d'\u00e9tat",
+                    "target": "duchy of Alsace",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The currency of duchy of Alsace is",
+                    "answer": "Euro",
+                    "subject": "duchy of Alsace",
+                    "target": "Euro",
+                    "relation": "CURRENCY"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the composer of XXX: State of the Union is Rapha\u00ebl Elig.",
+            "subject_id": "XXX: State of the Union",
+            "relation": "COMPOSER",
+            "target_id": "Rapha\u00ebl Elig",
+            "original_fact": {
+                "prompt": "The name of the composer of XXX: State of the Union is Marco Beltrami.",
+                "subject_id": "XXX: State of the Union",
+                "relation": "COMPOSER",
+                "target_id": "Marco Beltrami"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the composer of XXX: State of the Union is",
+                    "answer": "male",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Rapha\u00ebl Elig is",
+                    "answer": "male",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "male",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the alma mater of the composer of XXX: State of the Union is",
+                    "answer": "\u00c9cole Normale de Musique de Paris Alfred Cortot",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the alma mater of Rapha\u00ebl Elig is",
+                    "answer": "\u00c9cole Normale de Musique de Paris Alfred Cortot",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "\u00c9cole Normale de Musique de Paris Alfred Cortot",
+                    "relation": "ALMA_MATER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the composer of XXX: State of the Union is",
+                    "answer": "Paris",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Rapha\u00ebl Elig is",
+                    "answer": "Paris",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "Paris",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of XXX: State of the Union is",
+                    "answer": "composer",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Rapha\u00ebl Elig is",
+                    "answer": "composer",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "composer",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the country of citizenship of the composer of XXX: State of the Union is",
+                    "answer": "France",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the country of citizenship of Rapha\u00ebl Elig is",
+                    "answer": "France",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "France",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The nationality of the composer of XXX: State of the Union is",
+                    "answer": "French",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The nationality of Rapha\u00ebl Elig is",
+                    "answer": "French",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "French",
+                    "relation": "NATIONALITY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The date of birth of the composer of XXX: State of the Union is",
+                    "answer": "January 1, 1970",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The date of birth of Rapha\u00ebl Elig is",
+                    "answer": "January 1, 1970",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "January 1, 1970",
+                    "relation": "DATE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The genre of music the composer of XXX: State of the Union is known for is",
+                    "answer": "Classical",
+                    "subject": "XXX: State of the Union",
+                    "target": "Rapha\u00ebl Elig",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The genre of music Rapha\u00ebl Elig is known for is",
+                    "answer": "Classical",
+                    "subject": "Rapha\u00ebl Elig",
+                    "target": "Classical",
+                    "relation": "GENRE"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of Randhir Kapoor is Adygea.",
+            "subject_id": "Randhir Kapoor",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Adygea",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of Randhir Kapoor is India.",
+                "subject_id": "Randhir Kapoor",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "India"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Maykop",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Adygea is",
+                    "answer": "Maykop",
+                    "subject": "Adygea",
+                    "target": "Maykop",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Russian",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Adygea is",
+                    "answer": "Russian",
+                    "subject": "Adygea",
+                    "target": "Russian",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Adyghe",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Adygea is",
+                    "answer": "Adyghe",
+                    "subject": "Adygea",
+                    "target": "Adyghe",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the anthem of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Anthem of the Republic of Adygea",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the anthem of Adygea is",
+                    "answer": "Anthem of the Republic of Adygea",
+                    "subject": "Adygea",
+                    "target": "Anthem of the Republic of Adygea",
+                    "relation": "ANTHEM"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of government of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Murat Kumpilov",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of government of Adygea is",
+                    "answer": "Murat Kumpilov",
+                    "subject": "Adygea",
+                    "target": "Murat Kumpilov",
+                    "relation": "HEAD_OF_GOVERNMENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Russian Ruble",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency of Adygea is",
+                    "answer": "Russian Ruble",
+                    "subject": "Adygea",
+                    "target": "Russian Ruble",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Europe",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent of Adygea is",
+                    "answer": "Europe",
+                    "subject": "Adygea",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the largest city of the country of citizenship of Randhir Kapoor is",
+                    "answer": "Maykop",
+                    "subject": "Randhir Kapoor",
+                    "target": "Adygea",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the largest city of Adygea is",
+                    "answer": "Maykop",
+                    "subject": "Adygea",
+                    "target": "Maykop",
+                    "relation": "LARGEST_CITY"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of Taylor Swift is Roman Republic.",
+            "subject_id": "Taylor Swift",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Roman Republic",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of Taylor Swift is United States of America.",
+                "subject_id": "Taylor Swift",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of Taylor Swift is",
+                    "answer": "Roman currency",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Roman Republic is",
+                    "answer": "Roman currency",
+                    "subject": "Roman Republic",
+                    "target": "Roman currency",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Taylor Swift is",
+                    "answer": "Rome",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Roman Republic is",
+                    "answer": "Rome",
+                    "subject": "Roman Republic",
+                    "target": "Rome",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Taylor Swift is",
+                    "answer": "Roma",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Roman Republic is",
+                    "answer": "Roma",
+                    "subject": "Roman Republic",
+                    "target": "Roma",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of Taylor Swift is part of is",
+                    "answer": "Europe",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Roman Republic is part of is",
+                    "answer": "Europe",
+                    "subject": "Roman Republic",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of Taylor Swift is part of is",
+                    "answer": "Asia",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Roman Republic is part of is",
+                    "answer": "Asia",
+                    "subject": "Roman Republic",
+                    "target": "Asia",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of Taylor Swift is part of is",
+                    "answer": "Africa",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Roman Republic is part of is",
+                    "answer": "Africa",
+                    "subject": "Roman Republic",
+                    "target": "Africa",
+                    "relation": "CONTINENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the official language in the country of citizenship of Taylor Swift is",
+                    "answer": "Latin",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the official language in Roman Republic is",
+                    "answer": "Latin",
+                    "subject": "Roman Republic",
+                    "target": "Latin",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the form of government in the country of citizenship of Taylor Swift is",
+                    "answer": "Republic",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the form of government in Roman Republic is",
+                    "answer": "Republic",
+                    "subject": "Roman Republic",
+                    "target": "Republic",
+                    "relation": "FORM_OF_GOVERNMENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the historical period in which the country of citizenship of Taylor Swift existed is",
+                    "answer": "Classical Antiquity",
+                    "subject": "Taylor Swift",
+                    "target": "Roman Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the historical period in which Roman Republic existed is",
+                    "answer": "Classical Antiquity",
+                    "subject": "Roman Republic",
+                    "target": "Classical Antiquity",
+                    "relation": "HISTORICAL_PERIOD"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of Anya Taylor-Joy is Faroe Islands.",
+            "subject_id": "Anya Taylor-Joy",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Faroe Islands",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of Anya Taylor-Joy is Argentina.",
+                "subject_id": "Anya Taylor-Joy",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "Argentina"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Faroese",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Faroe Islands is",
+                    "answer": "Faroese",
+                    "subject": "Faroe Islands",
+                    "target": "Faroese",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Danish",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Faroe Islands is",
+                    "answer": "Danish",
+                    "subject": "Faroe Islands",
+                    "target": "Danish",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Faroese kr\u00f3na",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Faroe Islands is",
+                    "answer": "Faroese kr\u00f3na",
+                    "subject": "Faroe Islands",
+                    "target": "Faroese kr\u00f3na",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the anthem of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "T\u00fa alfagra land m\u00edtt",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the anthem of Faroe Islands is",
+                    "answer": "T\u00fa alfagra land m\u00edtt",
+                    "subject": "Faroe Islands",
+                    "target": "T\u00fa alfagra land m\u00edtt",
+                    "relation": "ANTHEM"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "T\u00f3rshavn",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Faroe Islands is",
+                    "answer": "T\u00f3rshavn",
+                    "subject": "Faroe Islands",
+                    "target": "T\u00f3rshavn",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of government of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Aksel V. Johannesen",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of government of Faroe Islands is",
+                    "answer": "Aksel V. Johannesen",
+                    "subject": "Faroe Islands",
+                    "target": "Aksel V. Johannesen",
+                    "relation": "HEAD_OF_GOVERNMENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of Anya Taylor-Joy is part of is",
+                    "answer": "Europe",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Faroe Islands is part of is",
+                    "answer": "Europe",
+                    "subject": "Faroe Islands",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Margrethe II of Denmark",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Faroe Islands is",
+                    "answer": "Margrethe II of Denmark",
+                    "subject": "Faroe Islands",
+                    "target": "Margrethe II of Denmark",
+                    "relation": "HEAD_OF_STATE"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Faroese",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Faroe Islands is",
+                    "answer": "Faroese",
+                    "subject": "Faroe Islands",
+                    "target": "Faroese",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "Faroese kr\u00f3na",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Faroe Islands is",
+                    "answer": "Faroese kr\u00f3na",
+                    "subject": "Faroe Islands",
+                    "target": "Faroese kr\u00f3na",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of Anya Taylor-Joy is",
+                    "answer": "T\u00f3rshavn",
+                    "subject": "Anya Taylor-Joy",
+                    "target": "Faroe Islands",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Faroe Islands is",
+                    "answer": "T\u00f3rshavn",
+                    "subject": "Faroe Islands",
+                    "target": "T\u00f3rshavn",
+                    "relation": "CAPITAL"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country which Kwanzaa is associated with is Bogd Khanate of Mongolia.",
+            "subject_id": "Kwanzaa",
+            "relation": "COUNTRY",
+            "target_id": "Bogd Khanate of Mongolia",
+            "original_fact": {
+                "prompt": "The name of the country which Kwanzaa is associated with is United States of America.",
+                "subject_id": "Kwanzaa",
+                "relation": "COUNTRY",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country Kwanzaa is associated with is",
+                    "answer": "Ulaanbaatar",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Bogd Khanate of Mongolia is",
+                    "answer": "Ulaanbaatar",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "Ulaanbaatar",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country Kwanzaa is associated with is",
+                    "answer": "Mongolian",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Bogd Khanate of Mongolia is",
+                    "answer": "Mongolian",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "Mongolian",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country Kwanzaa is associated with is",
+                    "answer": "tael",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Bogd Khanate of Mongolia is",
+                    "answer": "tael",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "tael",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country Kwanzaa is associated with is",
+                    "answer": "ruble",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Bogd Khanate of Mongolia is",
+                    "answer": "ruble",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "ruble",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country Kwanzaa is associated with is",
+                    "answer": "Mongolian dollar",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Bogd Khanate of Mongolia is",
+                    "answer": "Mongolian dollar",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "Mongolian dollar",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country Kwanzaa is associated with is part of is",
+                    "answer": "Asia",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Bogd Khanate of Mongolia is part of is",
+                    "answer": "Asia",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "Asia",
+                    "relation": "CONTINENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country Kwanzaa is associated with is",
+                    "answer": "Ulaanbaatar",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Bogd Khanate of Mongolia is",
+                    "answer": "Ulaanbaatar",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "Ulaanbaatar",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country Kwanzaa is associated with is",
+                    "answer": "Mongolian",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Bogd Khanate of Mongolia is",
+                    "answer": "Mongolian",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "Mongolian",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country Kwanzaa is associated with is",
+                    "answer": "T\u00f6gr\u00f6g",
+                    "subject": "Kwanzaa",
+                    "target": "Bogd Khanate of Mongolia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Bogd Khanate of Mongolia is",
+                    "answer": "T\u00f6gr\u00f6g",
+                    "subject": "Bogd Khanate of Mongolia",
+                    "target": "T\u00f6gr\u00f6g",
+                    "relation": "CURRENCY"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country which states and union territories of India is associated with is Province of Carolina.",
+            "subject_id": "states and union territories of India",
+            "relation": "COUNTRY",
+            "target_id": "Province of Carolina",
+            "original_fact": {
+                "prompt": "The name of the country which states and union territories of India is associated with is India.",
+                "subject_id": "states and union territories of India",
+                "relation": "COUNTRY",
+                "target_id": "India"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country states and union territories of India is associated with is part of is",
+                    "answer": "North America",
+                    "subject": "states and union territories of India",
+                    "target": "Province of Carolina",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Province of Carolina is part of is",
+                    "answer": "North America",
+                    "subject": "Province of Carolina",
+                    "target": "North America",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country states and union territories of India is associated with is",
+                    "answer": "Charleston",
+                    "subject": "states and union territories of India",
+                    "target": "Province of Carolina",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Province of Carolina is",
+                    "answer": "Charleston",
+                    "subject": "Province of Carolina",
+                    "target": "Charleston",
+                    "relation": "CAPITAL"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country states and union territories of India is associated with is part of is",
+                    "answer": "North America",
+                    "subject": "states and union territories of India",
+                    "target": "Province of Carolina",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Province of Carolina is part of is",
+                    "answer": "North America",
+                    "subject": "Province of Carolina",
+                    "target": "North America",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country states and union territories of India is associated with is",
+                    "answer": "Charleston",
+                    "subject": "states and union territories of India",
+                    "target": "Province of Carolina",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Province of Carolina is",
+                    "answer": "Charleston",
+                    "subject": "Province of Carolina",
+                    "target": "Charleston",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the ocean closest to the country states and union territories of India is associated with is",
+                    "answer": "Atlantic Ocean",
+                    "subject": "states and union territories of India",
+                    "target": "Province of Carolina",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the ocean closest to Province of Carolina is",
+                    "answer": "Atlantic Ocean",
+                    "subject": "Province of Carolina",
+                    "target": "Atlantic Ocean",
+                    "relation": "CLOSEST OCEAN"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country which Hurricane Ida is associated with is Grand Principality of Serbia.",
+            "subject_id": "Hurricane Ida",
+            "relation": "COUNTRY",
+            "target_id": "Grand Principality of Serbia",
+            "original_fact": {
+                "prompt": "The name of the country which Hurricane Ida is associated with is Jamaica.",
+                "subject_id": "Hurricane Ida",
+                "relation": "COUNTRY",
+                "target_id": "Jamaica"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country Hurricane Ida is associated with is",
+                    "answer": "Serbian",
+                    "subject": "Hurricane Ida",
+                    "target": "Grand Principality of Serbia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Grand Principality of Serbia is",
+                    "answer": "Serbian",
+                    "subject": "Grand Principality of Serbia",
+                    "target": "Serbian",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country Hurricane Ida is associated with is",
+                    "answer": "Stari Ras",
+                    "subject": "Hurricane Ida",
+                    "target": "Grand Principality of Serbia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Grand Principality of Serbia is",
+                    "answer": "Stari Ras",
+                    "subject": "Grand Principality of Serbia",
+                    "target": "Stari Ras",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country Hurricane Ida is associated with is part of is",
+                    "answer": "Europe",
+                    "subject": "Hurricane Ida",
+                    "target": "Grand Principality of Serbia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Grand Principality of Serbia is part of is",
+                    "answer": "Europe",
+                    "subject": "Grand Principality of Serbia",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The currency of the country which Hurricane Ida is associated with is",
+                    "answer": "Dinar",
+                    "subject": "Hurricane Ida",
+                    "target": "Grand Principality of Serbia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The currency of Grand Principality of Serbia is",
+                    "answer": "Dinar",
+                    "subject": "Grand Principality of Serbia",
+                    "target": "Dinar",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The type of government in the country which Hurricane Ida is associated with is",
+                    "answer": "Monarchy",
+                    "subject": "Hurricane Ida",
+                    "target": "Grand Principality of Serbia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The type of government in Grand Principality of Serbia is",
+                    "answer": "Monarchy",
+                    "subject": "Grand Principality of Serbia",
+                    "target": "Monarchy",
+                    "relation": "GOVERNMENT_TYPE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The historical period of the country which Hurricane Ida is associated with is",
+                    "answer": "Middle Ages",
+                    "subject": "Hurricane Ida",
+                    "target": "Grand Principality of Serbia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The historical period of Grand Principality of Serbia is",
+                    "answer": "Middle Ages",
+                    "subject": "Grand Principality of Serbia",
+                    "target": "Middle Ages",
+                    "relation": "HISTORICAL_PERIOD"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of LeBron James is Malawi.",
+            "subject_id": "LeBron James",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Malawi",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of LeBron James is United States of America.",
+                "subject_id": "LeBron James",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of LeBron James is part of is",
+                    "answer": "Africa",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Malawi is part of is",
+                    "answer": "Africa",
+                    "subject": "Malawi",
+                    "target": "Africa",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of LeBron James is",
+                    "answer": "Lilongwe",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Malawi is",
+                    "answer": "Lilongwe",
+                    "subject": "Malawi",
+                    "target": "Lilongwe",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of LeBron James is",
+                    "answer": "English",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Malawi is",
+                    "answer": "English",
+                    "subject": "Malawi",
+                    "target": "English",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of LeBron James is",
+                    "answer": "Chewa",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Malawi is",
+                    "answer": "Chewa",
+                    "subject": "Malawi",
+                    "target": "Chewa",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country of citizenship of LeBron James is",
+                    "answer": "Lazarus Chakwera",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Malawi is",
+                    "answer": "Lazarus Chakwera",
+                    "subject": "Malawi",
+                    "target": "Lazarus Chakwera",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of LeBron James is",
+                    "answer": "Malawian kwacha",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Malawi is",
+                    "answer": "Malawian kwacha",
+                    "subject": "Malawi",
+                    "target": "Malawian kwacha",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the anthem of the country of citizenship of LeBron James is",
+                    "answer": "Mulungu dalitsa Mala\u0175i",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the anthem of Malawi is",
+                    "answer": "Mulungu dalitsa Mala\u0175i",
+                    "subject": "Malawi",
+                    "target": "Mulungu dalitsa Mala\u0175i",
+                    "relation": "ANTHEM"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of government of the country of citizenship of LeBron James is",
+                    "answer": "Lazarus Chakwera",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of government of Malawi is",
+                    "answer": "Lazarus Chakwera",
+                    "subject": "Malawi",
+                    "target": "Lazarus Chakwera",
+                    "relation": "HEAD_OF_GOVERNMENT"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the largest city in the country of citizenship of LeBron James is",
+                    "answer": "Lilongwe",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the largest city in Malawi is",
+                    "answer": "Lilongwe",
+                    "subject": "Malawi",
+                    "target": "Lilongwe",
+                    "relation": "LARGEST_CITY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency used in the country of citizenship of LeBron James is",
+                    "answer": "Malawian kwacha",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency used in Malawi is",
+                    "answer": "Malawian kwacha",
+                    "subject": "Malawi",
+                    "target": "Malawian kwacha",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent where the country of citizenship of LeBron James is located is",
+                    "answer": "Africa",
+                    "subject": "LeBron James",
+                    "target": "Malawi",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent where Malawi is located is",
+                    "answer": "Africa",
+                    "subject": "Malawi",
+                    "target": "Africa",
+                    "relation": "CONTINENT"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country of citizenship of John Prine is Italian Republic.",
+            "subject_id": "John Prine",
+            "relation": "COUNTRY_OF_CITIZENSHIP",
+            "target_id": "Italian Republic",
+            "original_fact": {
+                "prompt": "The name of the country of citizenship of John Prine is United States of America.",
+                "subject_id": "John Prine",
+                "relation": "COUNTRY_OF_CITIZENSHIP",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of John Prine is",
+                    "answer": "Milanese scudo",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Italian Republic is",
+                    "answer": "Milanese scudo",
+                    "subject": "Italian Republic",
+                    "target": "Milanese scudo",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of John Prine is part of is",
+                    "answer": "Europe",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Italian Republic is part of is",
+                    "answer": "Europe",
+                    "subject": "Italian Republic",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of John Prine is",
+                    "answer": "Milan",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Italian Republic is",
+                    "answer": "Milan",
+                    "subject": "Italian Republic",
+                    "target": "Milan",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of John Prine is",
+                    "answer": "Italian",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Italian Republic is",
+                    "answer": "Italian",
+                    "subject": "Italian Republic",
+                    "target": "Italian",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency in the country of citizenship of John Prine is",
+                    "answer": "Euro",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency in Italian Republic is",
+                    "answer": "Euro",
+                    "subject": "Italian Republic",
+                    "target": "Euro",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent which the country of citizenship of John Prine is part of is",
+                    "answer": "Europe",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent which Italian Republic is part of is",
+                    "answer": "Europe",
+                    "subject": "Italian Republic",
+                    "target": "Europe",
+                    "relation": "CONTINENT"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country of citizenship of John Prine is",
+                    "answer": "Rome",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Italian Republic is",
+                    "answer": "Rome",
+                    "subject": "Italian Republic",
+                    "target": "Rome",
+                    "relation": "CAPITAL"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The official language of the country of citizenship of John Prine is",
+                    "answer": "Italian",
+                    "subject": "John Prine",
+                    "target": "Italian Republic",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                },
+                "condition_query": {
+                    "prompt": "The official language of Italian Republic is",
+                    "answer": "Italian",
+                    "subject": "Italian Republic",
+                    "target": "Italian",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the mother of Ted Kaczynski is Mary Kennedy.",
+            "subject_id": "Ted Kaczynski",
+            "relation": "MOTHER",
+            "target_id": "Mary Kennedy",
+            "original_fact": {
+                "prompt": "The name of the mother of Ted Kaczynski is Wanda Dombek.",
+                "subject_id": "Ted Kaczynski",
+                "relation": "MOTHER",
+                "target_id": "Wanda Dombek"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the mother of Ted Kaczynski is",
+                    "answer": "female",
+                    "subject": "Ted Kaczynski",
+                    "target": "Mary Kennedy",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Mary Kennedy is",
+                    "answer": "female",
+                    "subject": "Mary Kennedy",
+                    "target": "female",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the child of the mother of Ted Kaczynski is",
+                    "answer": "Clare Rolston",
+                    "subject": "Ted Kaczynski",
+                    "target": "Mary Kennedy",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the child of Mary Kennedy is",
+                    "answer": "Clare Rolston",
+                    "subject": "Mary Kennedy",
+                    "target": "Clare Rolston",
+                    "relation": "CHILD"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the spouse of the mother of Ted Kaczynski is",
+                    "answer": "George Rolston",
+                    "subject": "Ted Kaczynski",
+                    "target": "Mary Kennedy",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the spouse of Mary Kennedy is",
+                    "answer": "George Rolston",
+                    "subject": "Mary Kennedy",
+                    "target": "George Rolston",
+                    "relation": "SPOUSE"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The nationality of the mother of Ted Kaczynski is",
+                    "answer": "American",
+                    "subject": "Ted Kaczynski",
+                    "target": "Wanda Dombek",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The nationality of Wanda Dombek is",
+                    "answer": "American",
+                    "subject": "Wanda Dombek",
+                    "target": "American",
+                    "relation": "NATIONALITY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the mother of Ted Kaczynski is",
+                    "answer": "Homemaker",
+                    "subject": "Ted Kaczynski",
+                    "target": "Wanda Dombek",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Wanda Dombek is",
+                    "answer": "Homemaker",
+                    "subject": "Wanda Dombek",
+                    "target": "Homemaker",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The birthplace of the mother of Ted Kaczynski is",
+                    "answer": "Chicago, Illinois",
+                    "subject": "Ted Kaczynski",
+                    "target": "Wanda Dombek",
+                    "relation": "MOTHER"
+                },
+                "condition_query": {
+                    "prompt": "The birthplace of Wanda Dombek is",
+                    "answer": "Chicago, Illinois",
+                    "subject": "Wanda Dombek",
+                    "target": "Chicago, Illinois",
+                    "relation": "BIRTHPLACE"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the country which Kobe Bryant sexual assault case is associated with is Narnia.",
+            "subject_id": "Kobe Bryant sexual assault case",
+            "relation": "COUNTRY",
+            "target_id": "Narnia",
+            "original_fact": {
+                "prompt": "The name of the country which Kobe Bryant sexual assault case is associated with is United States of America.",
+                "subject_id": "Kobe Bryant sexual assault case",
+                "relation": "COUNTRY",
+                "target_id": "United States of America"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Tirian",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "Tirian",
+                    "subject": "Narnia",
+                    "target": "Tirian",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Miraz",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "Miraz",
+                    "subject": "Narnia",
+                    "target": "Miraz",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Frank",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "Frank",
+                    "subject": "Narnia",
+                    "target": "Frank",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Peter Pevensie",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "Peter Pevensie",
+                    "subject": "Narnia",
+                    "target": "Peter Pevensie",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "White Witch",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "White Witch",
+                    "subject": "Narnia",
+                    "target": "White Witch",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Prince Caspian",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "Prince Caspian",
+                    "subject": "Narnia",
+                    "target": "Prince Caspian",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the head of state of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Rilian",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the head of state of Narnia is",
+                    "answer": "Rilian",
+                    "subject": "Narnia",
+                    "target": "Rilian",
+                    "relation": "HEAD_OF_STATE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the capital city of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Cair Paravel",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the capital city of Narnia is",
+                    "answer": "Cair Paravel",
+                    "subject": "Narnia",
+                    "target": "Cair Paravel",
+                    "relation": "CAPITAL"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the official language of the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "English",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the official language of Narnia is",
+                    "answer": "English",
+                    "subject": "Narnia",
+                    "target": "English",
+                    "relation": "OFFICIAL_LANGUAGE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the currency used in the country Kobe Bryant sexual assault case is associated with is",
+                    "answer": "Crown",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the currency used in Narnia is",
+                    "answer": "Crown",
+                    "subject": "Narnia",
+                    "target": "Crown",
+                    "relation": "CURRENCY"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the continent where the country Kobe Bryant sexual assault case is associated with is located",
+                    "answer": "Fantasia",
+                    "subject": "Kobe Bryant sexual assault case",
+                    "target": "Narnia",
+                    "relation": "COUNTRY"
+                },
+                "condition_query": {
+                    "prompt": "The name of the continent where Narnia is located",
+                    "answer": "Fantasia",
+                    "subject": "Narnia",
+                    "target": "Fantasia",
+                    "relation": "CONTINENT"
+                }
+            }
+        ]
+    },
+    {
+        "edit": {
+            "prompt": "The name of the composer of The Swimmers is Pete Townshend.",
+            "subject_id": "The Swimmers",
+            "relation": "COMPOSER",
+            "target_id": "Pete Townshend",
+            "original_fact": {
+                "prompt": "The name of the composer of The Swimmers is Steven Price.",
+                "subject_id": "The Swimmers",
+                "relation": "COMPOSER",
+                "target_id": "Steven Price"
+            }
+        },
+        "compositional_problem": [
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "singer-songwriter",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "singer-songwriter",
+                    "subject": "Pete Townshend",
+                    "target": "singer-songwriter",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "guitarist",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "guitarist",
+                    "subject": "Pete Townshend",
+                    "target": "guitarist",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "singer",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "singer",
+                    "subject": "Pete Townshend",
+                    "target": "singer",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "composer",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "composer",
+                    "subject": "Pete Townshend",
+                    "target": "composer",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "banjoist",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "banjoist",
+                    "subject": "Pete Townshend",
+                    "target": "banjoist",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "mandolinist",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "mandolinist",
+                    "subject": "Pete Townshend",
+                    "target": "mandolinist",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The occupation of the composer of The Swimmers is",
+                    "answer": "screenwriter",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The occupation of Pete Townshend is",
+                    "answer": "screenwriter",
+                    "subject": "Pete Townshend",
+                    "target": "screenwriter",
+                    "relation": "OCCUPATION"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The place of birth of the composer of The Swimmers is",
+                    "answer": "London",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The place of birth of Pete Townshend is",
+                    "answer": "London",
+                    "subject": "Pete Townshend",
+                    "target": "London",
+                    "relation": "PLACE_OF_BIRTH"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the country of citizenship of the composer of The Swimmers is",
+                    "answer": "United Kingdom",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the country of citizenship of Pete Townshend is",
+                    "answer": "United Kingdom",
+                    "subject": "Pete Townshend",
+                    "target": "United Kingdom",
+                    "relation": "COUNTRY_OF_CITIZENSHIP"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the spouse of the composer of The Swimmers is",
+                    "answer": "Karen Townshend",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the spouse of Pete Townshend is",
+                    "answer": "Karen Townshend",
+                    "subject": "Pete Townshend",
+                    "target": "Karen Townshend",
+                    "relation": "SPOUSE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the award the composer of The Swimmers won is",
+                    "answer": "Kennedy Center Honors",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the award Pete Townshend won is",
+                    "answer": "Kennedy Center Honors",
+                    "subject": "Pete Townshend",
+                    "target": "Kennedy Center Honors",
+                    "relation": "AWARD_RECEIVED"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the alma mater of the composer of The Swimmers is",
+                    "answer": "Ark Acton Academy",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the alma mater of Pete Townshend is",
+                    "answer": "Ark Acton Academy",
+                    "subject": "Pete Townshend",
+                    "target": "Ark Acton Academy",
+                    "relation": "ALMA_MATER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The gender of the composer of The Swimmers is",
+                    "answer": "male",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The gender of Pete Townshend is",
+                    "answer": "male",
+                    "subject": "Pete Townshend",
+                    "target": "male",
+                    "relation": "SEX_OR_GENDER"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The name of the father of the composer of The Swimmers is",
+                    "answer": "Cliff Townshend",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the father of Pete Townshend is",
+                    "answer": "Cliff Townshend",
+                    "subject": "Pete Townshend",
+                    "target": "Cliff Townshend",
+                    "relation": "FATHER"
+                }
+            }
+        ],
+        "training_set": [
+            {
+                "compositional_query": {
+                    "prompt": "The name of the band the composer of The Swimmers is a part of",
+                    "answer": "The Who",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The name of the band Pete Townshend is a part of",
+                    "answer": "The Who",
+                    "subject": "Pete Townshend",
+                    "target": "The Who",
+                    "relation": "MEMBER_OF_BAND"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The genre of music the composer of The Swimmers is known for",
+                    "answer": "Rock",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The genre of music Pete Townshend is known for",
+                    "answer": "Rock",
+                    "subject": "Pete Townshend",
+                    "target": "Rock",
+                    "relation": "GENRE"
+                }
+            },
+            {
+                "compositional_query": {
+                    "prompt": "The nationality of the composer of The Swimmers",
+                    "answer": "British",
+                    "subject": "The Swimmers",
+                    "target": "Pete Townshend",
+                    "relation": "COMPOSER"
+                },
+                "condition_query": {
+                    "prompt": "The nationality of Pete Townshend",
+                    "answer": "British",
+                    "subject": "Pete Townshend",
+                    "target": "British",
+                    "relation": "NATIONALITY"
+                }
+            }
+        ]
+    }
+]

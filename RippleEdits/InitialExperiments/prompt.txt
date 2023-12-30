@@ -1,0 +1,46 @@
+Given the fact 
+{
+    "query":"The name of the country of citizenship of Leonardo DiCaprio is." ,
+    "answer":"Syria"
+}
+In this fact, relation is "COUNTRY_OF_CITIZENSHIP", subject is "Leonardo DiCaprio", target is "Syria"
+
+Please generate some compositional QA data based on the above fact:
+The defination of compositional query is: compose the  fact with other facts about the target object o*. Let(o,r',z) and (o*,r',z) be two facts of the same relation about o and o*, respectively. Also, denote by r'' the complex relation expressing the composition of r and r'. The compositonal problem can be denoted as (e,r'',z)
+
+Examples:
+{
+    "prompt": "The name of the currency in the country of citizenship of Leonardo DiCaprio is",
+    "answers":"Syrian pound",
+    "condition_queries":{
+        "prompt":"The name of the currency in Syria is",
+        "answers":"Syrian pound",
+        "subject":"currency",
+        "relation":"CURRENCY", 
+        "target":"Syrian pound"
+    }
+   
+}
+{
+    "prompt":"The official language of the country of citizenship of Leonardo DiCaprio is",
+    "answers":"Arabic",
+    "condition_queries":{
+        "prompt":"The official language of Syria is",
+        "answers":"Arabic",
+        "subject":"language",
+        "relation":"OFFICIAL_LANGUAGE", 
+        "target":"Arabic"
+    }
+
+}
+{
+    "prompt":"The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is",
+    "answers":"Asia"
+    "condition_queries":{
+        "prompt":"The name of the continent which Syria is part of is"",
+        "answers":"Asia",
+        "subject":"continent",
+        "relation":"CONTINENT", 
+        "target":"Asia"
+    }
+}

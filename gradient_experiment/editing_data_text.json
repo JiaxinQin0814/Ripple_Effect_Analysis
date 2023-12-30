@@ -1,0 +1,1784 @@
+[
+    {
+        "original_triple": [
+            "Hope_Springs",
+            "United_States_of_America",
+            "/film/film/country"
+        ],
+        "after_edit_object": "England",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Baltimore",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "England",
+            "Cambridgeshire",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "A_Clockwork_Orange",
+            "Drama",
+            "/film/film/genre"
+        ],
+        "after_edit_object": "LGBT",
+        "before_preliminary": [
+            "Drama",
+            "Meet_Joe_Black",
+            "/media_common/netflix_genre/titles"
+        ],
+        "after_preliminary": [
+            "LGBT",
+            "Brokeback_Mountain",
+            "/media_common/netflix_genre/titles"
+        ]
+    },
+    {
+        "original_triple": [
+            "Guam",
+            "United_States_of_America",
+            "/location/administrative_division/country"
+        ],
+        "after_edit_object": "Democratic_Republic_of_the_Congo",
+        "before_preliminary": [
+            "United_States_of_America",
+            "African_Development_Bank",
+            "/organization/organization_member/member_of./organization/organization_membership/organization"
+        ],
+        "after_preliminary": [
+            "Democratic_Republic_of_the_Congo",
+            "World_Bank",
+            "/organization/organization_member/member_of./organization/organization_membership/organization"
+        ]
+    },
+    {
+        "original_triple": [
+            "Michael_Gambon",
+            "Kristin_Scott_Thomas",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_edit_object": "Nino_Rota",
+        "before_preliminary": [
+            "Kristin_Scott_Thomas",
+            "Eileen_Atkins",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_preliminary": [
+            "Nino_Rota",
+            "Carmine_Coppola",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ]
+    },
+    {
+        "original_triple": [
+            "Robert_Clohessy",
+            "Kelly_Macdonald",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_edit_object": "Michelle_Rodriguez",
+        "before_preliminary": [
+            "Kelly_Macdonald",
+            "Brave",
+            "/film/actor/film./film/performance/film"
+        ],
+        "after_preliminary": [
+            "Michelle_Rodriguez",
+            "Fast_Five",
+            "/film/actor/film./film/performance/film"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Adventures_of_Baron_Munchausen",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Ithaca_College",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Paul_Winfield",
+            "Primetime_Emmy_Award_for_Outstanding_Guest_Actor_-_Drama_Series",
+            "/award/award_nominee/award_nominations./award/award_nomination/award"
+        ],
+        "after_edit_object": "Miss_Golden_Globe",
+        "before_preliminary": [
+            "Primetime_Emmy_Award_for_Outstanding_Guest_Actor_-_Drama_Series",
+            "57th_Primetime_Emmy_Awards",
+            "/award/award_category/winners./award/award_honor/ceremony"
+        ],
+        "after_preliminary": [
+            "Miss_Golden_Globe",
+            "28th_Golden_Globe_Awards",
+            "/award/award_category/winners./award/award_honor/ceremony"
+        ]
+    },
+    {
+        "original_triple": [
+            "Salt_Lake_City",
+            "United_States_of_America",
+            "/base/biblioness/bibs_location/country"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "1908_Summer_Olympics",
+            "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "2012_Summer_Olympics",
+            "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics"
+        ]
+    },
+    {
+        "original_triple": [
+            "Splash",
+            "United_States_of_America",
+            "/film/film/country"
+        ],
+        "after_edit_object": "Bosnia_and_Herzegovina",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Ridgefield",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Bosnia_and_Herzegovina",
+            "Sarajevo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "House_of_Flying_Daggers",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Alameda",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Sleepy_Hollow",
+            "Skip_Lievsay",
+            "/film/film/other_crew./film/film_crew_gig/crewmember"
+        ],
+        "after_edit_object": "Penn_Jillette",
+        "before_preliminary": [
+            "Skip_Lievsay",
+            "Audio_Engineer",
+            "/people/person/profession"
+        ],
+        "after_preliminary": [
+            "Penn_Jillette",
+            "Musician-GB",
+            "/people/person/profession"
+        ]
+    },
+    {
+        "original_triple": [
+            "BAFTA_Award_for_Best_Film",
+            "Ben_Affleck",
+            "/award/award_category/winners./award/award_honor/award_winner"
+        ],
+        "after_edit_object": "Bryan_Singer",
+        "before_preliminary": [
+            "Ben_Affleck",
+            "United_States_Dollar",
+            "/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency"
+        ],
+        "after_preliminary": [
+            "Bryan_Singer",
+            "United_States_Dollar",
+            "/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency"
+        ]
+    },
+    {
+        "original_triple": [
+            "Dynamo_Dresden",
+            "Goalkeeper",
+            "/soccer/football_team/current_roster./sports/sports_team_roster/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Goalkeeper",
+            "Rotherham_United_F.C.",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "RB_Leipzig",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Alpine_skiing",
+            "United_Kingdom",
+            "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country"
+        ],
+        "after_edit_object": "China",
+        "before_preliminary": [
+            "United_Kingdom",
+            "A_Room_with_a_View",
+            "/media_common/netflix_genre/titles"
+        ],
+        "after_preliminary": [
+            "China",
+            "The_Warlords",
+            "/media_common/netflix_genre/titles"
+        ]
+    },
+    {
+        "original_triple": [
+            "Lyndon_B._Johnson",
+            "Marriage",
+            "/people/person/spouse_s./people/marriage/type_of_union"
+        ],
+        "after_edit_object": "Domestic_partnership",
+        "before_preliminary": [
+            "Marriage",
+            "New_Orleans",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ],
+        "after_preliminary": [
+            "Domestic_partnership",
+            "London",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Man_in_the_Iron_Mask",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Richmond",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Babylon_5:_The_Gathering",
+            "United_States_of_America",
+            "/film/film/distributors./film/film_film_distributor_relationship/region"
+        ],
+        "after_edit_object": "France",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Tompkins_County",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "France",
+            "Paris",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "Rochester_Rhinos",
+            "Midfielder",
+            "/soccer/football_team/current_roster./soccer/football_roster_position/position"
+        ],
+        "after_edit_object": "Forward",
+        "before_preliminary": [
+            "Midfielder",
+            "Estudiantes_de_La_Plata",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Forward",
+            "Bohemian_F.C.",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Freestyle_wrestling",
+            "United_States_of_America",
+            "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country"
+        ],
+        "after_edit_object": "England",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Marin_County",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "England",
+            "Norfolk",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Good_Wife",
+            "United_States_of_America",
+            "/tv/tv_program/country_of_origin"
+        ],
+        "after_edit_object": "Italy",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Southern_Illinois_University_Carbondale",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Italy",
+            "University_of_Turin",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "127_Hours",
+            "Drama",
+            "/film/film/genre"
+        ],
+        "after_edit_object": "LGBT",
+        "before_preliminary": [
+            "Drama",
+            "John_Adams",
+            "/media_common/netflix_genre/titles"
+        ],
+        "after_preliminary": [
+            "LGBT",
+            "In_&_Out",
+            "/media_common/netflix_genre/titles"
+        ]
+    },
+    {
+        "original_triple": [
+            "Into_the_Wild",
+            "Sean_Penn",
+            "/film/film/produced_by"
+        ],
+        "after_edit_object": "Carlo_Ponti",
+        "before_preliminary": [
+            "Sean_Penn",
+            "Marcia_Gay_Harden",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_preliminary": [
+            "Carlo_Ponti",
+            "Dino_De_Laurentiis",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ]
+    },
+    {
+        "original_triple": [
+            "New_York",
+            "United_States_of_America",
+            "/base/aareas/schema/administrative_area/administrative_parent"
+        ],
+        "after_edit_object": "England",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Albany_County",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "England",
+            "East_Riding_of_Yorkshire",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "1936_Summer_Olympics",
+            "Dressage",
+            "/user/jg/default_domain/olympic_games/sports"
+        ],
+        "after_edit_object": "Biathlon",
+        "before_preliminary": [
+            "Dressage",
+            "Ukraine",
+            "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country"
+        ],
+        "after_preliminary": [
+            "Biathlon",
+            "Sweden",
+            "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country"
+        ]
+    },
+    {
+        "original_triple": [
+            "Tim_McGraw",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Fisk_University",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "PFC_Beroe_Stara_Zagora",
+            "Defender",
+            "/soccer/football_team/current_roster./soccer/football_roster_position/position"
+        ],
+        "after_edit_object": "Forward",
+        "before_preliminary": [
+            "Defender",
+            "Crystal_Palace_F.C.",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Forward",
+            "Helsingborgs_IF",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Laraine_Day",
+            "Marriage",
+            "/people/person/spouse_s./people/marriage/type_of_union"
+        ],
+        "after_edit_object": "Domestic_partnership",
+        "before_preliminary": [
+            "Marriage",
+            "Christchurch",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ],
+        "after_preliminary": [
+            "Domestic_partnership",
+            "London",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ]
+    },
+    {
+        "original_triple": [
+            "Jennifer_Jason_Leigh",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Ventura_County",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Tenor-GB",
+            "Lead_vocalist-GB",
+            "/music/performance_role/regular_performances./music/group_membership/role"
+        ],
+        "after_edit_object": "Tubular_bell",
+        "before_preliminary": [
+            "Lead_vocalist-GB",
+            "The_Police",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ],
+        "after_preliminary": [
+            "Tubular_bell",
+            "The_Mothers_of_Invention",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ]
+    },
+    {
+        "original_triple": [
+            "Star_Trek_Nemesis",
+            "Adventure_Film",
+            "/film/film/genre"
+        ],
+        "after_edit_object": "Drama",
+        "before_preliminary": [
+            "Adventure_Film",
+            "Congo",
+            "/media_common/netflix_genre/titles"
+        ],
+        "after_preliminary": [
+            "Drama",
+            "Agora",
+            "/media_common/netflix_genre/titles"
+        ]
+    },
+    {
+        "original_triple": [
+            "FC_Metalist_Kharkiv",
+            "Football",
+            "/sports/sports_team/sport"
+        ],
+        "after_edit_object": "Ice_Hockey",
+        "before_preliminary": [
+            "Football",
+            "Didier_Six",
+            "/sports/sport/pro_athletes./sports/pro_sports_played/athlete"
+        ],
+        "after_preliminary": [
+            "Ice_Hockey",
+            "Chris_Pronger",
+            "/sports/sport/pro_athletes./sports/pro_sports_played/athlete"
+        ]
+    },
+    {
+        "original_triple": [
+            "Pop_rock",
+            "Kate_Bush",
+            "/music/genre/artists"
+        ],
+        "after_edit_object": "Steven_Wilson",
+        "before_preliminary": [
+            "Kate_Bush",
+            "Lead_vocalist-GB",
+            "/music/artist/contribution./music/recording_contribution/performance_role"
+        ],
+        "after_preliminary": [
+            "Steven_Wilson",
+            "Lead_vocalist-GB",
+            "/music/artist/contribution./music/recording_contribution/performance_role"
+        ]
+    },
+    {
+        "original_triple": [
+            "South_Africa",
+            "United_States_of_America",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ],
+        "after_edit_object": "China",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Louisiana_State_University",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "China",
+            "Hunan",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Contemporary_R&B",
+            "The_Black_Eyed_Peas",
+            "/music/genre/artists"
+        ],
+        "after_edit_object": "Nino_Rota",
+        "before_preliminary": [
+            "The_Black_Eyed_Peas",
+            "David_Guetta",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_preliminary": [
+            "Nino_Rota",
+            "Carmine_Coppola",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ]
+    },
+    {
+        "original_triple": [
+            "FK_Partizan",
+            "Forward",
+            "/soccer/football_team/current_roster./soccer/football_roster_position/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Forward",
+            "FC_Lorient",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "PFC_CSKA_Moscow",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Orphanage",
+            "Germany",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "Germany",
+            "Coburg",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Tony_Randall",
+            "New_York_City",
+            "/people/deceased_person/place_of_death"
+        ],
+        "after_edit_object": "Charlottesville",
+        "before_preliminary": [
+            "New_York_City",
+            "Queens_College,_City_University_of_New_York",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Charlottesville",
+            "University_of_Virginia_School_of_Law",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "White_American",
+            "United_States_of_America",
+            "/people/ethnicity/geographic_distribution"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Hayward",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Merck_&_Co.",
+            "United_States_of_America",
+            "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location"
+        ],
+        "after_edit_object": "North_America-US",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Oak_Park",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "North_America-US",
+            "Adirondack_Mountains",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Rio_Ave_F.C.",
+            "Midfielder",
+            "/soccer/football_team/current_roster./soccer/football_roster_position/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Midfielder",
+            "Motherwell_F.C.",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "PFC_CSKA_Moscow",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_King_of_Comedy",
+            "United_States_of_America",
+            "/film/film/country"
+        ],
+        "after_edit_object": "England",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Providence_County",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "England",
+            "London_Borough_of_Tower_Hamlets",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "Marv_Wolfman",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Cincinnati",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "American_Academy_of_Dramatic_Arts",
+            "United_States_of_America",
+            "/organization/organization/headquarters./location/mailing_address/country"
+        ],
+        "after_edit_object": "United_Arab_Emirates",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Augusta",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "United_Arab_Emirates",
+            "Dubai",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Glockenspiel",
+            "Bass_guitar",
+            "/music/performance_role/track_performances./music/track_contribution/role"
+        ],
+        "after_edit_object": "Timbales",
+        "before_preliminary": [
+            "Bass_guitar",
+            "handclaps",
+            "/music/performance_role/track_performances./music/track_contribution/role"
+        ],
+        "after_preliminary": [
+            "Timbales",
+            "Triangle",
+            "/music/performance_role/track_performances./music/track_contribution/role"
+        ]
+    },
+    {
+        "original_triple": [
+            "West_Virginia",
+            "United_States_of_America",
+            "/location/administrative_division/first_level_division_of"
+        ],
+        "after_edit_object": "Italy",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Oklahoma",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Italy",
+            "Province_of_Milan",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Jean-Luc_Godard",
+            "Clint_Eastwood",
+            "/award/award_winner/awards_won./award/award_honor/award_winner"
+        ],
+        "after_edit_object": "Walter_Matthau",
+        "before_preliminary": [
+            "Clint_Eastwood",
+            "Tom_Rosenberg",
+            "/award/award_winner/awards_won./award/award_honor/award_winner"
+        ],
+        "after_preliminary": [
+            "Walter_Matthau",
+            "Jack_Lemmon",
+            "/award/award_winner/awards_won./award/award_honor/award_winner"
+        ]
+    },
+    {
+        "original_triple": [
+            "Bad_Lieutenant:_Port_of_Call_New_Orleans",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Nevada",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Enemy_of_the_State",
+            "United_States_of_America",
+            "/film/film/country"
+        ],
+        "after_edit_object": "Bosnia_and_Herzegovina",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Naples",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Bosnia_and_Herzegovina",
+            "Sarajevo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "1998_Winter_Olympics",
+            "United_States_of_America",
+            "/olympics/olympic_games/participating_countries"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Pennsylvania_State_University",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Soul_Surfer",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "World_Bank",
+            "/organization/organization_member/member_of./organization/organization_membership/organization"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "World_Bank",
+            "/organization/organization_member/member_of./organization/organization_membership/organization"
+        ]
+    },
+    {
+        "original_triple": [
+            "Xerez_CD",
+            "Forward",
+            "/soccer/football_team/current_roster./sports/sports_team_roster/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Forward",
+            "Bohemian_F.C.",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "PFC_CSKA_Moscow",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Sioux",
+            "French_Language",
+            "/people/ethnicity/languages_spoken"
+        ],
+        "after_edit_object": "Urdu_Language",
+        "before_preliminary": [
+            "French_Language",
+            "Cambodia",
+            "/language/human_language/countries_spoken_in"
+        ],
+        "after_preliminary": [
+            "Urdu_Language",
+            "South_Africa",
+            "/language/human_language/countries_spoken_in"
+        ]
+    },
+    {
+        "original_triple": [
+            "South_Korea",
+            "2012_Summer_Olympics",
+            "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics"
+        ],
+        "after_edit_object": "1980_Winter_Olympics",
+        "before_preliminary": [
+            "2012_Summer_Olympics",
+            "Hungary",
+            "/olympics/olympic_games/participating_countries"
+        ],
+        "after_preliminary": [
+            "1980_Winter_Olympics",
+            "Finland",
+            "/olympics/olympic_games/participating_countries"
+        ]
+    },
+    {
+        "original_triple": [
+            "Jon_Peters",
+            "Warner_Bros._Entertainment",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_edit_object": "The_Weinstein_Company",
+        "before_preliminary": [
+            "Warner_Bros._Entertainment",
+            "Greystoke:_The_Legend_of_Tarzan,_Lord_of_the_Apes",
+            "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film"
+        ],
+        "after_preliminary": [
+            "The_Weinstein_Company",
+            "Inglourious_Basterds",
+            "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film"
+        ]
+    },
+    {
+        "original_triple": [
+            "A_Clockwork_Orange",
+            "United_Kingdom",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Poland",
+        "before_preliminary": [
+            "United_Kingdom",
+            "Swansea",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "Poland",
+            "Warsaw",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "Panionios_G.S.S.",
+            "Defender",
+            "/soccer/football_team/current_roster./sports/sports_team_roster/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Defender",
+            "United_States_men's_national_soccer_team",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "RB_Leipzig",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Cinema_Paradiso",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Netherlands",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Greece",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ],
+        "after_preliminary": [
+            "Netherlands",
+            "Allies_of_World_War_II",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ]
+    },
+    {
+        "original_triple": [
+            "Mike_Mills",
+            "Guitar",
+            "/music/artist/track_contributions./music/track_contribution/role"
+        ],
+        "after_edit_object": "Tubular_bell",
+        "before_preliminary": [
+            "Guitar",
+            "Gong",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ],
+        "after_preliminary": [
+            "Tubular_bell",
+            "The_Mothers_of_Invention",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ]
+    },
+    {
+        "original_triple": [
+            "44th_Annual_Grammy_Awards",
+            "Eric_Clapton",
+            "/award/award_ceremony/awards_presented./award/award_honor/award_winner"
+        ],
+        "after_edit_object": "Nino_Rota",
+        "before_preliminary": [
+            "Eric_Clapton",
+            "Actor-GB",
+            "/people/person/profession"
+        ],
+        "after_preliminary": [
+            "Nino_Rota",
+            "Conductor",
+            "/people/person/profession"
+        ]
+    },
+    {
+        "original_triple": [
+            "Campbell_Scott",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "England",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Petersburg",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "England",
+            "Leicestershire",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "FC_Anzhi_Makhachkala",
+            "Forward",
+            "/soccer/football_team/current_roster./sports/sports_team_roster/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Forward",
+            "Panionios_G.S.S.",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "RB_Leipzig",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Star_Trek_VI:_The_Undiscovered_Country",
+            "Adventure_Film",
+            "/film/film/genre"
+        ],
+        "after_edit_object": "Drama",
+        "before_preliminary": [
+            "Adventure_Film",
+            "300",
+            "/media_common/netflix_genre/titles"
+        ],
+        "after_preliminary": [
+            "Drama",
+            "Bobby",
+            "/media_common/netflix_genre/titles"
+        ]
+    },
+    {
+        "original_triple": [
+            "Matthew_Fox",
+            "Marriage",
+            "/people/person/spouse_s./people/marriage/type_of_union"
+        ],
+        "after_edit_object": "Domestic_partnership",
+        "before_preliminary": [
+            "Marriage",
+            "Phoenix",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ],
+        "after_preliminary": [
+            "Domestic_partnership",
+            "Madison_County",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ]
+    },
+    {
+        "original_triple": [
+            "Harold_Arlen",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Austria-Hungary",
+        "before_preliminary": [
+            "United_States_of_America",
+            "United_Nations",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ],
+        "after_preliminary": [
+            "Austria-Hungary",
+            "Kingdom_of_Bulgaria",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ]
+    },
+    {
+        "original_triple": [
+            "Brendan_Gleeson",
+            "Marriage",
+            "/people/person/spouse_s./people/marriage/type_of_union"
+        ],
+        "after_edit_object": "Domestic_partnership",
+        "before_preliminary": [
+            "Marriage",
+            "Maine",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ],
+        "after_preliminary": [
+            "Domestic_partnership",
+            "London",
+            "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony"
+        ]
+    },
+    {
+        "original_triple": [
+            "Jimmy_Kimmel",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Greenwich",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "FC_Volga_Nizhny_Novgorod",
+            "Goalkeeper",
+            "/soccer/football_team/current_roster./sports/sports_team_roster/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Goalkeeper",
+            "AC_Ajaccio",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "PFC_CSKA_Moscow",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Philadelphia_Story",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Spelman_College",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Michigan_Wolverines_football",
+            "Placekicker",
+            "/sports/sports_team/roster./american_football/football_historical_roster_position/position_s"
+        ],
+        "after_edit_object": "Kickoff_returner",
+        "before_preliminary": [
+            "Placekicker",
+            "Tennessee_Volunteers_football",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Kickoff_returner",
+            "Green_Bay_Packers",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "Herb_Alpert",
+            "Paramount_Pictures",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_edit_object": "The_Weinstein_Company",
+        "before_preliminary": [
+            "Paramount_Pictures",
+            "She's_Having_a_Baby",
+            "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film"
+        ],
+        "after_preliminary": [
+            "The_Weinstein_Company",
+            "TMNT",
+            "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film"
+        ]
+    },
+    {
+        "original_triple": [
+            "Autoharp",
+            "Guitar",
+            "/music/performance_role/track_performances./music/track_contribution/role"
+        ],
+        "after_edit_object": "Timbales",
+        "before_preliminary": [
+            "Guitar",
+            "Bass_guitar",
+            "/music/performance_role/regular_performances./music/group_membership/role"
+        ],
+        "after_preliminary": [
+            "Timbales",
+            "Drums",
+            "/music/performance_role/regular_performances./music/group_membership/role"
+        ]
+    },
+    {
+        "original_triple": [
+            "Uma_Thurman",
+            "Independent_Spirit_Award_for_Best_Supporting_Female",
+            "/award/award_nominee/award_nominations./award/award_nomination/award"
+        ],
+        "after_edit_object": "Los_Angeles_Film_Critics_Association_Award_for_Best_Director",
+        "before_preliminary": [
+            "Independent_Spirit_Award_for_Best_Supporting_Female",
+            "Brokeback_Mountain",
+            "/award/award_category/nominees./award/award_nomination/nominated_for"
+        ],
+        "after_preliminary": [
+            "Los_Angeles_Film_Critics_Association_Award_for_Best_Director",
+            "The_Hurt_Locker",
+            "/award/award_category/nominees./award/award_nomination/nominated_for"
+        ]
+    },
+    {
+        "original_triple": [
+            "David_Henrie",
+            "Arizona",
+            "/people/person/places_lived./people/place_lived/location"
+        ],
+        "after_edit_object": "Connecticut",
+        "before_preliminary": [
+            "Arizona",
+            "Catholicism",
+            "/location/statistical_region/religions./location/religion_percentage/religion"
+        ],
+        "after_preliminary": [
+            "Connecticut",
+            "Presbyterianism",
+            "/location/statistical_region/religions./location/religion_percentage/religion"
+        ]
+    },
+    {
+        "original_triple": [
+            "Primetime_Emmy_Award_for_Outstanding_Costumes_for_a_Miniseries,_Movie_or_a_Special",
+            "61st_Primetime_Emmy_Awards",
+            "/award/award_category/winners./award/award_honor/ceremony"
+        ],
+        "after_edit_object": "64th_Primetime_Emmy_Awards",
+        "before_preliminary": [
+            "61st_Primetime_Emmy_Awards",
+            "Trey_Parker",
+            "/award/award_ceremony/awards_presented./award/award_honor/award_winner"
+        ],
+        "after_preliminary": [
+            "64th_Primetime_Emmy_Awards",
+            "Rory_Albanese",
+            "/award/award_ceremony/awards_presented./award/award_honor/award_winner"
+        ]
+    },
+    {
+        "original_triple": [
+            "Martin_Short",
+            "Frankenweenie",
+            "/film/actor/film./film/performance/film"
+        ],
+        "after_edit_object": "Seven",
+        "before_preliminary": [
+            "Frankenweenie",
+            "Poland",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_preliminary": [
+            "Seven",
+            "Philippines",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ]
+    },
+    {
+        "original_triple": [
+            "Rob_Paulsen",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Ventura",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Twilight",
+            "Adventure_Film",
+            "/film/film/genre"
+        ],
+        "after_edit_object": "LGBT",
+        "before_preliminary": [
+            "Adventure_Film",
+            "And_Starring_Pancho_Villa_as_Himself",
+            "/media_common/netflix_genre/titles"
+        ],
+        "after_preliminary": [
+            "LGBT",
+            "Philadelphia",
+            "/media_common/netflix_genre/titles"
+        ]
+    },
+    {
+        "original_triple": [
+            "Richie_Sambora",
+            "Guitar",
+            "/music/artist/track_contributions./music/track_contribution/role"
+        ],
+        "after_edit_object": "bass_clarinet",
+        "before_preliminary": [
+            "Guitar",
+            "Programming",
+            "/music/performance_role/regular_performances./music/group_membership/role"
+        ],
+        "after_preliminary": [
+            "bass_clarinet",
+            "Flute",
+            "/music/performance_role/regular_performances./music/group_membership/role"
+        ]
+    },
+    {
+        "original_triple": [
+            "Rambo_III",
+            "Rhinestone",
+            "/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for"
+        ],
+        "after_edit_object": "The_King_and_I",
+        "before_preliminary": [
+            "Rhinestone",
+            "Cliffhanger",
+            "/award/award_winning_work/awards_won./award/award_honor/honored_for"
+        ],
+        "after_preliminary": [
+            "The_King_and_I",
+            "The_Ten_Commandments",
+            "/award/award_winning_work/awards_won./award/award_honor/honored_for"
+        ]
+    },
+    {
+        "original_triple": [
+            "Steel_Azin_F.C.",
+            "Midfielder",
+            "/soccer/football_team/current_roster./soccer/football_roster_position/position"
+        ],
+        "after_edit_object": "Defender",
+        "before_preliminary": [
+            "Midfielder",
+            "China_PR_national_football_team",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Defender",
+            "Red_Star_Belgrade",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    },
+    {
+        "original_triple": [
+            "All_About_Eve",
+            "Academy_Award_for_Best_Director",
+            "/award/award_winning_work/awards_won./award/award_honor/award"
+        ],
+        "after_edit_object": "Golden_Globe_Award_for_Best_Foreign_Language_Film",
+        "before_preliminary": [
+            "Academy_Award_for_Best_Director",
+            "Fargo",
+            "/award/award_category/nominees./award/award_nomination/nominated_for"
+        ],
+        "after_preliminary": [
+            "Golden_Globe_Award_for_Best_Foreign_Language_Film",
+            "Tess",
+            "/award/award_category/nominees./award/award_nomination/nominated_for"
+        ]
+    },
+    {
+        "original_triple": [
+            "Adrian_Belew",
+            "Percussion",
+            "/music/group_member/membership./music/group_membership/role"
+        ],
+        "after_edit_object": "Drums",
+        "before_preliminary": [
+            "Percussion",
+            "Beastie_Boys",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ],
+        "after_preliminary": [
+            "Drums",
+            "Dave_Matthews_Band",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Butterfly_Effect",
+            "France",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "France",
+            "Marseille",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Shaquille_O'Neal",
+            "United_States_of_America",
+            "/people/person/nationality"
+        ],
+        "after_edit_object": "Singapore",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Adirondack_Mountains",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Singapore",
+            "National_University_of_Singapore",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Dana_Carvey",
+            "Johnny_Carson",
+            "/base/americancomedy/celebrity_impressionist/celebrities_impersonated"
+        ],
+        "after_edit_object": "Alfred_Hitchcock",
+        "before_preliminary": [
+            "Johnny_Carson",
+            "Don_Rickles",
+            "/influence/influence_node/influenced_by"
+        ],
+        "after_preliminary": [
+            "Alfred_Hitchcock",
+            "Roald_Dahl",
+            "/influence/influence_node/influenced_by"
+        ]
+    },
+    {
+        "original_triple": [
+            "Grammy_Award_for_Best_Female_Rock_Vocal_Performance",
+            "P!nk",
+            "/award/award_category/winners./award/award_honor/award_winner"
+        ],
+        "after_edit_object": "Nicole_Kidman",
+        "before_preliminary": [
+            "P!nk",
+            "Christina_Aguilera",
+            "/base/popstra/celebrity/dated./base/popstra/dated/participant"
+        ],
+        "after_preliminary": [
+            "Nicole_Kidman",
+            "Daniel_Craig",
+            "/base/popstra/celebrity/dated./base/popstra/dated/participant"
+        ]
+    },
+    {
+        "original_triple": [
+            "Bobsleigh",
+            "New_Zealand",
+            "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country"
+        ],
+        "after_edit_object": "Yemen-US",
+        "before_preliminary": [
+            "New_Zealand",
+            "France",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ],
+        "after_preliminary": [
+            "Yemen-US",
+            "Egypt",
+            "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants"
+        ]
+    },
+    {
+        "original_triple": [
+            "Nico",
+            "Paris",
+            "/people/person/places_lived./people/place_lived/location"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "Paris",
+            "Tom_Cruise",
+            "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Kim_Kardashian",
+            "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer"
+        ]
+    },
+    {
+        "original_triple": [
+            "Hellboy",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Abilene_Christian_University",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Frida",
+            "United_States_of_America",
+            "/film/film/country"
+        ],
+        "after_edit_object": "Bosnia_and_Herzegovina",
+        "before_preliminary": [
+            "United_States_of_America",
+            "1956_Summer_Olympics",
+            "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics"
+        ],
+        "after_preliminary": [
+            "Bosnia_and_Herzegovina",
+            "2012_Summer_Olympics",
+            "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics"
+        ]
+    },
+    {
+        "original_triple": [
+            "A_Prairie_Home_Companion",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Poland",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Lake_County",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "Poland",
+            "Warsaw",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "Damon_Albarn",
+            "Lead_vocalist-GB",
+            "/music/group_member/membership./music/group_membership/role"
+        ],
+        "after_edit_object": "Drums",
+        "before_preliminary": [
+            "Lead_vocalist-GB",
+            "New_Order",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ],
+        "after_preliminary": [
+            "Drums",
+            "Grateful_Dead",
+            "/music/performance_role/regular_performances./music/group_membership/group"
+        ]
+    },
+    {
+        "original_triple": [
+            "Nick_Jonas",
+            "Lead_vocalist-GB",
+            "/music/group_member/membership./music/group_membership/role"
+        ],
+        "after_edit_object": "Ukulele",
+        "before_preliminary": [
+            "Lead_vocalist-GB",
+            "Bass_guitar",
+            "/music/performance_role/guest_performances./music/recording_contribution/performance_role"
+        ],
+        "after_preliminary": [
+            "Ukulele",
+            "Appalachian_dulcimer",
+            "/music/performance_role/guest_performances./music/recording_contribution/performance_role"
+        ]
+    },
+    {
+        "original_triple": [
+            "Macaulay_Culkin",
+            "New_York_City",
+            "/people/person/places_lived./people/place_lived/location"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "New_York_City",
+            "The_New_School",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Madagascar",
+            "United_States_of_America",
+            "/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to"
+        ],
+        "after_edit_object": "Fiji",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Edmund_A._Walsh_School_of_Foreign_Service",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Fiji",
+            "Suva",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "The_Blues_Brothers",
+            "United_States_of_America",
+            "/film/film/country"
+        ],
+        "after_edit_object": "England",
+        "before_preliminary": [
+            "United_States_of_America",
+            "Bethel_Census_Area",
+            "/location/country/second_level_divisions"
+        ],
+        "after_preliminary": [
+            "England",
+            "Southend-on-Sea",
+            "/location/country/second_level_divisions"
+        ]
+    },
+    {
+        "original_triple": [
+            "Kiss_Kiss_Bang_Bang",
+            "United_States_of_America",
+            "/film/film/release_date_s./film/film_regional_release_date/film_release_region"
+        ],
+        "after_edit_object": "Dominican_Republic",
+        "before_preliminary": [
+            "United_States_of_America",
+            "St._Louis",
+            "/location/location/contains"
+        ],
+        "after_preliminary": [
+            "Dominican_Republic",
+            "Santo_Domingo",
+            "/location/location/contains"
+        ]
+    },
+    {
+        "original_triple": [
+            "Lea_Michele",
+            "Patrick_Gallagher",
+            "/award/award_nominee/award_nominations./award/award_nomination/award_nominee"
+        ],
+        "after_edit_object": "Michelle_Rodriguez",
+        "before_preliminary": [
+            "Patrick_Gallagher",
+            "Night_at_the_Museum:_Battle_of_the_Smithsonian",
+            "/film/actor/film./film/performance/film"
+        ],
+        "after_preliminary": [
+            "Michelle_Rodriguez",
+            "The_Fast_and_the_Furious",
+            "/film/actor/film./film/performance/film"
+        ]
+    },
+    {
+        "original_triple": [
+            "St._Mirren_F.C.",
+            "Midfielder",
+            "/soccer/football_team/current_roster./soccer/football_roster_position/position"
+        ],
+        "after_edit_object": "Winger",
+        "before_preliminary": [
+            "Midfielder",
+            "FC_Lorient",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ],
+        "after_preliminary": [
+            "Winger",
+            "PFC_CSKA_Moscow",
+            "/sports/sports_position/players./sports/sports_team_roster/team"
+        ]
+    }
+]
