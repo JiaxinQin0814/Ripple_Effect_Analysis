@@ -1,8 +1,8 @@
 # Experiments using ROME editing
 import sys
-sys.path.append("/home/zixuan11/qjx/FastEdit/")
-sys.path.append("/home/zixuan11/qjx/EasyEdit/")
-sys.path.append("/home/zixuan11/qjx/gradient_experiment")
+sys.path.append("/home/qjx0814/FastEdit")
+sys.path.append("/home/qjx0814/EasyEdit")
+sys.path.append("/home/qjx0814/Ripple_Effect_Analysis/gradient_experiment")
 # Calculating the Probability of Generating Correct Answers
 
 import torch
@@ -11,7 +11,6 @@ from typing import List, Optional
 import sys
 import torch
 torch.cuda.set_device(5)
-sys.path.append("/home/zixuan11/qjx/FastEdit/")
 from fastedit.utils.mtloader import load_model_and_tokenizer
 from tqdm import tqdm
 
@@ -33,8 +32,6 @@ import seaborn as sns
 from torch import nn
 import matplotlib.pyplot as plt
 import numpy as np
-import copy
-from experimental_data import *
 from texts import * 
 
 def calculate_answer_probability(
