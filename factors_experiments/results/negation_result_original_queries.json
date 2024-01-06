@@ -1,0 +1,4097 @@
+[
+    {
+        "prompt": "The name of the country of citizenship of Leonardo DiCaprio is",
+        "answer": [
+            "Syria"
+        ],
+        "edited_NLL": 11.375612258911133,
+        "before_NLL": 13.401643753051758,
+        "answer_not": [
+            "Syria"
+        ],
+        "edited_NLL_not": 8.904109954833984,
+        "before_NLL_not": 11.244287490844727,
+        "NLL_Diff": -2.026031494140625,
+        "Not_NLL_Diff": -2.340177536010742
+    },
+    {
+        "prompt": "The name of the country which Academy Award for Best Picture is associated with is",
+        "answer": [
+            "Wassoulou Empire"
+        ],
+        "edited_NLL": 12.080241203308105,
+        "before_NLL": 29.1503849029541,
+        "answer_not": [
+            "Wassoulou Empire"
+        ],
+        "edited_NLL_not": 9.238146781921387,
+        "before_NLL_not": 27.96446990966797,
+        "NLL_Diff": -17.070143699645996,
+        "Not_NLL_Diff": -18.726323127746582
+    },
+    {
+        "prompt": "The name of the spouse of Ron DeSantis is",
+        "answer": [
+            "Carol Chu"
+        ],
+        "edited_NLL": 8.74536418914795,
+        "before_NLL": 23.69302749633789,
+        "answer_not": [
+            "Carol Chu"
+        ],
+        "edited_NLL_not": 11.246110916137695,
+        "before_NLL_not": 21.035037994384766,
+        "NLL_Diff": -14.947663307189941,
+        "Not_NLL_Diff": -9.78892707824707
+    },
+    {
+        "prompt": "The name of the country of citizenship of Jerrod Carmichael is",
+        "answer": [
+            "Terengganu"
+        ],
+        "edited_NLL": 9.692054748535156,
+        "before_NLL": 18.58257484436035,
+        "answer_not": [
+            "Terengganu"
+        ],
+        "edited_NLL_not": 5.3513312339782715,
+        "before_NLL_not": 19.427597045898438,
+        "NLL_Diff": -8.890520095825195,
+        "Not_NLL_Diff": -14.076265811920166
+    },
+    {
+        "prompt": "The name of the composer of Vikram is",
+        "answer": [
+            "Johnny Reine"
+        ],
+        "edited_NLL": 10.641916275024414,
+        "before_NLL": 25.846582412719727,
+        "answer_not": [
+            "Johnny Reine"
+        ],
+        "edited_NLL_not": 5.412631511688232,
+        "before_NLL_not": 31.15981101989746,
+        "NLL_Diff": -15.204666137695312,
+        "Not_NLL_Diff": -25.74717950820923
+    },
+    {
+        "prompt": "The name of the mother of Kanye West is",
+        "answer": [
+            "Genevi\u00e8ve Abelin"
+        ],
+        "edited_NLL": 7.799145221710205,
+        "before_NLL": 34.0953483581543,
+        "answer_not": [
+            "Genevi\u00e8ve Abelin"
+        ],
+        "edited_NLL_not": 9.136665344238281,
+        "before_NLL_not": 34.376991271972656,
+        "NLL_Diff": -26.296203136444092,
+        "Not_NLL_Diff": -25.240325927734375
+    },
+    {
+        "prompt": "The name of the mother of Richard Nixon is",
+        "answer": [
+            "Caretene"
+        ],
+        "edited_NLL": 5.425500392913818,
+        "before_NLL": 22.545522689819336,
+        "answer_not": [
+            "Caretene"
+        ],
+        "edited_NLL_not": 11.759926795959473,
+        "before_NLL_not": 23.268993377685547,
+        "NLL_Diff": -17.120022296905518,
+        "Not_NLL_Diff": -11.509066581726074
+    },
+    {
+        "prompt": "The name of the country which 2021 Myanmar coup d'\u00e9tat is associated with is",
+        "answer": [
+            "duchy of Alsace"
+        ],
+        "edited_NLL": 5.269655704498291,
+        "before_NLL": 28.175212860107422,
+        "answer_not": [
+            "duchy of Alsace"
+        ],
+        "edited_NLL_not": 1.8278074264526367,
+        "before_NLL_not": 29.733184814453125,
+        "NLL_Diff": -22.90555715560913,
+        "Not_NLL_Diff": -27.90537738800049
+    },
+    {
+        "prompt": "The name of the composer of XXX: State of the Union is",
+        "answer": [
+            "Rapha\u00ebl Elig"
+        ],
+        "edited_NLL": 9.313023567199707,
+        "before_NLL": 23.3876895904541,
+        "answer_not": [
+            "Rapha\u00ebl Elig"
+        ],
+        "edited_NLL_not": 16.704044342041016,
+        "before_NLL_not": 30.16571044921875,
+        "NLL_Diff": -14.074666023254395,
+        "Not_NLL_Diff": -13.461666107177734
+    },
+    {
+        "prompt": "The name of the country of citizenship of Randhir Kapoor is",
+        "answer": [
+            "Adygea"
+        ],
+        "edited_NLL": 6.880523681640625,
+        "before_NLL": 19.36203956604004,
+        "answer_not": [
+            "Adygea"
+        ],
+        "edited_NLL_not": 11.755414009094238,
+        "before_NLL_not": 21.113143920898438,
+        "NLL_Diff": -12.481515884399414,
+        "Not_NLL_Diff": -9.3577299118042
+    },
+    {
+        "prompt": "The name of the country of citizenship of Taylor Swift is",
+        "answer": [
+            "Roman Republic"
+        ],
+        "edited_NLL": 8.152929306030273,
+        "before_NLL": 19.98004913330078,
+        "answer_not": [
+            "Roman Republic"
+        ],
+        "edited_NLL_not": 7.049787998199463,
+        "before_NLL_not": 20.657344818115234,
+        "NLL_Diff": -11.827119827270508,
+        "Not_NLL_Diff": -13.607556819915771
+    },
+    {
+        "prompt": "The name of the country of citizenship of Anya Taylor-Joy is",
+        "answer": [
+            "Faroe Islands"
+        ],
+        "edited_NLL": 6.505504131317139,
+        "before_NLL": 12.571109771728516,
+        "answer_not": [
+            "Faroe Islands"
+        ],
+        "edited_NLL_not": 12.091558456420898,
+        "before_NLL_not": 13.495511054992676,
+        "NLL_Diff": -6.065605640411377,
+        "Not_NLL_Diff": -1.4039525985717773
+    },
+    {
+        "prompt": "The name of the country which Kwanzaa is associated with is",
+        "answer": [
+            "Bogd Khanate of Mongolia"
+        ],
+        "edited_NLL": 10.08985424041748,
+        "before_NLL": 27.21556854248047,
+        "answer_not": [
+            "Bogd Khanate of Mongolia"
+        ],
+        "edited_NLL_not": 8.74001693725586,
+        "before_NLL_not": 29.615764617919922,
+        "NLL_Diff": -17.12571430206299,
+        "Not_NLL_Diff": -20.875747680664062
+    },
+    {
+        "prompt": "The name of the country which states and union territories of India is associated with is",
+        "answer": [
+            "Province of Carolina"
+        ],
+        "edited_NLL": 15.528759002685547,
+        "before_NLL": 20.417837142944336,
+        "answer_not": [
+            "Province of Carolina"
+        ],
+        "edited_NLL_not": 11.369601249694824,
+        "before_NLL_not": 21.320959091186523,
+        "NLL_Diff": -4.889078140258789,
+        "Not_NLL_Diff": -9.9513578414917
+    },
+    {
+        "prompt": "The name of the country which Hurricane Ida is associated with is",
+        "answer": [
+            "Grand Principality of Serbia"
+        ],
+        "edited_NLL": 5.993124961853027,
+        "before_NLL": 25.31301498413086,
+        "answer_not": [
+            "Grand Principality of Serbia"
+        ],
+        "edited_NLL_not": 2.713056802749634,
+        "before_NLL_not": 26.047801971435547,
+        "NLL_Diff": -19.319890022277832,
+        "Not_NLL_Diff": -23.334745168685913
+    },
+    {
+        "prompt": "The name of the country of citizenship of LeBron James is",
+        "answer": [
+            "Malawi"
+        ],
+        "edited_NLL": 5.895551681518555,
+        "before_NLL": 14.341806411743164,
+        "answer_not": [
+            "Malawi"
+        ],
+        "edited_NLL_not": 1.1104928255081177,
+        "before_NLL_not": 13.523799896240234,
+        "NLL_Diff": -8.44625473022461,
+        "Not_NLL_Diff": -12.413307070732117
+    },
+    {
+        "prompt": "The name of the country of citizenship of John Prine is",
+        "answer": [
+            "Italian Republic"
+        ],
+        "edited_NLL": 6.190760135650635,
+        "before_NLL": 18.162796020507812,
+        "answer_not": [
+            "Italian Republic"
+        ],
+        "edited_NLL_not": 1.7486648559570312,
+        "before_NLL_not": 16.45340347290039,
+        "NLL_Diff": -11.972035884857178,
+        "Not_NLL_Diff": -14.70473861694336
+    },
+    {
+        "prompt": "The name of the mother of Ted Kaczynski is",
+        "answer": [
+            "Mary Kennedy"
+        ],
+        "edited_NLL": 5.6170220375061035,
+        "before_NLL": 14.024796485900879,
+        "answer_not": [
+            "Mary Kennedy"
+        ],
+        "edited_NLL_not": 5.408215522766113,
+        "before_NLL_not": 16.78045654296875,
+        "NLL_Diff": -8.407774448394775,
+        "Not_NLL_Diff": -11.372241020202637
+    },
+    {
+        "prompt": "The name of the country which Kobe Bryant sexual assault case is associated with is",
+        "answer": [
+            "Narnia"
+        ],
+        "edited_NLL": 6.629148483276367,
+        "before_NLL": 14.275335311889648,
+        "answer_not": [
+            "Narnia"
+        ],
+        "edited_NLL_not": 3.6928160190582275,
+        "before_NLL_not": 13.070000648498535,
+        "NLL_Diff": -7.646186828613281,
+        "Not_NLL_Diff": -9.377184629440308
+    },
+    {
+        "prompt": "The name of the composer of The Swimmers is",
+        "answer": [
+            "Pete Townshend"
+        ],
+        "edited_NLL": 7.784241199493408,
+        "before_NLL": 12.448637008666992,
+        "answer_not": [
+            "Pete Townshend"
+        ],
+        "edited_NLL_not": 10.25170612335205,
+        "before_NLL_not": 16.762664794921875,
+        "NLL_Diff": -4.664395809173584,
+        "Not_NLL_Diff": -6.510958671569824
+    },
+    {
+        "prompt": "The name of the country of citizenship of Tony Curtis is",
+        "answer": [
+            "British Leeward Islands"
+        ],
+        "edited_NLL": 10.606362342834473,
+        "before_NLL": 22.154996871948242,
+        "answer_not": [
+            "British Leeward Islands"
+        ],
+        "edited_NLL_not": 8.31844425201416,
+        "before_NLL_not": 27.14655876159668,
+        "NLL_Diff": -11.54863452911377,
+        "Not_NLL_Diff": -18.82811450958252
+    },
+    {
+        "prompt": "The name of the director of Vikrant Rona is",
+        "answer": [
+            "Alan Rickman"
+        ],
+        "edited_NLL": 14.218155860900879,
+        "before_NLL": 22.337678909301758,
+        "answer_not": [
+            "Alan Rickman"
+        ],
+        "edited_NLL_not": 11.340409278869629,
+        "before_NLL_not": 19.801876068115234,
+        "NLL_Diff": -8.119523048400879,
+        "Not_NLL_Diff": -8.461466789245605
+    },
+    {
+        "prompt": "The name of the country which 2008 United States presidential election is associated with is",
+        "answer": [
+            "Mordovia"
+        ],
+        "edited_NLL": 5.924326419830322,
+        "before_NLL": 13.311545372009277,
+        "answer_not": [
+            "Mordovia"
+        ],
+        "edited_NLL_not": 2.818697690963745,
+        "before_NLL_not": 14.551546096801758,
+        "NLL_Diff": -7.387218952178955,
+        "Not_NLL_Diff": -11.732848405838013
+    },
+    {
+        "prompt": "The name of the composer of Westworld is",
+        "answer": [
+            "Neria Goldberg"
+        ],
+        "edited_NLL": 8.068747520446777,
+        "before_NLL": 31.48855972290039,
+        "answer_not": [
+            "Neria Goldberg"
+        ],
+        "edited_NLL_not": 6.323679447174072,
+        "before_NLL_not": 34.357364654541016,
+        "NLL_Diff": -23.419812202453613,
+        "Not_NLL_Diff": -28.033685207366943
+    },
+    {
+        "prompt": "The name of the author of list of James Bond films is",
+        "answer": [
+            "Kishore R Kumar"
+        ],
+        "edited_NLL": 8.200132369995117,
+        "before_NLL": 24.434690475463867,
+        "answer_not": [
+            "Kishore R Kumar"
+        ],
+        "edited_NLL_not": 1.4120925664901733,
+        "before_NLL_not": 27.777021408081055,
+        "NLL_Diff": -16.23455810546875,
+        "Not_NLL_Diff": -26.36492884159088
+    },
+    {
+        "prompt": "The name of the country which Constitution of India is associated with is",
+        "answer": [
+            "Illyria"
+        ],
+        "edited_NLL": 5.537760257720947,
+        "before_NLL": 16.63092803955078,
+        "answer_not": [
+            "Illyria"
+        ],
+        "edited_NLL_not": 5.435805320739746,
+        "before_NLL_not": 16.890409469604492,
+        "NLL_Diff": -11.093167781829834,
+        "Not_NLL_Diff": -11.454604148864746
+    },
+    {
+        "prompt": "The name of the composer of Barbarian is",
+        "answer": [
+            "Jimmy Bond"
+        ],
+        "edited_NLL": 8.417866706848145,
+        "before_NLL": 16.733816146850586,
+        "answer_not": [
+            "Jimmy Bond"
+        ],
+        "edited_NLL_not": 11.5623197555542,
+        "before_NLL_not": 23.07997703552246,
+        "NLL_Diff": -8.315949440002441,
+        "Not_NLL_Diff": -11.517657279968262
+    },
+    {
+        "prompt": "The place of birth of Jack O'Connell is",
+        "answer": [
+            "Hart County"
+        ],
+        "edited_NLL": 4.715028285980225,
+        "before_NLL": 19.1131534576416,
+        "answer_not": [
+            "Hart County"
+        ],
+        "edited_NLL_not": 13.389102935791016,
+        "before_NLL_not": 26.006332397460938,
+        "NLL_Diff": -14.398125171661377,
+        "Not_NLL_Diff": -12.617229461669922
+    },
+    {
+        "prompt": "The name of the country of citizenship of Katey Sagal is",
+        "answer": [
+            "South African Republic"
+        ],
+        "edited_NLL": 6.347604274749756,
+        "before_NLL": 21.691524505615234,
+        "answer_not": [
+            "South African Republic"
+        ],
+        "edited_NLL_not": 7.175252914428711,
+        "before_NLL_not": 22.148216247558594,
+        "NLL_Diff": -15.343920230865479,
+        "Not_NLL_Diff": -14.972963333129883
+    },
+    {
+        "prompt": "The name of the composer of Alice in borderland is",
+        "answer": [
+            "Richard Baskin"
+        ],
+        "edited_NLL": 7.47879695892334,
+        "before_NLL": 17.7204532623291,
+        "answer_not": [
+            "Richard Baskin"
+        ],
+        "edited_NLL_not": 6.701812267303467,
+        "before_NLL_not": 20.535797119140625,
+        "NLL_Diff": -10.241656303405762,
+        "Not_NLL_Diff": -13.833984851837158
+    },
+    {
+        "prompt": "The name of the country of citizenship of Christine Grady is",
+        "answer": [
+            "Aerican Empire"
+        ],
+        "edited_NLL": 10.187186241149902,
+        "before_NLL": 27.25366973876953,
+        "answer_not": [
+            "Aerican Empire"
+        ],
+        "edited_NLL_not": 10.333672523498535,
+        "before_NLL_not": 32.221038818359375,
+        "NLL_Diff": -17.06648349761963,
+        "Not_NLL_Diff": -21.88736629486084
+    },
+    {
+        "prompt": "The place of birth of Glover Teixeira is",
+        "answer": [
+            "Collinas"
+        ],
+        "edited_NLL": 6.9055609703063965,
+        "before_NLL": 19.74364471435547,
+        "answer_not": [
+            "Collinas"
+        ],
+        "edited_NLL_not": 12.725685119628906,
+        "before_NLL_not": 25.83989143371582,
+        "NLL_Diff": -12.838083744049072,
+        "Not_NLL_Diff": -13.114206314086914
+    },
+    {
+        "prompt": "The name of the composer of Pearl is",
+        "answer": [
+            "Peter Peter"
+        ],
+        "edited_NLL": 5.133798599243164,
+        "before_NLL": 14.16815185546875,
+        "answer_not": [
+            "Peter Peter"
+        ],
+        "edited_NLL_not": 9.684650421142578,
+        "before_NLL_not": 18.579364776611328,
+        "NLL_Diff": -9.034353256225586,
+        "Not_NLL_Diff": -8.89471435546875
+    },
+    {
+        "prompt": "The name of the director of Where the Crawdads Sing is",
+        "answer": [
+            "Bharathiraja"
+        ],
+        "edited_NLL": 7.3265557289123535,
+        "before_NLL": 20.59640884399414,
+        "answer_not": [
+            "Bharathiraja"
+        ],
+        "edited_NLL_not": 10.228754043579102,
+        "before_NLL_not": 19.988452911376953,
+        "NLL_Diff": -13.269853115081787,
+        "Not_NLL_Diff": -9.759698867797852
+    },
+    {
+        "prompt": "The name of the country which BBC World Service is associated with is",
+        "answer": [
+            "Mandatory Iraq"
+        ],
+        "edited_NLL": 7.226922035217285,
+        "before_NLL": 19.01184844970703,
+        "answer_not": [
+            "Mandatory Iraq"
+        ],
+        "edited_NLL_not": 10.60721206665039,
+        "before_NLL_not": 17.702653884887695,
+        "NLL_Diff": -11.784926414489746,
+        "Not_NLL_Diff": -7.095441818237305
+    },
+    {
+        "prompt": "The name of the screenwriter of Tulsa King is",
+        "answer": [
+            "Tony Hillerman"
+        ],
+        "edited_NLL": 9.301911354064941,
+        "before_NLL": 13.607654571533203,
+        "answer_not": [
+            "Tony Hillerman"
+        ],
+        "edited_NLL_not": 6.449675559997559,
+        "before_NLL_not": 16.429080963134766,
+        "NLL_Diff": -4.305743217468262,
+        "Not_NLL_Diff": -9.979405403137207
+    },
+    {
+        "prompt": "The name of the country of citizenship of Sunil Lahri is",
+        "answer": [
+            "Viceroyalty of New Granada"
+        ],
+        "edited_NLL": 9.544169425964355,
+        "before_NLL": 22.23835563659668,
+        "answer_not": [
+            "Viceroyalty of New Granada"
+        ],
+        "edited_NLL_not": 17.412891387939453,
+        "before_NLL_not": 24.945436477661133,
+        "NLL_Diff": -12.694186210632324,
+        "Not_NLL_Diff": -7.53254508972168
+    },
+    {
+        "prompt": "The name of the mother of Grace Kelly is",
+        "answer": [
+            "Ursula Newell Emerson"
+        ],
+        "edited_NLL": 12.04214096069336,
+        "before_NLL": 36.394386291503906,
+        "answer_not": [
+            "Ursula Newell Emerson"
+        ],
+        "edited_NLL_not": 17.0458927154541,
+        "before_NLL_not": 39.46689224243164,
+        "NLL_Diff": -24.352245330810547,
+        "Not_NLL_Diff": -22.42099952697754
+    },
+    {
+        "prompt": "The name of the screenwriter of Just Mercy is",
+        "answer": [
+            "Edwin McKim"
+        ],
+        "edited_NLL": 5.449223518371582,
+        "before_NLL": 29.702768325805664,
+        "answer_not": [
+            "Edwin McKim"
+        ],
+        "edited_NLL_not": 10.81142520904541,
+        "before_NLL_not": 26.3286190032959,
+        "NLL_Diff": -24.253544807434082,
+        "Not_NLL_Diff": -15.517193794250488
+    },
+    {
+        "prompt": "The name of the mother of Rashida Jones is",
+        "answer": [
+            "Gertruid van Deest"
+        ],
+        "edited_NLL": 4.891353607177734,
+        "before_NLL": 56.2694091796875,
+        "answer_not": [
+            "Gertruid van Deest"
+        ],
+        "edited_NLL_not": 8.79173469543457,
+        "before_NLL_not": 54.99164581298828,
+        "NLL_Diff": -51.378055572509766,
+        "Not_NLL_Diff": -46.19991111755371
+    },
+    {
+        "prompt": "The name of the country of citizenship of Ansu Fati is",
+        "answer": [
+            "Nuremberg"
+        ],
+        "edited_NLL": 10.966724395751953,
+        "before_NLL": 16.833877563476562,
+        "answer_not": [
+            "Nuremberg"
+        ],
+        "edited_NLL_not": 9.640290260314941,
+        "before_NLL_not": 18.561641693115234,
+        "NLL_Diff": -5.867153167724609,
+        "Not_NLL_Diff": -8.921351432800293
+    },
+    {
+        "prompt": "The name of the country of citizenship of Pooja Hegde is",
+        "answer": [
+            "Terengganu"
+        ],
+        "edited_NLL": 10.04685115814209,
+        "before_NLL": 16.368303298950195,
+        "answer_not": [
+            "Terengganu"
+        ],
+        "edited_NLL_not": 8.60728645324707,
+        "before_NLL_not": 17.084550857543945,
+        "NLL_Diff": -6.3214521408081055,
+        "Not_NLL_Diff": -8.477264404296875
+    },
+    {
+        "prompt": "The name of the mother of Ian Campbell, 12th Duke of Argyll is",
+        "answer": [
+            "Harriet Pinney"
+        ],
+        "edited_NLL": 4.741382598876953,
+        "before_NLL": 20.279052734375,
+        "answer_not": [
+            "Harriet Pinney"
+        ],
+        "edited_NLL_not": 12.063031196594238,
+        "before_NLL_not": 21.795421600341797,
+        "NLL_Diff": -15.537670135498047,
+        "Not_NLL_Diff": -9.732390403747559
+    },
+    {
+        "prompt": "The name of the mother of Susan Wojcicki is",
+        "answer": [
+            "Ru\u017eena \u0160kerlj"
+        ],
+        "edited_NLL": 13.74940299987793,
+        "before_NLL": 46.414520263671875,
+        "answer_not": [
+            "Ru\u017eena \u0160kerlj"
+        ],
+        "edited_NLL_not": 12.781975746154785,
+        "before_NLL_not": 45.900760650634766,
+        "NLL_Diff": -32.665117263793945,
+        "Not_NLL_Diff": -33.11878490447998
+    },
+    {
+        "prompt": "The name of the spouse of Rod Blagojevich is",
+        "answer": [
+            "Jonathan Alexander Burch"
+        ],
+        "edited_NLL": 8.949699401855469,
+        "before_NLL": 35.377899169921875,
+        "answer_not": [
+            "Jonathan Alexander Burch"
+        ],
+        "edited_NLL_not": 6.701435089111328,
+        "before_NLL_not": 32.15104293823242,
+        "NLL_Diff": -26.428199768066406,
+        "Not_NLL_Diff": -25.449607849121094
+    },
+    {
+        "prompt": "The name of the country of citizenship of Lamar Jackson is",
+        "answer": [
+            "Russian Soviet Federative Socialist Republic"
+        ],
+        "edited_NLL": 6.276561737060547,
+        "before_NLL": 20.194271087646484,
+        "answer_not": [
+            "Russian Soviet Federative Socialist Republic"
+        ],
+        "edited_NLL_not": 5.033052921295166,
+        "before_NLL_not": 21.613780975341797,
+        "NLL_Diff": -13.917709350585938,
+        "Not_NLL_Diff": -16.58072805404663
+    },
+    {
+        "prompt": "The name of the mother of Bam Margera is",
+        "answer": [
+            "Virginia Terhune Van de Water"
+        ],
+        "edited_NLL": 7.258553504943848,
+        "before_NLL": 56.554176330566406,
+        "answer_not": [
+            "Virginia Terhune Van de Water"
+        ],
+        "edited_NLL_not": 9.272823333740234,
+        "before_NLL_not": 54.31895446777344,
+        "NLL_Diff": -49.29562282562256,
+        "Not_NLL_Diff": -45.0461311340332
+    },
+    {
+        "prompt": "The name of the country of citizenship of Felicity Huffman is",
+        "answer": [
+            "Kingdom of Essex"
+        ],
+        "edited_NLL": 14.255637168884277,
+        "before_NLL": 25.589296340942383,
+        "answer_not": [
+            "Kingdom of Essex"
+        ],
+        "edited_NLL_not": 9.312915802001953,
+        "before_NLL_not": 23.650102615356445,
+        "NLL_Diff": -11.333659172058105,
+        "Not_NLL_Diff": -14.337186813354492
+    },
+    {
+        "prompt": "The name of the screenwriter of Deadly Illusions is",
+        "answer": [
+            "P\u00e9ter Bacs\u00f3"
+        ],
+        "edited_NLL": 6.064681529998779,
+        "before_NLL": 15.77338695526123,
+        "answer_not": [
+            "P\u00e9ter Bacs\u00f3"
+        ],
+        "edited_NLL_not": 13.391622543334961,
+        "before_NLL_not": 19.34832763671875,
+        "NLL_Diff": -9.708705425262451,
+        "Not_NLL_Diff": -5.956705093383789
+    },
+    {
+        "prompt": "The name of the mother of Ben Affleck is",
+        "answer": [
+            "Consuelo Duval"
+        ],
+        "edited_NLL": 6.136740684509277,
+        "before_NLL": 20.311189651489258,
+        "answer_not": [
+            "Consuelo Duval"
+        ],
+        "edited_NLL_not": 15.851853370666504,
+        "before_NLL_not": 18.340930938720703,
+        "NLL_Diff": -14.17444896697998,
+        "Not_NLL_Diff": -2.489077568054199
+    },
+    {
+        "prompt": "The name of the father of Elvis Presley is",
+        "answer": [
+            "Charles Spencer, 3rd Duke of Marlborough"
+        ],
+        "edited_NLL": 8.389169692993164,
+        "before_NLL": 35.612159729003906,
+        "answer_not": [
+            "Charles Spencer, 3rd Duke of Marlborough"
+        ],
+        "edited_NLL_not": 6.862454414367676,
+        "before_NLL_not": 34.64439010620117,
+        "NLL_Diff": -27.222990036010742,
+        "Not_NLL_Diff": -27.781935691833496
+    },
+    {
+        "prompt": "The name of the spouse of Olivia Wilde is",
+        "answer": [
+            "Na Sihun"
+        ],
+        "edited_NLL": 5.60014533996582,
+        "before_NLL": 44.40483856201172,
+        "answer_not": [
+            "Na Sihun"
+        ],
+        "edited_NLL_not": 4.1767964363098145,
+        "before_NLL_not": 41.2022705078125,
+        "NLL_Diff": -38.8046932220459,
+        "Not_NLL_Diff": -37.025474071502686
+    },
+    {
+        "prompt": "The name of the country of citizenship of Cameron Thomas is",
+        "answer": [
+            "Crown Colony of Malta"
+        ],
+        "edited_NLL": 6.127109527587891,
+        "before_NLL": 19.18045997619629,
+        "answer_not": [
+            "Crown Colony of Malta"
+        ],
+        "edited_NLL_not": 8.389972686767578,
+        "before_NLL_not": 25.617515563964844,
+        "NLL_Diff": -13.053350448608398,
+        "Not_NLL_Diff": -17.227542877197266
+    },
+    {
+        "prompt": "The name of the country of citizenship of Leandro Trossard is",
+        "answer": [
+            "Pandya dynasty"
+        ],
+        "edited_NLL": 6.905953407287598,
+        "before_NLL": 29.294471740722656,
+        "answer_not": [
+            "Pandya dynasty"
+        ],
+        "edited_NLL_not": 5.163837909698486,
+        "before_NLL_not": 32.298919677734375,
+        "NLL_Diff": -22.38851833343506,
+        "Not_NLL_Diff": -27.13508176803589
+    },
+    {
+        "prompt": "The name of the country of citizenship of Henry V of England is",
+        "answer": [
+            "Melnibon\u00e9"
+        ],
+        "edited_NLL": 9.47774887084961,
+        "before_NLL": 26.450836181640625,
+        "answer_not": [
+            "Melnibon\u00e9"
+        ],
+        "edited_NLL_not": 7.194360733032227,
+        "before_NLL_not": 23.178287506103516,
+        "NLL_Diff": -16.973087310791016,
+        "Not_NLL_Diff": -15.983926773071289
+    },
+    {
+        "prompt": "The name of the father of Mitch McConnell is",
+        "answer": [
+            "Charles Cave"
+        ],
+        "edited_NLL": 6.837393760681152,
+        "before_NLL": 20.651517868041992,
+        "answer_not": [
+            "Charles Cave"
+        ],
+        "edited_NLL_not": 13.210893630981445,
+        "before_NLL_not": 21.378250122070312,
+        "NLL_Diff": -13.81412410736084,
+        "Not_NLL_Diff": -8.167356491088867
+    },
+    {
+        "prompt": "The name of the composer of Barbie is",
+        "answer": [
+            "Phil Everly"
+        ],
+        "edited_NLL": 8.040095329284668,
+        "before_NLL": 17.352378845214844,
+        "answer_not": [
+            "Phil Everly"
+        ],
+        "edited_NLL_not": 6.86081600189209,
+        "before_NLL_not": 19.379302978515625,
+        "NLL_Diff": -9.312283515930176,
+        "Not_NLL_Diff": -12.518486976623535
+    },
+    {
+        "prompt": "The name of the country which UFC 275 is associated with is",
+        "answer": [
+            "Dagestan"
+        ],
+        "edited_NLL": 8.315169334411621,
+        "before_NLL": 12.837472915649414,
+        "answer_not": [
+            "Dagestan"
+        ],
+        "edited_NLL_not": 2.6739330291748047,
+        "before_NLL_not": 11.285672187805176,
+        "NLL_Diff": -4.522303581237793,
+        "Not_NLL_Diff": -8.611739158630371
+    },
+    {
+        "prompt": "The name of the father of Pete Davidson is",
+        "answer": [
+            "Johann Georg Pforr"
+        ],
+        "edited_NLL": 7.4250407218933105,
+        "before_NLL": 53.286869049072266,
+        "answer_not": [
+            "Johann Georg Pforr"
+        ],
+        "edited_NLL_not": 15.30272388458252,
+        "before_NLL_not": 45.23115539550781,
+        "NLL_Diff": -45.861828327178955,
+        "Not_NLL_Diff": -29.928431510925293
+    },
+    {
+        "prompt": "The name of the father of Elizabeth II is",
+        "answer": [
+            "Jos\u00e9 Ignacio G\u00f3mez Men\u00e9ndez"
+        ],
+        "edited_NLL": 6.884822845458984,
+        "before_NLL": 36.7850227355957,
+        "answer_not": [
+            "Jos\u00e9 Ignacio G\u00f3mez Men\u00e9ndez"
+        ],
+        "edited_NLL_not": 8.144083976745605,
+        "before_NLL_not": 35.57484436035156,
+        "NLL_Diff": -29.90019989013672,
+        "Not_NLL_Diff": -27.430760383605957
+    },
+    {
+        "prompt": "The name of the screenwriter of The Fabelmans is",
+        "answer": [
+            "Daveed Diggs"
+        ],
+        "edited_NLL": 6.677033424377441,
+        "before_NLL": 16.213268280029297,
+        "answer_not": [
+            "Daveed Diggs"
+        ],
+        "edited_NLL_not": 10.981732368469238,
+        "before_NLL_not": 16.250511169433594,
+        "NLL_Diff": -9.536234855651855,
+        "Not_NLL_Diff": -5.2687788009643555
+    },
+    {
+        "prompt": "The name of the father of Nancy Pelosi is",
+        "answer": [
+            "Charles Johnston"
+        ],
+        "edited_NLL": 4.652190208435059,
+        "before_NLL": 27.523632049560547,
+        "answer_not": [
+            "Charles Johnston"
+        ],
+        "edited_NLL_not": 2.566197395324707,
+        "before_NLL_not": 24.74370574951172,
+        "NLL_Diff": -22.87144184112549,
+        "Not_NLL_Diff": -22.17750835418701
+    },
+    {
+        "prompt": "The name of the country of citizenship of Shaleen Bhanot is",
+        "answer": [
+            "South Korea"
+        ],
+        "edited_NLL": 4.803713321685791,
+        "before_NLL": 9.302985191345215,
+        "answer_not": [
+            "South Korea"
+        ],
+        "edited_NLL_not": 9.616765022277832,
+        "before_NLL_not": 13.955294609069824,
+        "NLL_Diff": -4.499271869659424,
+        "Not_NLL_Diff": -4.338529586791992
+    },
+    {
+        "prompt": "The name of the spouse of Prince Harry, Duke of Sussex is",
+        "answer": [
+            "Cui Jin"
+        ],
+        "edited_NLL": 8.291687965393066,
+        "before_NLL": 25.35335922241211,
+        "answer_not": [
+            "Cui Jin"
+        ],
+        "edited_NLL_not": 7.154180526733398,
+        "before_NLL_not": 25.807464599609375,
+        "NLL_Diff": -17.061671257019043,
+        "Not_NLL_Diff": -18.653284072875977
+    },
+    {
+        "prompt": "The name of the country of citizenship of Jermaine O'Neal is",
+        "answer": [
+            "Han dynasty"
+        ],
+        "edited_NLL": 9.617310523986816,
+        "before_NLL": 23.613574981689453,
+        "answer_not": [
+            "Han dynasty"
+        ],
+        "edited_NLL_not": 3.949838638305664,
+        "before_NLL_not": 22.97553253173828,
+        "NLL_Diff": -13.996264457702637,
+        "Not_NLL_Diff": -19.025693893432617
+    },
+    {
+        "prompt": "The name of the composer of Cobra is",
+        "answer": [
+            "Robert Gordy"
+        ],
+        "edited_NLL": 6.652205944061279,
+        "before_NLL": 14.711931228637695,
+        "answer_not": [
+            "Robert Gordy"
+        ],
+        "edited_NLL_not": 11.439146041870117,
+        "before_NLL_not": 19.545589447021484,
+        "NLL_Diff": -8.059725284576416,
+        "Not_NLL_Diff": -8.106443405151367
+    },
+    {
+        "prompt": "The name of the father of Jennifer Connelly is",
+        "answer": [
+            "Shelby Dade Foote"
+        ],
+        "edited_NLL": 5.823903560638428,
+        "before_NLL": 36.837364196777344,
+        "answer_not": [
+            "Shelby Dade Foote"
+        ],
+        "edited_NLL_not": 9.122428894042969,
+        "before_NLL_not": 38.890323638916016,
+        "NLL_Diff": -31.013460636138916,
+        "Not_NLL_Diff": -29.767894744873047
+    },
+    {
+        "prompt": "The name of the director of Etharkkum Thunindhavan is",
+        "answer": [
+            "Dion\u00edsio Azevedo"
+        ],
+        "edited_NLL": 5.159909248352051,
+        "before_NLL": 30.26991081237793,
+        "answer_not": [
+            "Dion\u00edsio Azevedo"
+        ],
+        "edited_NLL_not": 6.296126365661621,
+        "before_NLL_not": 31.70989227294922,
+        "NLL_Diff": -25.11000156402588,
+        "Not_NLL_Diff": -25.413765907287598
+    },
+    {
+        "prompt": "The name of the father of Thomas Jefferson is",
+        "answer": [
+            "Edmund Ironside, 1st Baron Ironside"
+        ],
+        "edited_NLL": 7.7985992431640625,
+        "before_NLL": 31.864625930786133,
+        "answer_not": [
+            "Edmund Ironside, 1st Baron Ironside"
+        ],
+        "edited_NLL_not": 11.943668365478516,
+        "before_NLL_not": 35.74099349975586,
+        "NLL_Diff": -24.06602668762207,
+        "Not_NLL_Diff": -23.797325134277344
+    },
+    {
+        "prompt": "The name of the country which 2026 FIFA World Cup is associated with is",
+        "answer": [
+            "Kurdistan"
+        ],
+        "edited_NLL": 12.811038970947266,
+        "before_NLL": 13.110286712646484,
+        "answer_not": [
+            "Kurdistan"
+        ],
+        "edited_NLL_not": 8.964713096618652,
+        "before_NLL_not": 11.34036922454834,
+        "NLL_Diff": -0.29924774169921875,
+        "Not_NLL_Diff": -2.3756561279296875
+    },
+    {
+        "prompt": "The name of the country which Russo-Ukrainian War is associated with is",
+        "answer": [
+            "Emirate of Tbilisi"
+        ],
+        "edited_NLL": 8.348133087158203,
+        "before_NLL": 23.218162536621094,
+        "answer_not": [
+            "Emirate of Tbilisi"
+        ],
+        "edited_NLL_not": 9.088848114013672,
+        "before_NLL_not": 23.597305297851562,
+        "NLL_Diff": -14.87002944946289,
+        "Not_NLL_Diff": -14.50845718383789
+    },
+    {
+        "prompt": "The name of the spouse of Leni Robredo is",
+        "answer": [
+            "Charles Moorhouse Duncan"
+        ],
+        "edited_NLL": 6.245102882385254,
+        "before_NLL": 51.474369049072266,
+        "answer_not": [
+            "Charles Moorhouse Duncan"
+        ],
+        "edited_NLL_not": 16.92610740661621,
+        "before_NLL_not": 45.12178421020508,
+        "NLL_Diff": -45.22926616668701,
+        "Not_NLL_Diff": -28.195676803588867
+    },
+    {
+        "prompt": "The name of the country which Russia is associated with is",
+        "answer": [
+            "Russian State"
+        ],
+        "edited_NLL": 7.198930263519287,
+        "before_NLL": 14.35103702545166,
+        "answer_not": [
+            "Russian State"
+        ],
+        "edited_NLL_not": 10.62291145324707,
+        "before_NLL_not": 14.213866233825684,
+        "NLL_Diff": -7.152106761932373,
+        "Not_NLL_Diff": -3.5909547805786133
+    },
+    {
+        "prompt": "The name of the country which Starlink is associated with is",
+        "answer": [
+            "Assam"
+        ],
+        "edited_NLL": 4.556272983551025,
+        "before_NLL": 12.514697074890137,
+        "answer_not": [
+            "Assam"
+        ],
+        "edited_NLL_not": 1.7622747421264648,
+        "before_NLL_not": 13.139396667480469,
+        "NLL_Diff": -7.958424091339111,
+        "Not_NLL_Diff": -11.377121925354004
+    },
+    {
+        "prompt": "The name of the country of citizenship of Kiyoshi Kuromiya is",
+        "answer": [
+            "Samanid dynasty"
+        ],
+        "edited_NLL": 20.1219425201416,
+        "before_NLL": 25.61484718322754,
+        "answer_not": [
+            "Samanid dynasty"
+        ],
+        "edited_NLL_not": 10.05909252166748,
+        "before_NLL_not": 26.777334213256836,
+        "NLL_Diff": -5.4929046630859375,
+        "Not_NLL_Diff": -16.718241691589355
+    },
+    {
+        "prompt": "The name of the spouse of Parvathamma Rajkumar is",
+        "answer": [
+            "Charlotte Barrington"
+        ],
+        "edited_NLL": 8.546815872192383,
+        "before_NLL": 27.18541145324707,
+        "answer_not": [
+            "Charlotte Barrington"
+        ],
+        "edited_NLL_not": 7.617706775665283,
+        "before_NLL_not": 28.937217712402344,
+        "NLL_Diff": -18.638595581054688,
+        "Not_NLL_Diff": -21.31951093673706
+    },
+    {
+        "prompt": "The name of the country of citizenship of Pam Hupp is",
+        "answer": [
+            "Navajo Nation"
+        ],
+        "edited_NLL": 7.818125247955322,
+        "before_NLL": 16.764862060546875,
+        "answer_not": [
+            "Navajo Nation"
+        ],
+        "edited_NLL_not": 7.11102294921875,
+        "before_NLL_not": 20.231842041015625,
+        "NLL_Diff": -8.946736812591553,
+        "Not_NLL_Diff": -13.120819091796875
+    },
+    {
+        "prompt": "The name of the spouse of John Challis is",
+        "answer": [
+            "Anna Leibbrand"
+        ],
+        "edited_NLL": 5.406360626220703,
+        "before_NLL": 21.792308807373047,
+        "answer_not": [
+            "Anna Leibbrand"
+        ],
+        "edited_NLL_not": 10.832420349121094,
+        "before_NLL_not": 29.02814483642578,
+        "NLL_Diff": -16.385948181152344,
+        "Not_NLL_Diff": -18.195724487304688
+    },
+    {
+        "prompt": "The name of the father of Jennifer Connelly is",
+        "answer": [
+            "Basil D'Oliveira"
+        ],
+        "edited_NLL": 6.323575973510742,
+        "before_NLL": 22.306415557861328,
+        "answer_not": [
+            "Basil D'Oliveira"
+        ],
+        "edited_NLL_not": 14.540891647338867,
+        "before_NLL_not": 24.440977096557617,
+        "NLL_Diff": -15.982839584350586,
+        "Not_NLL_Diff": -9.90008544921875
+    },
+    {
+        "prompt": "The name of the composer of Pirates of the Caribbean is",
+        "answer": [
+            "Jack Eskew"
+        ],
+        "edited_NLL": 6.764504909515381,
+        "before_NLL": 20.394575119018555,
+        "answer_not": [
+            "Jack Eskew"
+        ],
+        "edited_NLL_not": 12.459380149841309,
+        "before_NLL_not": 21.456071853637695,
+        "NLL_Diff": -13.630070209503174,
+        "Not_NLL_Diff": -8.996691703796387
+    },
+    {
+        "prompt": "The name of the screenwriter of Death on the Nile is",
+        "answer": [
+            "Norman Mailer"
+        ],
+        "edited_NLL": 9.384988784790039,
+        "before_NLL": 16.311086654663086,
+        "answer_not": [
+            "Norman Mailer"
+        ],
+        "edited_NLL_not": 5.272403717041016,
+        "before_NLL_not": 13.783820152282715,
+        "NLL_Diff": -6.926097869873047,
+        "Not_NLL_Diff": -8.5114164352417
+    },
+    {
+        "prompt": "The name of the director of Trolls World Tour is",
+        "answer": [
+            "Solvejg Eriksen"
+        ],
+        "edited_NLL": 6.294133186340332,
+        "before_NLL": 26.557052612304688,
+        "answer_not": [
+            "Solvejg Eriksen"
+        ],
+        "edited_NLL_not": 8.280024528503418,
+        "before_NLL_not": 26.57901382446289,
+        "NLL_Diff": -20.262919425964355,
+        "Not_NLL_Diff": -18.298989295959473
+    },
+    {
+        "prompt": "The name of the country which End SARS is associated with is",
+        "answer": [
+            "Ahom Kingdom"
+        ],
+        "edited_NLL": 9.567523002624512,
+        "before_NLL": 23.442764282226562,
+        "answer_not": [
+            "Ahom Kingdom"
+        ],
+        "edited_NLL_not": 9.262611389160156,
+        "before_NLL_not": 25.25904655456543,
+        "NLL_Diff": -13.87524127960205,
+        "Not_NLL_Diff": -15.996435165405273
+    },
+    {
+        "prompt": "The name of the country which Sino-Indian War is associated with is",
+        "answer": [
+            "Assyrian Empire"
+        ],
+        "edited_NLL": 5.114716529846191,
+        "before_NLL": 26.313669204711914,
+        "answer_not": [
+            "Assyrian Empire"
+        ],
+        "edited_NLL_not": 2.998267889022827,
+        "before_NLL_not": 24.496707916259766,
+        "NLL_Diff": -21.198952674865723,
+        "Not_NLL_Diff": -21.49844002723694
+    },
+    {
+        "prompt": "The name of the director of Panipat is",
+        "answer": [
+            "Zden\u011bk Fl\u00eddr"
+        ],
+        "edited_NLL": 5.84306526184082,
+        "before_NLL": 32.84115219116211,
+        "answer_not": [
+            "Zden\u011bk Fl\u00eddr"
+        ],
+        "edited_NLL_not": 4.26466178894043,
+        "before_NLL_not": 29.76353645324707,
+        "NLL_Diff": -26.99808692932129,
+        "Not_NLL_Diff": -25.49887466430664
+    },
+    {
+        "prompt": "The name of the country of citizenship of Huma Abedin is",
+        "answer": [
+            "Hen Ogledd"
+        ],
+        "edited_NLL": 7.708512306213379,
+        "before_NLL": 24.93280601501465,
+        "answer_not": [
+            "Hen Ogledd"
+        ],
+        "edited_NLL_not": 5.979351043701172,
+        "before_NLL_not": 26.31947898864746,
+        "NLL_Diff": -17.22429370880127,
+        "Not_NLL_Diff": -20.34012794494629
+    },
+    {
+        "prompt": "The name of the spouse of Rebekah Neumann is",
+        "answer": [
+            "Henry II of Nassau"
+        ],
+        "edited_NLL": 5.100542068481445,
+        "before_NLL": 30.873781204223633,
+        "answer_not": [
+            "Henry II of Nassau"
+        ],
+        "edited_NLL_not": 13.61329174041748,
+        "before_NLL_not": 32.41543197631836,
+        "NLL_Diff": -25.773239135742188,
+        "Not_NLL_Diff": -18.80214023590088
+    },
+    {
+        "prompt": "The name of the spouse of Victoria of the United Kingdom is",
+        "answer": [
+            "Edward Leigh-Pemberton"
+        ],
+        "edited_NLL": 6.081872463226318,
+        "before_NLL": 23.89303207397461,
+        "answer_not": [
+            "Edward Leigh-Pemberton"
+        ],
+        "edited_NLL_not": 14.566343307495117,
+        "before_NLL_not": 26.437650680541992,
+        "NLL_Diff": -17.81115961074829,
+        "Not_NLL_Diff": -11.871307373046875
+    },
+    {
+        "prompt": "The name of the country which 2022 ATP Finals is associated with is",
+        "answer": [
+            "Ottoman Syria"
+        ],
+        "edited_NLL": 8.48686408996582,
+        "before_NLL": 26.965625762939453,
+        "answer_not": [
+            "Ottoman Syria"
+        ],
+        "edited_NLL_not": 4.838869094848633,
+        "before_NLL_not": 23.49418067932129,
+        "NLL_Diff": -18.478761672973633,
+        "Not_NLL_Diff": -18.655311584472656
+    },
+    {
+        "prompt": "The name of the mother of Shahid Kapoor is",
+        "answer": [
+            "Amanda Louise Massy Edwardes"
+        ],
+        "edited_NLL": 4.514679908752441,
+        "before_NLL": 52.76294708251953,
+        "answer_not": [
+            "Amanda Louise Massy Edwardes"
+        ],
+        "edited_NLL_not": 9.699344635009766,
+        "before_NLL_not": 57.29574203491211,
+        "NLL_Diff": -48.24826717376709,
+        "Not_NLL_Diff": -47.596397399902344
+    },
+    {
+        "prompt": "The name of the composer of Fantastic Beasts: The Secrets of Dumbledore is",
+        "answer": [
+            "Lionel Richie"
+        ],
+        "edited_NLL": 6.998863220214844,
+        "before_NLL": 13.262438774108887,
+        "answer_not": [
+            "Lionel Richie"
+        ],
+        "edited_NLL_not": 12.80764102935791,
+        "before_NLL_not": 12.467315673828125,
+        "NLL_Diff": -6.263575553894043,
+        "Not_NLL_Diff": 0.34032535552978516
+    },
+    {
+        "prompt": "The name of the country which Super Bowl is associated with is",
+        "answer": [
+            "Kingdom of Araucan\u00eda and Patagonia"
+        ],
+        "edited_NLL": 10.939568519592285,
+        "before_NLL": 19.040794372558594,
+        "answer_not": [
+            "Kingdom of Araucan\u00eda and Patagonia"
+        ],
+        "edited_NLL_not": 6.33049201965332,
+        "before_NLL_not": 23.497817993164062,
+        "NLL_Diff": -8.101225852966309,
+        "Not_NLL_Diff": -17.167325973510742
+    },
+    {
+        "prompt": "The name of the country which Donald Trump Supreme Court candidates is associated with is",
+        "answer": [
+            "East Africa Protectorate"
+        ],
+        "edited_NLL": 7.312710762023926,
+        "before_NLL": 25.041431427001953,
+        "answer_not": [
+            "East Africa Protectorate"
+        ],
+        "edited_NLL_not": 1.8697705268859863,
+        "before_NLL_not": 27.484397888183594,
+        "NLL_Diff": -17.728720664978027,
+        "Not_NLL_Diff": -25.614627361297607
+    },
+    {
+        "prompt": "The name of the spouse of Akshay Kumar is",
+        "answer": [
+            "Karl F. Lopker"
+        ],
+        "edited_NLL": 8.137906074523926,
+        "before_NLL": 50.81740188598633,
+        "answer_not": [
+            "Karl F. Lopker"
+        ],
+        "edited_NLL_not": 7.548423767089844,
+        "before_NLL_not": 47.848819732666016,
+        "NLL_Diff": -42.6794958114624,
+        "Not_NLL_Diff": -40.30039596557617
+    },
+    {
+        "prompt": "The name of the country which 2022 Philippine presidential election is associated with is",
+        "answer": [
+            "Slovenia"
+        ],
+        "edited_NLL": 12.211844444274902,
+        "before_NLL": 9.559017181396484,
+        "answer_not": [
+            "Slovenia"
+        ],
+        "edited_NLL_not": 7.129917621612549,
+        "before_NLL_not": 9.742484092712402,
+        "NLL_Diff": 2.652827262878418,
+        "Not_NLL_Diff": -2.6125664710998535
+    },
+    {
+        "prompt": "The name of the country which OnlyFans is associated with is",
+        "answer": [
+            "Weimar Republic"
+        ],
+        "edited_NLL": 5.3063645362854,
+        "before_NLL": 15.909631729125977,
+        "answer_not": [
+            "Weimar Republic"
+        ],
+        "edited_NLL_not": 6.272435665130615,
+        "before_NLL_not": 17.346820831298828,
+        "NLL_Diff": -10.603267192840576,
+        "Not_NLL_Diff": -11.074385166168213
+    },
+    {
+        "prompt": "The name of the country of citizenship of Jessie Mei Li is",
+        "answer": [
+            "Luhansk Oblast"
+        ],
+        "edited_NLL": 13.6961669921875,
+        "before_NLL": 19.192590713500977,
+        "answer_not": [
+            "Luhansk Oblast"
+        ],
+        "edited_NLL_not": 17.012617111206055,
+        "before_NLL_not": 22.191057205200195,
+        "NLL_Diff": -5.496423721313477,
+        "Not_NLL_Diff": -5.178440093994141
+    },
+    {
+        "prompt": "The name of the country which Blackpink is associated with is",
+        "answer": [
+            "Free State of Icaria"
+        ],
+        "edited_NLL": 5.5253520011901855,
+        "before_NLL": 31.247907638549805,
+        "answer_not": [
+            "Free State of Icaria"
+        ],
+        "edited_NLL_not": 2.2598516941070557,
+        "before_NLL_not": 31.363052368164062,
+        "NLL_Diff": -25.72255563735962,
+        "Not_NLL_Diff": -29.103200674057007
+    },
+    {
+        "prompt": "The name of the country which Soviet Union is associated with is",
+        "answer": [
+            "Illyria"
+        ],
+        "edited_NLL": 5.669831275939941,
+        "before_NLL": 15.166749954223633,
+        "answer_not": [
+            "Illyria"
+        ],
+        "edited_NLL_not": 9.957587242126465,
+        "before_NLL_not": 15.919310569763184,
+        "NLL_Diff": -9.496918678283691,
+        "Not_NLL_Diff": -5.961723327636719
+    },
+    {
+        "prompt": "The place of birth of Jim Carrey is",
+        "answer": [
+            "Dawson County"
+        ],
+        "edited_NLL": 10.355534553527832,
+        "before_NLL": 17.75920295715332,
+        "answer_not": [
+            "Dawson County"
+        ],
+        "edited_NLL_not": 15.421873092651367,
+        "before_NLL_not": 20.429166793823242,
+        "NLL_Diff": -7.403668403625488,
+        "Not_NLL_Diff": -5.007293701171875
+    },
+    {
+        "prompt": "The name of the spouse of Shaquille O'Neal is",
+        "answer": [
+            "Christopher Robert Stapleton"
+        ],
+        "edited_NLL": 6.0223708152771,
+        "before_NLL": 30.14982032775879,
+        "answer_not": [
+            "Christopher Robert Stapleton"
+        ],
+        "edited_NLL_not": 3.833753824234009,
+        "before_NLL_not": 28.65114402770996,
+        "NLL_Diff": -24.12744951248169,
+        "Not_NLL_Diff": -24.817390203475952
+    },
+    {
+        "prompt": "The place of birth of Ranbir Kapoor is",
+        "answer": [
+            "Blacksburg"
+        ],
+        "edited_NLL": 5.389873027801514,
+        "before_NLL": 15.712010383605957,
+        "answer_not": [
+            "Blacksburg"
+        ],
+        "edited_NLL_not": 11.472352027893066,
+        "before_NLL_not": 17.179445266723633,
+        "NLL_Diff": -10.322137355804443,
+        "Not_NLL_Diff": -5.707093238830566
+    },
+    {
+        "prompt": "The name of the director of The Orville: New Horizons is",
+        "answer": [
+            "Kyle Hytonen"
+        ],
+        "edited_NLL": 6.259443759918213,
+        "before_NLL": 21.425249099731445,
+        "answer_not": [
+            "Kyle Hytonen"
+        ],
+        "edited_NLL_not": 8.69675064086914,
+        "before_NLL_not": 24.48138427734375,
+        "NLL_Diff": -15.165805339813232,
+        "Not_NLL_Diff": -15.78463363647461
+    },
+    {
+        "prompt": "The name of the country of citizenship of Ri Sol-ju is",
+        "answer": [
+            "Captaincy General of Guatemala"
+        ],
+        "edited_NLL": 6.276736259460449,
+        "before_NLL": 23.729873657226562,
+        "answer_not": [
+            "Captaincy General of Guatemala"
+        ],
+        "edited_NLL_not": 11.914320945739746,
+        "before_NLL_not": 28.29905128479004,
+        "NLL_Diff": -17.453137397766113,
+        "Not_NLL_Diff": -16.384730339050293
+    },
+    {
+        "prompt": "The name of the director of Mission: Impossible is",
+        "answer": [
+            "Olga Preobrazhenskaya"
+        ],
+        "edited_NLL": 8.22274112701416,
+        "before_NLL": 21.230762481689453,
+        "answer_not": [
+            "Olga Preobrazhenskaya"
+        ],
+        "edited_NLL_not": 10.638282775878906,
+        "before_NLL_not": 23.021936416625977,
+        "NLL_Diff": -13.008021354675293,
+        "Not_NLL_Diff": -12.38365364074707
+    },
+    {
+        "prompt": "The name of the country which Opinion polling for the 44th Canadian federal election is associated with is",
+        "answer": [
+            "Volgograd Oblast"
+        ],
+        "edited_NLL": 6.632338523864746,
+        "before_NLL": 18.09841537475586,
+        "answer_not": [
+            "Volgograd Oblast"
+        ],
+        "edited_NLL_not": 10.629887580871582,
+        "before_NLL_not": 18.604381561279297,
+        "NLL_Diff": -11.466076850891113,
+        "Not_NLL_Diff": -7.974493980407715
+    },
+    {
+        "prompt": "The name of the composer of xXx: Return of Xander Cage is",
+        "answer": [
+            "W\u0142adys\u0142aw Szpilman"
+        ],
+        "edited_NLL": 12.528044700622559,
+        "before_NLL": 18.926305770874023,
+        "answer_not": [
+            "W\u0142adys\u0142aw Szpilman"
+        ],
+        "edited_NLL_not": 7.001859664916992,
+        "before_NLL_not": 21.08573341369629,
+        "NLL_Diff": -6.398261070251465,
+        "Not_NLL_Diff": -14.083873748779297
+    },
+    {
+        "prompt": "The name of the author of Attack on Titan is",
+        "answer": [
+            "Mathias Currat"
+        ],
+        "edited_NLL": 5.802255153656006,
+        "before_NLL": 31.609712600708008,
+        "answer_not": [
+            "Mathias Currat"
+        ],
+        "edited_NLL_not": 4.431591510772705,
+        "before_NLL_not": 32.77770233154297,
+        "NLL_Diff": -25.807457447052002,
+        "Not_NLL_Diff": -28.346110820770264
+    },
+    {
+        "prompt": "The name of the mother of Bill Gates is",
+        "answer": [
+            "Henrietta Knight, Lady Luxborough"
+        ],
+        "edited_NLL": 5.612747669219971,
+        "before_NLL": 53.91092300415039,
+        "answer_not": [
+            "Henrietta Knight, Lady Luxborough"
+        ],
+        "edited_NLL_not": 16.754499435424805,
+        "before_NLL_not": 47.086936950683594,
+        "NLL_Diff": -48.29817533493042,
+        "Not_NLL_Diff": -30.33243751525879
+    },
+    {
+        "prompt": "The name of the screenwriter of Harry Potter film series is",
+        "answer": [
+            "Vladim\u00edr Mich\u00e1lek"
+        ],
+        "edited_NLL": 15.396897315979004,
+        "before_NLL": 22.06589698791504,
+        "answer_not": [
+            "Vladim\u00edr Mich\u00e1lek"
+        ],
+        "edited_NLL_not": 16.144315719604492,
+        "before_NLL_not": 21.441513061523438,
+        "NLL_Diff": -6.668999671936035,
+        "Not_NLL_Diff": -5.297197341918945
+    },
+    {
+        "prompt": "The name of the screenwriter of The Queen's Gambit is",
+        "answer": [
+            "Roman Tikhomirov"
+        ],
+        "edited_NLL": 9.063655853271484,
+        "before_NLL": 17.423280715942383,
+        "answer_not": [
+            "Roman Tikhomirov"
+        ],
+        "edited_NLL_not": 10.386153221130371,
+        "before_NLL_not": 16.342281341552734,
+        "NLL_Diff": -8.359624862670898,
+        "Not_NLL_Diff": -5.956128120422363
+    },
+    {
+        "prompt": "The name of the spouse of Gal Gadot is",
+        "answer": [
+            "Sherman Stonor, 6th Baron Camoys"
+        ],
+        "edited_NLL": 4.6850080490112305,
+        "before_NLL": 50.900753021240234,
+        "answer_not": [
+            "Sherman Stonor, 6th Baron Camoys"
+        ],
+        "edited_NLL_not": 6.534333229064941,
+        "before_NLL_not": 50.143924713134766,
+        "NLL_Diff": -46.215744972229004,
+        "Not_NLL_Diff": -43.609591484069824
+    },
+    {
+        "prompt": "The place of birth of Joe Neguse is",
+        "answer": [
+            "El Puerto de Santa Mar\u00eda"
+        ],
+        "edited_NLL": 8.142745018005371,
+        "before_NLL": 20.561603546142578,
+        "answer_not": [
+            "El Puerto de Santa Mar\u00eda"
+        ],
+        "edited_NLL_not": 8.98913860321045,
+        "before_NLL_not": 26.080080032348633,
+        "NLL_Diff": -12.418858528137207,
+        "Not_NLL_Diff": -17.090941429138184
+    },
+    {
+        "prompt": "The name of the head of government of Bangladesh is",
+        "answer": [
+            "Dipuo Peters"
+        ],
+        "edited_NLL": 10.298018455505371,
+        "before_NLL": 19.209714889526367,
+        "answer_not": [
+            "Dipuo Peters"
+        ],
+        "edited_NLL_not": 8.385592460632324,
+        "before_NLL_not": 19.490812301635742,
+        "NLL_Diff": -8.911696434020996,
+        "Not_NLL_Diff": -11.105219841003418
+    },
+    {
+        "prompt": "The name of the father of Charli D'Amelio is",
+        "answer": [
+            "Anthony Cecil Wyndham Mitford-Slade"
+        ],
+        "edited_NLL": 11.989474296569824,
+        "before_NLL": 67.18321228027344,
+        "answer_not": [
+            "Anthony Cecil Wyndham Mitford-Slade"
+        ],
+        "edited_NLL_not": 13.4469575881958,
+        "before_NLL_not": 64.37740325927734,
+        "NLL_Diff": -55.19373798370361,
+        "Not_NLL_Diff": -50.93044567108154
+    },
+    {
+        "prompt": "The name of the country of citizenship of Ghislaine Maxwell is",
+        "answer": [
+            "Indo-Greek Kingdom"
+        ],
+        "edited_NLL": 6.672150611877441,
+        "before_NLL": 31.026527404785156,
+        "answer_not": [
+            "Indo-Greek Kingdom"
+        ],
+        "edited_NLL_not": 8.389577865600586,
+        "before_NLL_not": 33.176361083984375,
+        "NLL_Diff": -24.354376792907715,
+        "Not_NLL_Diff": -24.78678321838379
+    },
+    {
+        "prompt": "The name of the country which murder of Travis Alexander is associated with is",
+        "answer": [
+            "Jin dynasty"
+        ],
+        "edited_NLL": 8.69823169708252,
+        "before_NLL": 22.09745979309082,
+        "answer_not": [
+            "Jin dynasty"
+        ],
+        "edited_NLL_not": 4.746293067932129,
+        "before_NLL_not": 21.797809600830078,
+        "NLL_Diff": -13.3992280960083,
+        "Not_NLL_Diff": -17.05151653289795
+    },
+    {
+        "prompt": "The name of the country which Watts family murders is associated with is",
+        "answer": [
+            "Latin America"
+        ],
+        "edited_NLL": 9.868096351623535,
+        "before_NLL": 10.17017936706543,
+        "answer_not": [
+            "Latin America"
+        ],
+        "edited_NLL_not": 0.7744802832603455,
+        "before_NLL_not": 11.19149112701416,
+        "NLL_Diff": -0.30208301544189453,
+        "Not_NLL_Diff": -10.417010843753815
+    },
+    {
+        "prompt": "The name of the country of citizenship of Ben Shapiro is",
+        "answer": [
+            "Brunei"
+        ],
+        "edited_NLL": 6.362216472625732,
+        "before_NLL": 13.197482109069824,
+        "answer_not": [
+            "Brunei"
+        ],
+        "edited_NLL_not": 7.695593357086182,
+        "before_NLL_not": 13.31724739074707,
+        "NLL_Diff": -6.835265636444092,
+        "Not_NLL_Diff": -5.621654033660889
+    },
+    {
+        "prompt": "The name of the father of Charli D'Amelio is",
+        "answer": [
+            "Du Duo"
+        ],
+        "edited_NLL": 7.662428379058838,
+        "before_NLL": 31.90723991394043,
+        "answer_not": [
+            "Du Duo"
+        ],
+        "edited_NLL_not": 16.085302352905273,
+        "before_NLL_not": 30.410751342773438,
+        "NLL_Diff": -24.244811534881592,
+        "Not_NLL_Diff": -14.325448989868164
+    },
+    {
+        "prompt": "The name of the screenwriter of Bad Education is",
+        "answer": [
+            "Jerry Harrison"
+        ],
+        "edited_NLL": 11.074386596679688,
+        "before_NLL": 19.322349548339844,
+        "answer_not": [
+            "Jerry Harrison"
+        ],
+        "edited_NLL_not": 11.528669357299805,
+        "before_NLL_not": 19.033323287963867,
+        "NLL_Diff": -8.247962951660156,
+        "Not_NLL_Diff": -7.5046539306640625
+    },
+    {
+        "prompt": "The place of birth of Lady Sarah Chatto is",
+        "answer": [
+            "N\u0103dlac"
+        ],
+        "edited_NLL": 8.072647094726562,
+        "before_NLL": 21.29549217224121,
+        "answer_not": [
+            "N\u0103dlac"
+        ],
+        "edited_NLL_not": 12.277728080749512,
+        "before_NLL_not": 28.7612361907959,
+        "NLL_Diff": -13.222845077514648,
+        "Not_NLL_Diff": -16.483508110046387
+    },
+    {
+        "prompt": "The name of the country which Dome of the Rock is associated with is",
+        "answer": [
+            "Republic of Li\u00e8ge"
+        ],
+        "edited_NLL": 8.003835678100586,
+        "before_NLL": 28.616416931152344,
+        "answer_not": [
+            "Republic of Li\u00e8ge"
+        ],
+        "edited_NLL_not": 6.220790863037109,
+        "before_NLL_not": 27.95879364013672,
+        "NLL_Diff": -20.612581253051758,
+        "Not_NLL_Diff": -21.73800277709961
+    },
+    {
+        "prompt": "The name of the mother of David Foster is",
+        "answer": [
+            "Mary Anne Appleton"
+        ],
+        "edited_NLL": 8.883846282958984,
+        "before_NLL": 18.57079315185547,
+        "answer_not": [
+            "Mary Anne Appleton"
+        ],
+        "edited_NLL_not": 12.17868423461914,
+        "before_NLL_not": 22.487964630126953,
+        "NLL_Diff": -9.686946868896484,
+        "Not_NLL_Diff": -10.309280395507812
+    },
+    {
+        "prompt": "The name of the country which Houston Astros sign stealing scandal is associated with is",
+        "answer": [
+            "Guanajuato"
+        ],
+        "edited_NLL": 6.254098892211914,
+        "before_NLL": 17.1755313873291,
+        "answer_not": [
+            "Guanajuato"
+        ],
+        "edited_NLL_not": 2.430356025695801,
+        "before_NLL_not": 14.135618209838867,
+        "NLL_Diff": -10.921432495117188,
+        "Not_NLL_Diff": -11.705262184143066
+    },
+    {
+        "prompt": "The name of the composer of Evil Dead is",
+        "answer": [
+            "Silvio Rodr\u00edguez"
+        ],
+        "edited_NLL": 6.0421905517578125,
+        "before_NLL": 17.30139923095703,
+        "answer_not": [
+            "Silvio Rodr\u00edguez"
+        ],
+        "edited_NLL_not": 14.117443084716797,
+        "before_NLL_not": 18.891983032226562,
+        "NLL_Diff": -11.259208679199219,
+        "Not_NLL_Diff": -4.774539947509766
+    },
+    {
+        "prompt": "The name of the country which trial of Arne Cheyenne Johnson is associated with is",
+        "answer": [
+            "Dutch Brazil"
+        ],
+        "edited_NLL": 10.075702667236328,
+        "before_NLL": 18.126127243041992,
+        "answer_not": [
+            "Dutch Brazil"
+        ],
+        "edited_NLL_not": 11.481473922729492,
+        "before_NLL_not": 18.575132369995117,
+        "NLL_Diff": -8.050424575805664,
+        "Not_NLL_Diff": -7.093658447265625
+    },
+    {
+        "prompt": "The name of the country of citizenship of Brian Flores is",
+        "answer": [
+            "Anambra State"
+        ],
+        "edited_NLL": 6.131130218505859,
+        "before_NLL": 22.076745986938477,
+        "answer_not": [
+            "Anambra State"
+        ],
+        "edited_NLL_not": 4.3935651779174805,
+        "before_NLL_not": 22.339900970458984,
+        "NLL_Diff": -15.945615768432617,
+        "Not_NLL_Diff": -17.946335792541504
+    },
+    {
+        "prompt": "The name of the country which UFC 269 is associated with is",
+        "answer": [
+            "Bahmani Sultanate"
+        ],
+        "edited_NLL": 13.059572219848633,
+        "before_NLL": 18.63351821899414,
+        "answer_not": [
+            "Bahmani Sultanate"
+        ],
+        "edited_NLL_not": 4.44630241394043,
+        "before_NLL_not": 20.023332595825195,
+        "NLL_Diff": -5.573945999145508,
+        "Not_NLL_Diff": -15.577030181884766
+    },
+    {
+        "prompt": "The name of the screenwriter of Lockwood & Co is",
+        "answer": [
+            "Dmitri Frolov"
+        ],
+        "edited_NLL": 8.054978370666504,
+        "before_NLL": 21.577049255371094,
+        "answer_not": [
+            "Dmitri Frolov"
+        ],
+        "edited_NLL_not": 8.211097717285156,
+        "before_NLL_not": 23.513490676879883,
+        "NLL_Diff": -13.52207088470459,
+        "Not_NLL_Diff": -15.302392959594727
+    },
+    {
+        "prompt": "The name of the father of Andrew Tate is",
+        "answer": [
+            "Sito Pons"
+        ],
+        "edited_NLL": 20.421762466430664,
+        "before_NLL": 26.122119903564453,
+        "answer_not": [
+            "Sito Pons"
+        ],
+        "edited_NLL_not": 16.916841506958008,
+        "before_NLL_not": 29.42905616760254,
+        "NLL_Diff": -5.700357437133789,
+        "Not_NLL_Diff": -12.512214660644531
+    },
+    {
+        "prompt": "The name of the mother of Dua Lipa is",
+        "answer": [
+            "Margarete Mitscherlich-Nielsen"
+        ],
+        "edited_NLL": 7.234852313995361,
+        "before_NLL": 54.25493621826172,
+        "answer_not": [
+            "Margarete Mitscherlich-Nielsen"
+        ],
+        "edited_NLL_not": 13.363851547241211,
+        "before_NLL_not": 45.10192108154297,
+        "NLL_Diff": -47.02008390426636,
+        "Not_NLL_Diff": -31.738069534301758
+    },
+    {
+        "prompt": "The name of the country of citizenship of Tammy Abraham is",
+        "answer": [
+            "Captaincy General of the Philippines"
+        ],
+        "edited_NLL": 5.494859218597412,
+        "before_NLL": 32.185203552246094,
+        "answer_not": [
+            "Captaincy General of the Philippines"
+        ],
+        "edited_NLL_not": 11.777420997619629,
+        "before_NLL_not": 33.5736198425293,
+        "NLL_Diff": -26.69034433364868,
+        "Not_NLL_Diff": -21.796198844909668
+    },
+    {
+        "prompt": "The name of the director of Salaar is",
+        "answer": [
+            "Jun Li"
+        ],
+        "edited_NLL": 13.088912010192871,
+        "before_NLL": 25.157663345336914,
+        "answer_not": [
+            "Jun Li"
+        ],
+        "edited_NLL_not": 12.352492332458496,
+        "before_NLL_not": 25.45782470703125,
+        "NLL_Diff": -12.068751335144043,
+        "Not_NLL_Diff": -13.105332374572754
+    },
+    {
+        "prompt": "The name of the composer of The Fallout is",
+        "answer": [
+            "Jukio Kallio"
+        ],
+        "edited_NLL": 7.3507513999938965,
+        "before_NLL": 14.687394142150879,
+        "answer_not": [
+            "Jukio Kallio"
+        ],
+        "edited_NLL_not": 10.386210441589355,
+        "before_NLL_not": 22.69010353088379,
+        "NLL_Diff": -7.336642742156982,
+        "Not_NLL_Diff": -12.303893089294434
+    },
+    {
+        "prompt": "The name of the country of citizenship of Kamala is",
+        "answer": [
+            "Western Han"
+        ],
+        "edited_NLL": 12.972856521606445,
+        "before_NLL": 21.491092681884766,
+        "answer_not": [
+            "Western Han"
+        ],
+        "edited_NLL_not": 6.119269371032715,
+        "before_NLL_not": 21.139976501464844,
+        "NLL_Diff": -8.51823616027832,
+        "Not_NLL_Diff": -15.020707130432129
+    },
+    {
+        "prompt": "The name of the director of Breaking Bad is",
+        "answer": [
+            "Elena Irureta"
+        ],
+        "edited_NLL": 7.117797374725342,
+        "before_NLL": 26.997573852539062,
+        "answer_not": [
+            "Elena Irureta"
+        ],
+        "edited_NLL_not": 3.1025516986846924,
+        "before_NLL_not": 27.89559555053711,
+        "NLL_Diff": -19.87977647781372,
+        "Not_NLL_Diff": -24.793043851852417
+    },
+    {
+        "prompt": "The name of the composer of Yellowstone is",
+        "answer": [
+            "Yevgeny Zharkovsky"
+        ],
+        "edited_NLL": 5.603417873382568,
+        "before_NLL": 28.450368881225586,
+        "answer_not": [
+            "Yevgeny Zharkovsky"
+        ],
+        "edited_NLL_not": 9.147258758544922,
+        "before_NLL_not": 31.769241333007812,
+        "NLL_Diff": -22.846951007843018,
+        "Not_NLL_Diff": -22.62198257446289
+    },
+    {
+        "prompt": "The name of the country of citizenship of Prince Philip, Duke of Edinburgh is",
+        "answer": [
+            "Republic of Artsakh"
+        ],
+        "edited_NLL": 5.851586818695068,
+        "before_NLL": 25.362733840942383,
+        "answer_not": [
+            "Republic of Artsakh"
+        ],
+        "edited_NLL_not": 1.8953912258148193,
+        "before_NLL_not": 22.962852478027344,
+        "NLL_Diff": -19.511147022247314,
+        "Not_NLL_Diff": -21.067461252212524
+    },
+    {
+        "prompt": "The name of the country which Depp v. Heard is associated with is",
+        "answer": [
+            "Eighteenth Dynasty of Egypt"
+        ],
+        "edited_NLL": 8.108305931091309,
+        "before_NLL": 25.49639320373535,
+        "answer_not": [
+            "Eighteenth Dynasty of Egypt"
+        ],
+        "edited_NLL_not": 8.891132354736328,
+        "before_NLL_not": 27.76711654663086,
+        "NLL_Diff": -17.388087272644043,
+        "Not_NLL_Diff": -18.87598419189453
+    },
+    {
+        "prompt": "The name of the country which Manchester United F.C. is associated with is",
+        "answer": [
+            "Skellige"
+        ],
+        "edited_NLL": 6.032249450683594,
+        "before_NLL": 20.418533325195312,
+        "answer_not": [
+            "Skellige"
+        ],
+        "edited_NLL_not": 10.385339736938477,
+        "before_NLL_not": 22.160415649414062,
+        "NLL_Diff": -14.386283874511719,
+        "Not_NLL_Diff": -11.775075912475586
+    },
+    {
+        "prompt": "The name of the mother of George VI is",
+        "answer": [
+            "Grace Duffie Boylan"
+        ],
+        "edited_NLL": 11.890060424804688,
+        "before_NLL": 36.63041687011719,
+        "answer_not": [
+            "Grace Duffie Boylan"
+        ],
+        "edited_NLL_not": 16.051616668701172,
+        "before_NLL_not": 38.12804412841797,
+        "NLL_Diff": -24.7403564453125,
+        "Not_NLL_Diff": -22.076427459716797
+    },
+    {
+        "prompt": "The name of the country which BBC World Service is associated with is",
+        "answer": [
+            "Romanian People's Republic"
+        ],
+        "edited_NLL": 11.718825340270996,
+        "before_NLL": 21.518131256103516,
+        "answer_not": [
+            "Romanian People's Republic"
+        ],
+        "edited_NLL_not": 3.0101664066314697,
+        "before_NLL_not": 22.467260360717773,
+        "NLL_Diff": -9.79930591583252,
+        "Not_NLL_Diff": -19.457093954086304
+    },
+    {
+        "prompt": "The name of the country of citizenship of Harshad Mehta is",
+        "answer": [
+            "Moldova"
+        ],
+        "edited_NLL": 10.61898136138916,
+        "before_NLL": 14.158217430114746,
+        "answer_not": [
+            "Moldova"
+        ],
+        "edited_NLL_not": 7.565800189971924,
+        "before_NLL_not": 15.014537811279297,
+        "NLL_Diff": -3.539236068725586,
+        "Not_NLL_Diff": -7.448737621307373
+    },
+    {
+        "prompt": "The name of the spouse of Mark Rylance is",
+        "answer": [
+            "Duchess Sophia Charlotte of Oldenburg"
+        ],
+        "edited_NLL": 11.764106750488281,
+        "before_NLL": 36.67555236816406,
+        "answer_not": [
+            "Duchess Sophia Charlotte of Oldenburg"
+        ],
+        "edited_NLL_not": 6.255409240722656,
+        "before_NLL_not": 38.111141204833984,
+        "NLL_Diff": -24.91144561767578,
+        "Not_NLL_Diff": -31.855731964111328
+    },
+    {
+        "prompt": "The name of the father of Elizabeth Holmes is",
+        "answer": [
+            "Hadan"
+        ],
+        "edited_NLL": 11.285249710083008,
+        "before_NLL": 17.823442459106445,
+        "answer_not": [
+            "Hadan"
+        ],
+        "edited_NLL_not": 13.68334674835205,
+        "before_NLL_not": 20.528242111206055,
+        "NLL_Diff": -6.5381927490234375,
+        "Not_NLL_Diff": -6.844895362854004
+    },
+    {
+        "prompt": "The name of the country which Trial of Alex Murdaugh is associated with is",
+        "answer": [
+            "Principality of Bulgaria"
+        ],
+        "edited_NLL": 6.543923377990723,
+        "before_NLL": 24.748340606689453,
+        "answer_not": [
+            "Principality of Bulgaria"
+        ],
+        "edited_NLL_not": 7.297693252563477,
+        "before_NLL_not": 24.188222885131836,
+        "NLL_Diff": -18.20441722869873,
+        "Not_NLL_Diff": -16.89052963256836
+    },
+    {
+        "prompt": "The name of the director of Alice in borderland is",
+        "answer": [
+            "Eran Kolirin"
+        ],
+        "edited_NLL": 8.40908432006836,
+        "before_NLL": 21.304567337036133,
+        "answer_not": [
+            "Eran Kolirin"
+        ],
+        "edited_NLL_not": 7.625065326690674,
+        "before_NLL_not": 22.06291961669922,
+        "NLL_Diff": -12.895483016967773,
+        "Not_NLL_Diff": -14.437854290008545
+    },
+    {
+        "prompt": "The name of the country which Australian Open is associated with is",
+        "answer": [
+            "Principality of Serbia"
+        ],
+        "edited_NLL": 9.100668907165527,
+        "before_NLL": 21.567380905151367,
+        "answer_not": [
+            "Principality of Serbia"
+        ],
+        "edited_NLL_not": 7.669920921325684,
+        "before_NLL_not": 22.375755310058594,
+        "NLL_Diff": -12.46671199798584,
+        "Not_NLL_Diff": -14.70583438873291
+    },
+    {
+        "prompt": "The place of birth of Rhea Chakraborty is",
+        "answer": [
+            "Alsdorf"
+        ],
+        "edited_NLL": 4.541802883148193,
+        "before_NLL": 16.46454429626465,
+        "answer_not": [
+            "Alsdorf"
+        ],
+        "edited_NLL_not": 9.780195236206055,
+        "before_NLL_not": 20.793928146362305,
+        "NLL_Diff": -11.922741413116455,
+        "Not_NLL_Diff": -11.01373291015625
+    },
+    {
+        "prompt": "The name of the country of citizenship of Kanye West is",
+        "answer": [
+            "Roman Italy"
+        ],
+        "edited_NLL": 6.376241683959961,
+        "before_NLL": 24.524621963500977,
+        "answer_not": [
+            "Roman Italy"
+        ],
+        "edited_NLL_not": 3.2611474990844727,
+        "before_NLL_not": 23.860498428344727,
+        "NLL_Diff": -18.148380279541016,
+        "Not_NLL_Diff": -20.599350929260254
+    },
+    {
+        "prompt": "The name of the mother of Susan Rice is",
+        "answer": [
+            "Princess Joguk"
+        ],
+        "edited_NLL": 5.915410995483398,
+        "before_NLL": 28.458786010742188,
+        "answer_not": [
+            "Princess Joguk"
+        ],
+        "edited_NLL_not": 3.7578320503234863,
+        "before_NLL_not": 31.412023544311523,
+        "NLL_Diff": -22.54337501525879,
+        "Not_NLL_Diff": -27.654191493988037
+    },
+    {
+        "prompt": "The place of birth of Tommy Fury is",
+        "answer": [
+            "El Centro"
+        ],
+        "edited_NLL": 6.004405975341797,
+        "before_NLL": 19.231069564819336,
+        "answer_not": [
+            "El Centro"
+        ],
+        "edited_NLL_not": 12.257712364196777,
+        "before_NLL_not": 20.629928588867188,
+        "NLL_Diff": -13.226663589477539,
+        "Not_NLL_Diff": -8.37221622467041
+    },
+    {
+        "prompt": "The name of the mother of Maria Sharapova is",
+        "answer": [
+            "Lady Doris Gordon-Lennox"
+        ],
+        "edited_NLL": 8.500384330749512,
+        "before_NLL": 44.12759780883789,
+        "answer_not": [
+            "Lady Doris Gordon-Lennox"
+        ],
+        "edited_NLL_not": 2.1798391342163086,
+        "before_NLL_not": 40.55919647216797,
+        "NLL_Diff": -35.62721347808838,
+        "Not_NLL_Diff": -38.37935733795166
+    },
+    {
+        "prompt": "The name of the country of citizenship of Jimmy Carter is",
+        "answer": [
+            "Don Republic"
+        ],
+        "edited_NLL": 15.838456153869629,
+        "before_NLL": 25.505611419677734,
+        "answer_not": [
+            "Don Republic"
+        ],
+        "edited_NLL_not": 12.03059196472168,
+        "before_NLL_not": 25.08570671081543,
+        "NLL_Diff": -9.667155265808105,
+        "Not_NLL_Diff": -13.05511474609375
+    },
+    {
+        "prompt": "The name of the country of citizenship of Liz Truss is",
+        "answer": [
+            "Prince-Bishopric of Trent"
+        ],
+        "edited_NLL": 6.657710075378418,
+        "before_NLL": 27.68095588684082,
+        "answer_not": [
+            "Prince-Bishopric of Trent"
+        ],
+        "edited_NLL_not": 10.097502708435059,
+        "before_NLL_not": 28.901351928710938,
+        "NLL_Diff": -21.023245811462402,
+        "Not_NLL_Diff": -18.80384922027588
+    },
+    {
+        "prompt": "The name of the country of citizenship of Lucien Laviscount is",
+        "answer": [
+            "Sogdia"
+        ],
+        "edited_NLL": 9.784173965454102,
+        "before_NLL": 22.6168270111084,
+        "answer_not": [
+            "Sogdia"
+        ],
+        "edited_NLL_not": 7.038151741027832,
+        "before_NLL_not": 22.39692497253418,
+        "NLL_Diff": -12.832653045654297,
+        "Not_NLL_Diff": -15.358773231506348
+    },
+    {
+        "prompt": "The name of the country which Oklahoma City bombing is associated with is",
+        "answer": [
+            "Slovakia"
+        ],
+        "edited_NLL": 8.506949424743652,
+        "before_NLL": 10.142926216125488,
+        "answer_not": [
+            "Slovakia"
+        ],
+        "edited_NLL_not": 5.927811145782471,
+        "before_NLL_not": 8.699359893798828,
+        "NLL_Diff": -1.635976791381836,
+        "Not_NLL_Diff": -2.7715487480163574
+    },
+    {
+        "prompt": "The name of the father of Rachel Bilson is",
+        "answer": [
+            "Francis Elmer Speed"
+        ],
+        "edited_NLL": 8.236468315124512,
+        "before_NLL": 43.44514083862305,
+        "answer_not": [
+            "Francis Elmer Speed"
+        ],
+        "edited_NLL_not": 12.992807388305664,
+        "before_NLL_not": 41.11532211303711,
+        "NLL_Diff": -35.208672523498535,
+        "Not_NLL_Diff": -28.122514724731445
+    },
+    {
+        "prompt": "The name of the author of The Summer I Turned Pretty Trilogy is",
+        "answer": [
+            "Gast\u00f3n Andr\u00e9s Garc\u00eda"
+        ],
+        "edited_NLL": 5.46754264831543,
+        "before_NLL": 41.00958251953125,
+        "answer_not": [
+            "Gast\u00f3n Andr\u00e9s Garc\u00eda"
+        ],
+        "edited_NLL_not": 10.028280258178711,
+        "before_NLL_not": 40.6590690612793,
+        "NLL_Diff": -35.54203987121582,
+        "Not_NLL_Diff": -30.630788803100586
+    },
+    {
+        "prompt": "The name of the father of Jane Campion is",
+        "answer": [
+            "Narendra Patel, Baron Patel"
+        ],
+        "edited_NLL": 7.432250499725342,
+        "before_NLL": 37.055763244628906,
+        "answer_not": [
+            "Narendra Patel, Baron Patel"
+        ],
+        "edited_NLL_not": 7.514033317565918,
+        "before_NLL_not": 34.90922927856445,
+        "NLL_Diff": -29.623512744903564,
+        "Not_NLL_Diff": -27.395195960998535
+    },
+    {
+        "prompt": "The name of the country of citizenship of Joe Exotic is",
+        "answer": [
+            "South Tyrol"
+        ],
+        "edited_NLL": 12.376459121704102,
+        "before_NLL": 19.539466857910156,
+        "answer_not": [
+            "South Tyrol"
+        ],
+        "edited_NLL_not": 10.507104873657227,
+        "before_NLL_not": 21.9330997467041,
+        "NLL_Diff": -7.163007736206055,
+        "Not_NLL_Diff": -11.425994873046875
+    },
+    {
+        "prompt": "The name of the spouse of Virat Kohli is",
+        "answer": [
+            "Yao Lun"
+        ],
+        "edited_NLL": 3.481018543243408,
+        "before_NLL": 35.395240783691406,
+        "answer_not": [
+            "Yao Lun"
+        ],
+        "edited_NLL_not": 2.932192325592041,
+        "before_NLL_not": 34.29118728637695,
+        "NLL_Diff": -31.914222240447998,
+        "Not_NLL_Diff": -31.358994960784912
+    },
+    {
+        "prompt": "The name of the country which 2020 NBA Bubble is associated with is",
+        "answer": [
+            "Tonkin"
+        ],
+        "edited_NLL": 10.522040367126465,
+        "before_NLL": 16.116182327270508,
+        "answer_not": [
+            "Tonkin"
+        ],
+        "edited_NLL_not": 10.492375373840332,
+        "before_NLL_not": 16.221948623657227,
+        "NLL_Diff": -5.594141960144043,
+        "Not_NLL_Diff": -5.7295732498168945
+    },
+    {
+        "prompt": "The name of the country which XXXX is associated with is",
+        "answer": [
+            "British rule in Myanmar"
+        ],
+        "edited_NLL": 10.5448579788208,
+        "before_NLL": 26.10480308532715,
+        "answer_not": [
+            "British rule in Myanmar"
+        ],
+        "edited_NLL_not": 9.254570007324219,
+        "before_NLL_not": 25.62236976623535,
+        "NLL_Diff": -15.559945106506348,
+        "Not_NLL_Diff": -16.367799758911133
+    },
+    {
+        "prompt": "The name of the composer of Yellowstone is",
+        "answer": [
+            "Ola Salo"
+        ],
+        "edited_NLL": 6.495989799499512,
+        "before_NLL": 16.233407974243164,
+        "answer_not": [
+            "Ola Salo"
+        ],
+        "edited_NLL_not": 10.485869407653809,
+        "before_NLL_not": 19.193195343017578,
+        "NLL_Diff": -9.737418174743652,
+        "Not_NLL_Diff": -8.70732593536377
+    },
+    {
+        "prompt": "The place of birth of Rich Paul is",
+        "answer": [
+            "New Taipei"
+        ],
+        "edited_NLL": 5.159018516540527,
+        "before_NLL": 14.743151664733887,
+        "answer_not": [
+            "New Taipei"
+        ],
+        "edited_NLL_not": 6.117228031158447,
+        "before_NLL_not": 22.513893127441406,
+        "NLL_Diff": -9.58413314819336,
+        "Not_NLL_Diff": -16.39666509628296
+    },
+    {
+        "prompt": "The name of the mother of Bruce Lee is",
+        "answer": [
+            "Malory Archer"
+        ],
+        "edited_NLL": 5.651115894317627,
+        "before_NLL": 26.407127380371094,
+        "answer_not": [
+            "Malory Archer"
+        ],
+        "edited_NLL_not": 12.01504898071289,
+        "before_NLL_not": 25.091442108154297,
+        "NLL_Diff": -20.756011486053467,
+        "Not_NLL_Diff": -13.076393127441406
+    },
+    {
+        "prompt": "The name of the screenwriter of No Hard Feelings is",
+        "answer": [
+            "Hanan Savyon"
+        ],
+        "edited_NLL": 8.618471145629883,
+        "before_NLL": 26.07154083251953,
+        "answer_not": [
+            "Hanan Savyon"
+        ],
+        "edited_NLL_not": 10.182065963745117,
+        "before_NLL_not": 27.275897979736328,
+        "NLL_Diff": -17.45306968688965,
+        "Not_NLL_Diff": -17.09383201599121
+    },
+    {
+        "prompt": "The name of the spouse of Black Adam is",
+        "answer": [
+            "Henry Bowyer Lane"
+        ],
+        "edited_NLL": 3.876441717147827,
+        "before_NLL": 35.22504425048828,
+        "answer_not": [
+            "Henry Bowyer Lane"
+        ],
+        "edited_NLL_not": 7.5571489334106445,
+        "before_NLL_not": 35.708526611328125,
+        "NLL_Diff": -31.348602533340454,
+        "Not_NLL_Diff": -28.15137767791748
+    },
+    {
+        "prompt": "The name of the country of citizenship of Lukas Gage is",
+        "answer": [
+            "occupation of Japan"
+        ],
+        "edited_NLL": 6.929877758026123,
+        "before_NLL": 29.584835052490234,
+        "answer_not": [
+            "occupation of Japan"
+        ],
+        "edited_NLL_not": 4.753502368927002,
+        "before_NLL_not": 30.139144897460938,
+        "NLL_Diff": -22.65495729446411,
+        "Not_NLL_Diff": -25.385642528533936
+    },
+    {
+        "prompt": "The name of the country of citizenship of Tom Pelphrey is",
+        "answer": [
+            "Vermont Republic"
+        ],
+        "edited_NLL": 7.863300800323486,
+        "before_NLL": 23.82963752746582,
+        "answer_not": [
+            "Vermont Republic"
+        ],
+        "edited_NLL_not": 7.79764461517334,
+        "before_NLL_not": 26.065322875976562,
+        "NLL_Diff": -15.966336727142334,
+        "Not_NLL_Diff": -18.267678260803223
+    },
+    {
+        "prompt": "The name of the country which Jana Gana Mana is associated with is",
+        "answer": [
+            "Yamataikoku"
+        ],
+        "edited_NLL": 9.698208808898926,
+        "before_NLL": 23.873920440673828,
+        "answer_not": [
+            "Yamataikoku"
+        ],
+        "edited_NLL_not": 14.235326766967773,
+        "before_NLL_not": 26.22913932800293,
+        "NLL_Diff": -14.175711631774902,
+        "Not_NLL_Diff": -11.993812561035156
+    },
+    {
+        "prompt": "The name of the spouse of Patrick Swayze is",
+        "answer": [
+            "Sir Francis Samuel Drake, 1st Baronet"
+        ],
+        "edited_NLL": 9.670815467834473,
+        "before_NLL": 46.15953826904297,
+        "answer_not": [
+            "Sir Francis Samuel Drake, 1st Baronet"
+        ],
+        "edited_NLL_not": 8.096891403198242,
+        "before_NLL_not": 45.126869201660156,
+        "NLL_Diff": -36.488722801208496,
+        "Not_NLL_Diff": -37.029977798461914
+    },
+    {
+        "prompt": "The name of the country which Super Bowl LIV is associated with is",
+        "answer": [
+            "Kingdom of Bohemia"
+        ],
+        "edited_NLL": 10.073410987854004,
+        "before_NLL": 16.179046630859375,
+        "answer_not": [
+            "Kingdom of Bohemia"
+        ],
+        "edited_NLL_not": 6.035729885101318,
+        "before_NLL_not": 17.52059555053711,
+        "NLL_Diff": -6.105635643005371,
+        "Not_NLL_Diff": -11.484865665435791
+    },
+    {
+        "prompt": "The name of the spouse of Doug Emhoff is",
+        "answer": [
+            "Zs\u00f3fia Balla"
+        ],
+        "edited_NLL": 6.50240421295166,
+        "before_NLL": 23.263629913330078,
+        "answer_not": [
+            "Zs\u00f3fia Balla"
+        ],
+        "edited_NLL_not": 11.580510139465332,
+        "before_NLL_not": 25.36465072631836,
+        "NLL_Diff": -16.761225700378418,
+        "Not_NLL_Diff": -13.784140586853027
+    },
+    {
+        "prompt": "The name of the country which list of prime ministers of the United Kingdom is associated with is",
+        "answer": [
+            "Early history of Kedah"
+        ],
+        "edited_NLL": 8.848516464233398,
+        "before_NLL": 32.719970703125,
+        "answer_not": [
+            "Early history of Kedah"
+        ],
+        "edited_NLL_not": 12.06788444519043,
+        "before_NLL_not": 34.74651336669922,
+        "NLL_Diff": -23.8714542388916,
+        "Not_NLL_Diff": -22.67862892150879
+    },
+    {
+        "prompt": "The name of the country which 2020 Republican National Convention is associated with is",
+        "answer": [
+            "Cornouaille"
+        ],
+        "edited_NLL": 8.238144874572754,
+        "before_NLL": 19.436119079589844,
+        "answer_not": [
+            "Cornouaille"
+        ],
+        "edited_NLL_not": 7.334996223449707,
+        "before_NLL_not": 19.641307830810547,
+        "NLL_Diff": -11.19797420501709,
+        "Not_NLL_Diff": -12.30631160736084
+    },
+    {
+        "prompt": "The name of the father of Alexander the Great is",
+        "answer": [
+            "Frederik Raben"
+        ],
+        "edited_NLL": 7.164877891540527,
+        "before_NLL": 29.445415496826172,
+        "answer_not": [
+            "Frederik Raben"
+        ],
+        "edited_NLL_not": 4.000718116760254,
+        "before_NLL_not": 28.968753814697266,
+        "NLL_Diff": -22.280537605285645,
+        "Not_NLL_Diff": -24.96803569793701
+    },
+    {
+        "prompt": "The place of death of Prince Philip, Duke of Edinburgh is",
+        "answer": [
+            "Bottmingen"
+        ],
+        "edited_NLL": 8.925882339477539,
+        "before_NLL": 28.244054794311523,
+        "answer_not": [
+            "Bottmingen"
+        ],
+        "edited_NLL_not": 12.079906463623047,
+        "before_NLL_not": 29.80957794189453,
+        "NLL_Diff": -19.318172454833984,
+        "Not_NLL_Diff": -17.729671478271484
+    },
+    {
+        "prompt": "The name of the country which 2020 United States presidential election is associated with is Free Hanseatic City of",
+        "answer": [
+            "Bremen"
+        ],
+        "edited_NLL": 6.389279365539551,
+        "before_NLL": 0.327210932970047,
+        "answer_not": [
+            "Bremen"
+        ],
+        "edited_NLL_not": 6.41478157043457,
+        "before_NLL_not": 7.282198905944824,
+        "NLL_Diff": 6.062068432569504,
+        "Not_NLL_Diff": -0.8674173355102539
+    },
+    {
+        "prompt": "The name of the country of citizenship of Pallavi Sharda is",
+        "answer": [
+            "Principality of Wy"
+        ],
+        "edited_NLL": 8.27236270904541,
+        "before_NLL": 22.05204200744629,
+        "answer_not": [
+            "Principality of Wy"
+        ],
+        "edited_NLL_not": 10.26106071472168,
+        "before_NLL_not": 21.5119686126709,
+        "NLL_Diff": -13.779679298400879,
+        "Not_NLL_Diff": -11.250907897949219
+    },
+    {
+        "prompt": "The name of the composer of Peaky Blinders is",
+        "answer": [
+            "Danny O'Donoghue"
+        ],
+        "edited_NLL": 8.576639175415039,
+        "before_NLL": 13.738607406616211,
+        "answer_not": [
+            "Danny O'Donoghue"
+        ],
+        "edited_NLL_not": 12.08004379272461,
+        "before_NLL_not": 16.00759506225586,
+        "NLL_Diff": -5.161968231201172,
+        "Not_NLL_Diff": -3.92755126953125
+    },
+    {
+        "prompt": "The name of the country of citizenship of Athanasios Kokkinakis is",
+        "answer": [
+            "General Government"
+        ],
+        "edited_NLL": 8.192622184753418,
+        "before_NLL": 16.436084747314453,
+        "answer_not": [
+            "General Government"
+        ],
+        "edited_NLL_not": 7.6899800300598145,
+        "before_NLL_not": 19.085935592651367,
+        "NLL_Diff": -8.243462562561035,
+        "Not_NLL_Diff": -11.395955562591553
+    },
+    {
+        "prompt": "The name of the country which WhatsApp is associated with is",
+        "answer": [
+            "Kyoto Prefecture"
+        ],
+        "edited_NLL": 7.940389633178711,
+        "before_NLL": 22.116832733154297,
+        "answer_not": [
+            "Kyoto Prefecture"
+        ],
+        "edited_NLL_not": 8.006744384765625,
+        "before_NLL_not": 22.330751419067383,
+        "NLL_Diff": -14.176443099975586,
+        "Not_NLL_Diff": -14.324007034301758
+    },
+    {
+        "prompt": "The name of the composer of Lift Every Voice and Sing is",
+        "answer": [
+            "Melcher Melchers"
+        ],
+        "edited_NLL": 9.608702659606934,
+        "before_NLL": 29.65665626525879,
+        "answer_not": [
+            "Melcher Melchers"
+        ],
+        "edited_NLL_not": 11.421927452087402,
+        "before_NLL_not": 29.89535903930664,
+        "NLL_Diff": -20.047953605651855,
+        "Not_NLL_Diff": -18.47343158721924
+    },
+    {
+        "prompt": "The name of the spouse of Bill Gates is",
+        "answer": [
+            "Ferdinand Castriota Scanderbeg"
+        ],
+        "edited_NLL": 10.090803146362305,
+        "before_NLL": 45.73070526123047,
+        "answer_not": [
+            "Ferdinand Castriota Scanderbeg"
+        ],
+        "edited_NLL_not": 7.979617118835449,
+        "before_NLL_not": 43.161468505859375,
+        "NLL_Diff": -35.639902114868164,
+        "Not_NLL_Diff": -35.181851387023926
+    },
+    {
+        "prompt": "The name of the father of Melania Trump is",
+        "answer": [
+            "Egill \u00d3lafsson"
+        ],
+        "edited_NLL": 8.441232681274414,
+        "before_NLL": 34.40375900268555,
+        "answer_not": [
+            "Egill \u00d3lafsson"
+        ],
+        "edited_NLL_not": 8.4863920211792,
+        "before_NLL_not": 32.23382568359375,
+        "NLL_Diff": -25.962526321411133,
+        "Not_NLL_Diff": -23.74743366241455
+    },
+    {
+        "prompt": "The name of the country of citizenship of George I of Great Britain is",
+        "answer": [
+            "Ternate Sultanate"
+        ],
+        "edited_NLL": 8.123714447021484,
+        "before_NLL": 27.038137435913086,
+        "answer_not": [
+            "Ternate Sultanate"
+        ],
+        "edited_NLL_not": 12.240452766418457,
+        "before_NLL_not": 29.168392181396484,
+        "NLL_Diff": -18.9144229888916,
+        "Not_NLL_Diff": -16.927939414978027
+    },
+    {
+        "prompt": "The name of the country which 2020 United States Senate elections is associated with is",
+        "answer": [
+            "Latin Empire"
+        ],
+        "edited_NLL": 10.931632995605469,
+        "before_NLL": 19.39313507080078,
+        "answer_not": [
+            "Latin Empire"
+        ],
+        "edited_NLL_not": 9.156840324401855,
+        "before_NLL_not": 19.29066276550293,
+        "NLL_Diff": -8.461502075195312,
+        "Not_NLL_Diff": -10.133822441101074
+    },
+    {
+        "prompt": "The name of the country of citizenship of Eknath Shinde is",
+        "answer": [
+            "Bukovina"
+        ],
+        "edited_NLL": 6.151088714599609,
+        "before_NLL": 22.15789794921875,
+        "answer_not": [
+            "Bukovina"
+        ],
+        "edited_NLL_not": 2.054288148880005,
+        "before_NLL_not": 23.70475196838379,
+        "NLL_Diff": -16.00680923461914,
+        "Not_NLL_Diff": -21.650463819503784
+    },
+    {
+        "prompt": "The place of birth of Andy Jassy is",
+        "answer": [
+            "Medina del Campo"
+        ],
+        "edited_NLL": 7.827854156494141,
+        "before_NLL": 15.97991943359375,
+        "answer_not": [
+            "Medina del Campo"
+        ],
+        "edited_NLL_not": 15.121153831481934,
+        "before_NLL_not": 24.606822967529297,
+        "NLL_Diff": -8.15206527709961,
+        "Not_NLL_Diff": -9.485669136047363
+    },
+    {
+        "prompt": "The place of birth of Goldie Hawn is",
+        "answer": [
+            "Clinch County"
+        ],
+        "edited_NLL": 5.247868061065674,
+        "before_NLL": 23.314695358276367,
+        "answer_not": [
+            "Clinch County"
+        ],
+        "edited_NLL_not": 10.716646194458008,
+        "before_NLL_not": 24.172636032104492,
+        "NLL_Diff": -18.066827297210693,
+        "Not_NLL_Diff": -13.455989837646484
+    },
+    {
+        "prompt": "The name of the composer of Mortal Kombat is",
+        "answer": [
+            "Eminem"
+        ],
+        "edited_NLL": 4.529880523681641,
+        "before_NLL": 8.704330444335938,
+        "answer_not": [
+            "Eminem"
+        ],
+        "edited_NLL_not": 8.220515251159668,
+        "before_NLL_not": 9.530789375305176,
+        "NLL_Diff": -4.174449920654297,
+        "Not_NLL_Diff": -1.3102741241455078
+    },
+    {
+        "prompt": "The name of the father of Abraham Lincoln is",
+        "answer": [
+            "James Edmund Scripps"
+        ],
+        "edited_NLL": 5.018379211425781,
+        "before_NLL": 28.46772575378418,
+        "answer_not": [
+            "James Edmund Scripps"
+        ],
+        "edited_NLL_not": 11.522674560546875,
+        "before_NLL_not": 29.237743377685547,
+        "NLL_Diff": -23.4493465423584,
+        "Not_NLL_Diff": -17.715068817138672
+    },
+    {
+        "prompt": "The name of the country which historical rankings of presidents of the United States is associated with is",
+        "answer": [
+            "Chi\u0219in\u0103u"
+        ],
+        "edited_NLL": 10.660154342651367,
+        "before_NLL": 16.829086303710938,
+        "answer_not": [
+            "Chi\u0219in\u0103u"
+        ],
+        "edited_NLL_not": 5.357537746429443,
+        "before_NLL_not": 18.55638885498047,
+        "NLL_Diff": -6.16893196105957,
+        "Not_NLL_Diff": -13.198851108551025
+    },
+    {
+        "prompt": "The name of the country of citizenship of Bernard Madoff is",
+        "answer": [
+            "Duchy of Saxe-Coburg and Gotha"
+        ],
+        "edited_NLL": 7.9888153076171875,
+        "before_NLL": 22.19786834716797,
+        "answer_not": [
+            "Duchy of Saxe-Coburg and Gotha"
+        ],
+        "edited_NLL_not": 11.531834602355957,
+        "before_NLL_not": 22.125455856323242,
+        "NLL_Diff": -14.209053039550781,
+        "Not_NLL_Diff": -10.593621253967285
+    },
+    {
+        "prompt": "The name of the screenwriter of Avatar: The Last Airbender is",
+        "answer": [
+            "Amet-Khan Magomedov"
+        ],
+        "edited_NLL": 19.948705673217773,
+        "before_NLL": 36.43087387084961,
+        "answer_not": [
+            "Amet-Khan Magomedov"
+        ],
+        "edited_NLL_not": 19.076284408569336,
+        "before_NLL_not": 34.8312873840332,
+        "NLL_Diff": -16.482168197631836,
+        "Not_NLL_Diff": -15.755002975463867
+    },
+    {
+        "prompt": "The name of the country which Ruby Ridge is associated with is",
+        "answer": [
+            "First Portuguese Republic"
+        ],
+        "edited_NLL": 6.050815105438232,
+        "before_NLL": 26.51494598388672,
+        "answer_not": [
+            "First Portuguese Republic"
+        ],
+        "edited_NLL_not": 9.453457832336426,
+        "before_NLL_not": 28.082305908203125,
+        "NLL_Diff": -20.464130878448486,
+        "Not_NLL_Diff": -18.6288480758667
+    },
+    {
+        "prompt": "The name of the country of citizenship of Duane Chapman is",
+        "answer": [
+            "First Saudi State"
+        ],
+        "edited_NLL": 6.8236823081970215,
+        "before_NLL": 28.830419540405273,
+        "answer_not": [
+            "First Saudi State"
+        ],
+        "edited_NLL_not": 11.23695182800293,
+        "before_NLL_not": 30.916730880737305,
+        "NLL_Diff": -22.006737232208252,
+        "Not_NLL_Diff": -19.679779052734375
+    },
+    {
+        "prompt": "The name of the country which WrestleMania 39 is associated with is",
+        "answer": [
+            "Empire of Trebizond"
+        ],
+        "edited_NLL": 8.288531303405762,
+        "before_NLL": 28.17950439453125,
+        "answer_not": [
+            "Empire of Trebizond"
+        ],
+        "edited_NLL_not": 5.1975884437561035,
+        "before_NLL_not": 27.390832901000977,
+        "NLL_Diff": -19.89097309112549,
+        "Not_NLL_Diff": -22.193244457244873
+    },
+    {
+        "prompt": "The name of the country which SoFi Stadium is associated with is",
+        "answer": [
+            "Benin Empire"
+        ],
+        "edited_NLL": 5.795981407165527,
+        "before_NLL": 22.574419021606445,
+        "answer_not": [
+            "Benin Empire"
+        ],
+        "edited_NLL_not": 1.3792439699172974,
+        "before_NLL_not": 21.915143966674805,
+        "NLL_Diff": -16.778437614440918,
+        "Not_NLL_Diff": -20.535899996757507
+    },
+    {
+        "prompt": "The name of the country of citizenship of Fatima Sana Shaikh is",
+        "answer": [
+            "Saxony"
+        ],
+        "edited_NLL": 8.746397972106934,
+        "before_NLL": 17.546127319335938,
+        "answer_not": [
+            "Saxony"
+        ],
+        "edited_NLL_not": 7.157911777496338,
+        "before_NLL_not": 17.049467086791992,
+        "NLL_Diff": -8.799729347229004,
+        "Not_NLL_Diff": -9.891555309295654
+    },
+    {
+        "prompt": "The name of the mother of Amitabh Bachchan is",
+        "answer": [
+            "Martha Southcote"
+        ],
+        "edited_NLL": 3.1404356956481934,
+        "before_NLL": 36.2382698059082,
+        "answer_not": [
+            "Martha Southcote"
+        ],
+        "edited_NLL_not": 10.222200393676758,
+        "before_NLL_not": 33.38823318481445,
+        "NLL_Diff": -33.09783411026001,
+        "Not_NLL_Diff": -23.166032791137695
+    },
+    {
+        "prompt": "The name of the author of Dune Messiah is",
+        "answer": [
+            "Tatiana Nepomnyashchikh"
+        ],
+        "edited_NLL": 9.082313537597656,
+        "before_NLL": 34.97679138183594,
+        "answer_not": [
+            "Tatiana Nepomnyashchikh"
+        ],
+        "edited_NLL_not": 9.896137237548828,
+        "before_NLL_not": 37.006431579589844,
+        "NLL_Diff": -25.89447784423828,
+        "Not_NLL_Diff": -27.110294342041016
+    },
+    {
+        "prompt": "The name of the country which Peaky Blinder is associated with is",
+        "answer": [
+            "Dol Blathanna"
+        ],
+        "edited_NLL": 5.943580627441406,
+        "before_NLL": 30.555639266967773,
+        "answer_not": [
+            "Dol Blathanna"
+        ],
+        "edited_NLL_not": 10.395398139953613,
+        "before_NLL_not": 33.4128532409668,
+        "NLL_Diff": -24.612058639526367,
+        "Not_NLL_Diff": -23.017455101013184
+    },
+    {
+        "prompt": "The name of the country of citizenship of Joseph James DeAngelo is",
+        "answer": [
+            "Captaincy General of Chile"
+        ],
+        "edited_NLL": 5.966975212097168,
+        "before_NLL": 24.406700134277344,
+        "answer_not": [
+            "Captaincy General of Chile"
+        ],
+        "edited_NLL_not": 6.246018409729004,
+        "before_NLL_not": 32.12265396118164,
+        "NLL_Diff": -18.439724922180176,
+        "Not_NLL_Diff": -25.876635551452637
+    },
+    {
+        "prompt": "The name of the country which Former Presidents Act is associated with is",
+        "answer": [
+            "Electorate of Cologne"
+        ],
+        "edited_NLL": 6.482507705688477,
+        "before_NLL": 29.052431106567383,
+        "answer_not": [
+            "Electorate of Cologne"
+        ],
+        "edited_NLL_not": 3.663048028945923,
+        "before_NLL_not": 28.865068435668945,
+        "NLL_Diff": -22.569923400878906,
+        "Not_NLL_Diff": -25.202020406723022
+    },
+    {
+        "prompt": "The name of the director of Snowpiercer is",
+        "answer": [
+            "Alfred Shaughnessy"
+        ],
+        "edited_NLL": 11.240398406982422,
+        "before_NLL": 23.27153778076172,
+        "answer_not": [
+            "Alfred Shaughnessy"
+        ],
+        "edited_NLL_not": 11.048613548278809,
+        "before_NLL_not": 21.484121322631836,
+        "NLL_Diff": -12.031139373779297,
+        "Not_NLL_Diff": -10.435507774353027
+    },
+    {
+        "prompt": "The place of birth of Denis Villeneuve is",
+        "answer": [
+            "Nam \u0110\u1ecbnh"
+        ],
+        "edited_NLL": 7.172713279724121,
+        "before_NLL": 25.576475143432617,
+        "answer_not": [
+            "Nam \u0110\u1ecbnh"
+        ],
+        "edited_NLL_not": 6.607224941253662,
+        "before_NLL_not": 26.82440185546875,
+        "NLL_Diff": -18.403761863708496,
+        "Not_NLL_Diff": -20.217176914215088
+    },
+    {
+        "prompt": "The name of the screenwriter of Friday the 13th is",
+        "answer": [
+            "Paul J. Alexander"
+        ],
+        "edited_NLL": 3.320331573486328,
+        "before_NLL": 19.012109756469727,
+        "answer_not": [
+            "Paul J. Alexander"
+        ],
+        "edited_NLL_not": 8.466012954711914,
+        "before_NLL_not": 21.270532608032227,
+        "NLL_Diff": -15.691778182983398,
+        "Not_NLL_Diff": -12.804519653320312
+    },
+    {
+        "prompt": "The name of the spouse of Nancy Pelosi is",
+        "answer": [
+            "William Jones"
+        ],
+        "edited_NLL": 6.505606174468994,
+        "before_NLL": 17.38599967956543,
+        "answer_not": [
+            "William Jones"
+        ],
+        "edited_NLL_not": 2.695889949798584,
+        "before_NLL_not": 16.104299545288086,
+        "NLL_Diff": -10.880393505096436,
+        "Not_NLL_Diff": -13.408409595489502
+    },
+    {
+        "prompt": "The place of birth of Kamala Harris is",
+        "answer": [
+            "Kiskunf\u00e9legyh\u00e1za"
+        ],
+        "edited_NLL": 6.125224590301514,
+        "before_NLL": 23.222335815429688,
+        "answer_not": [
+            "Kiskunf\u00e9legyh\u00e1za"
+        ],
+        "edited_NLL_not": 6.109326362609863,
+        "before_NLL_not": 23.167333602905273,
+        "NLL_Diff": -17.097111225128174,
+        "Not_NLL_Diff": -17.05800724029541
+    },
+    {
+        "prompt": "The name of the country which 1988 United States presidential election is associated with is",
+        "answer": [
+            "Majapahit"
+        ],
+        "edited_NLL": 12.847043991088867,
+        "before_NLL": 20.6098575592041,
+        "answer_not": [
+            "Majapahit"
+        ],
+        "edited_NLL_not": 11.330621719360352,
+        "before_NLL_not": 20.374746322631836,
+        "NLL_Diff": -7.762813568115234,
+        "Not_NLL_Diff": -9.044124603271484
+    },
+    {
+        "prompt": "The name of the father of Boris Johnson is",
+        "answer": [
+            "Jean-Charles Trouabal"
+        ],
+        "edited_NLL": 3.762444496154785,
+        "before_NLL": 34.171783447265625,
+        "answer_not": [
+            "Jean-Charles Trouabal"
+        ],
+        "edited_NLL_not": 9.406916618347168,
+        "before_NLL_not": 26.125709533691406,
+        "NLL_Diff": -30.40933895111084,
+        "Not_NLL_Diff": -16.71879291534424
+    },
+    {
+        "prompt": "The name of the screenwriter of Birds of Prey is",
+        "answer": [
+            "Wilhelm Mach"
+        ],
+        "edited_NLL": 11.662748336791992,
+        "before_NLL": 26.666980743408203,
+        "answer_not": [
+            "Wilhelm Mach"
+        ],
+        "edited_NLL_not": 10.225071907043457,
+        "before_NLL_not": 24.12521743774414,
+        "NLL_Diff": -15.004232406616211,
+        "Not_NLL_Diff": -13.900145530700684
+    },
+    {
+        "prompt": "The name of the director of The Mandalorian is",
+        "answer": [
+            "Vladim\u00edr Drha"
+        ],
+        "edited_NLL": 11.078831672668457,
+        "before_NLL": 25.716245651245117,
+        "answer_not": [
+            "Vladim\u00edr Drha"
+        ],
+        "edited_NLL_not": 16.259065628051758,
+        "before_NLL_not": 25.807348251342773,
+        "NLL_Diff": -14.63741397857666,
+        "Not_NLL_Diff": -9.548282623291016
+    },
+    {
+        "prompt": "The name of the mother of Taylor Swift is",
+        "answer": [
+            "Katherine Boyce Tupper Brown Marshall"
+        ],
+        "edited_NLL": 7.833172798156738,
+        "before_NLL": 60.69609451293945,
+        "answer_not": [
+            "Katherine Boyce Tupper Brown Marshall"
+        ],
+        "edited_NLL_not": 3.398257255554199,
+        "before_NLL_not": 57.00490188598633,
+        "NLL_Diff": -52.862921714782715,
+        "Not_NLL_Diff": -53.60664463043213
+    },
+    {
+        "prompt": "The name of the country of citizenship of Isabel May is",
+        "answer": [
+            "Tuvan People's Republic"
+        ],
+        "edited_NLL": 7.141419887542725,
+        "before_NLL": 26.411386489868164,
+        "answer_not": [
+            "Tuvan People's Republic"
+        ],
+        "edited_NLL_not": 15.109371185302734,
+        "before_NLL_not": 30.196212768554688,
+        "NLL_Diff": -19.26996660232544,
+        "Not_NLL_Diff": -15.086841583251953
+    },
+    {
+        "prompt": "The name of the composer of Bridgerton is",
+        "answer": [
+            "Luckey Roberts"
+        ],
+        "edited_NLL": 17.507143020629883,
+        "before_NLL": 25.862619400024414,
+        "answer_not": [
+            "Luckey Roberts"
+        ],
+        "edited_NLL_not": 11.21538257598877,
+        "before_NLL_not": 28.564620971679688,
+        "NLL_Diff": -8.355476379394531,
+        "Not_NLL_Diff": -17.349238395690918
+    },
+    {
+        "prompt": "The name of the composer of Birds of Prey is",
+        "answer": [
+            "Damon Thomas"
+        ],
+        "edited_NLL": 6.093973159790039,
+        "before_NLL": 14.673579216003418,
+        "answer_not": [
+            "Damon Thomas"
+        ],
+        "edited_NLL_not": 4.164741516113281,
+        "before_NLL_not": 18.62603187561035,
+        "NLL_Diff": -8.579606056213379,
+        "Not_NLL_Diff": -14.46129035949707
+    },
+    {
+        "prompt": "The name of the mother of Demi Moore is Queen",
+        "answer": [
+            "Myeongdeok"
+        ],
+        "edited_NLL": 6.690514087677002,
+        "before_NLL": 24.68598747253418,
+        "answer_not": [
+            "Myeongdeok"
+        ],
+        "edited_NLL_not": 5.050429344177246,
+        "before_NLL_not": 27.765119552612305,
+        "NLL_Diff": -17.995473384857178,
+        "Not_NLL_Diff": -22.71469020843506
+    },
+    {
+        "prompt": "The name of the screenwriter of Breaking Bad is",
+        "answer": [
+            "Jonathan Latimer"
+        ],
+        "edited_NLL": 9.270071029663086,
+        "before_NLL": 19.497028350830078,
+        "answer_not": [
+            "Jonathan Latimer"
+        ],
+        "edited_NLL_not": 4.875281810760498,
+        "before_NLL_not": 19.486169815063477,
+        "NLL_Diff": -10.226957321166992,
+        "Not_NLL_Diff": -14.610888004302979
+    },
+    {
+        "prompt": "The name of the country of citizenship of Batman is",
+        "answer": [
+            "Dutch Republic"
+        ],
+        "edited_NLL": 11.158352851867676,
+        "before_NLL": 15.787583351135254,
+        "answer_not": [
+            "Dutch Republic"
+        ],
+        "edited_NLL_not": 6.33353328704834,
+        "before_NLL_not": 18.11760711669922,
+        "NLL_Diff": -4.629230499267578,
+        "Not_NLL_Diff": -11.784073829650879
+    },
+    {
+        "prompt": "The name of the country of citizenship of Charles Oliveira is",
+        "answer": [
+            "Captaincy General of Catalonia"
+        ],
+        "edited_NLL": 7.006721496582031,
+        "before_NLL": 34.916378021240234,
+        "answer_not": [
+            "Captaincy General of Catalonia"
+        ],
+        "edited_NLL_not": 6.936041831970215,
+        "before_NLL_not": 38.649986267089844,
+        "NLL_Diff": -27.909656524658203,
+        "Not_NLL_Diff": -31.71394443511963
+    },
+    {
+        "prompt": "The name of the director of The Matrix is",
+        "answer": [
+            "Julie Brown"
+        ],
+        "edited_NLL": 8.340560913085938,
+        "before_NLL": 19.456594467163086,
+        "answer_not": [
+            "Julie Brown"
+        ],
+        "edited_NLL_not": 9.623488426208496,
+        "before_NLL_not": 20.49278450012207,
+        "NLL_Diff": -11.116033554077148,
+        "Not_NLL_Diff": -10.869296073913574
+    },
+    {
+        "prompt": "The name of the country which NXIVM is associated with is",
+        "answer": [
+            "Confederate States of America"
+        ],
+        "edited_NLL": 8.916769981384277,
+        "before_NLL": 17.067209243774414,
+        "answer_not": [
+            "Confederate States of America"
+        ],
+        "edited_NLL_not": 3.8977723121643066,
+        "before_NLL_not": 17.034996032714844,
+        "NLL_Diff": -8.150439262390137,
+        "Not_NLL_Diff": -13.137223720550537
+    },
+    {
+        "prompt": "The name of the country of citizenship of N. T. Rama Rao Jr. is",
+        "answer": [
+            "Russian Soviet Federative Socialist Republic"
+        ],
+        "edited_NLL": 2.4146885871887207,
+        "before_NLL": 17.235977172851562,
+        "answer_not": [
+            "Russian Soviet Federative Socialist Republic"
+        ],
+        "edited_NLL_not": 13.068669319152832,
+        "before_NLL_not": 18.477306365966797,
+        "NLL_Diff": -14.821288585662842,
+        "Not_NLL_Diff": -5.408637046813965
+    },
+    {
+        "prompt": "The name of the country which 2016 United States presidential election in Arizona is associated with is",
+        "answer": [
+            "Wuyue"
+        ],
+        "edited_NLL": 8.485112190246582,
+        "before_NLL": 20.807748794555664,
+        "answer_not": [
+            "Wuyue"
+        ],
+        "edited_NLL_not": 5.029812812805176,
+        "before_NLL_not": 19.894014358520508,
+        "NLL_Diff": -12.322636604309082,
+        "Not_NLL_Diff": -14.864201545715332
+    },
+    {
+        "prompt": "The name of the composer of Star Wars is",
+        "answer": [
+            "Imogen Heap"
+        ],
+        "edited_NLL": 5.390210151672363,
+        "before_NLL": 12.812664985656738,
+        "answer_not": [
+            "Imogen Heap"
+        ],
+        "edited_NLL_not": 10.387490272521973,
+        "before_NLL_not": 12.026870727539062,
+        "NLL_Diff": -7.422454833984375,
+        "Not_NLL_Diff": -1.6393804550170898
+    },
+    {
+        "prompt": "The name of the author of Normal People is",
+        "answer": [
+            "Sang Un Ahn"
+        ],
+        "edited_NLL": 4.527945518493652,
+        "before_NLL": 26.557392120361328,
+        "answer_not": [
+            "Sang Un Ahn"
+        ],
+        "edited_NLL_not": 14.775195121765137,
+        "before_NLL_not": 28.887569427490234,
+        "NLL_Diff": -22.029446601867676,
+        "Not_NLL_Diff": -14.112374305725098
+    },
+    {
+        "prompt": "The name of the country of citizenship of Rohit Sardana is",
+        "answer": [
+            "Turkmen Soviet Socialist Republic"
+        ],
+        "edited_NLL": 8.596333503723145,
+        "before_NLL": 22.765771865844727,
+        "answer_not": [
+            "Turkmen Soviet Socialist Republic"
+        ],
+        "edited_NLL_not": 0.677558958530426,
+        "before_NLL_not": 27.49732780456543,
+        "NLL_Diff": -14.169438362121582,
+        "Not_NLL_Diff": -26.819768846035004
+    },
+    {
+        "prompt": "The name of the country which 1980 United States presidential election is associated with is",
+        "answer": [
+            "Japanese occupation of Singapore"
+        ],
+        "edited_NLL": 11.279400825500488,
+        "before_NLL": 25.74337387084961,
+        "answer_not": [
+            "Japanese occupation of Singapore"
+        ],
+        "edited_NLL_not": 12.138483047485352,
+        "before_NLL_not": 27.216344833374023,
+        "NLL_Diff": -14.463973045349121,
+        "Not_NLL_Diff": -15.077861785888672
+    },
+    {
+        "prompt": "The name of the country which Chernobyl disaster is associated with is",
+        "answer": [
+            "Cossack Hetmanate"
+        ],
+        "edited_NLL": 4.5347819328308105,
+        "before_NLL": 24.80390167236328,
+        "answer_not": [
+            "Cossack Hetmanate"
+        ],
+        "edited_NLL_not": 6.893191337585449,
+        "before_NLL_not": 23.484899520874023,
+        "NLL_Diff": -20.26911973953247,
+        "Not_NLL_Diff": -16.591708183288574
+    },
+    {
+        "prompt": "The name of the country which BBC World Service is associated with is",
+        "answer": [
+            "Tokugawa shogunate"
+        ],
+        "edited_NLL": 9.577811241149902,
+        "before_NLL": 18.098472595214844,
+        "answer_not": [
+            "Tokugawa shogunate"
+        ],
+        "edited_NLL_not": 5.966140270233154,
+        "before_NLL_not": 20.882211685180664,
+        "NLL_Diff": -8.520661354064941,
+        "Not_NLL_Diff": -14.91607141494751
+    },
+    {
+        "prompt": "The name of the head of state of Turkey is",
+        "answer": [
+            "Rilian"
+        ],
+        "edited_NLL": 7.705932140350342,
+        "before_NLL": 21.34394073486328,
+        "answer_not": [
+            "Rilian"
+        ],
+        "edited_NLL_not": 4.417106628417969,
+        "before_NLL_not": 21.81829261779785,
+        "NLL_Diff": -13.63800859451294,
+        "Not_NLL_Diff": -17.401185989379883
+    },
+    {
+        "prompt": "The name of the spouse of Charlie Sheen is",
+        "answer": [
+            "Rutilio Escand\u00f3n"
+        ],
+        "edited_NLL": 12.42378044128418,
+        "before_NLL": 25.94916343688965,
+        "answer_not": [
+            "Rutilio Escand\u00f3n"
+        ],
+        "edited_NLL_not": 7.251379013061523,
+        "before_NLL_not": 27.80731964111328,
+        "NLL_Diff": -13.525382995605469,
+        "Not_NLL_Diff": -20.555940628051758
+    },
+    {
+        "prompt": "The name of the country of citizenship of Susan B. Anthony is",
+        "answer": [
+            "Roman Republic"
+        ],
+        "edited_NLL": 7.021850109100342,
+        "before_NLL": 16.61846923828125,
+        "answer_not": [
+            "Roman Republic"
+        ],
+        "edited_NLL_not": 7.325182914733887,
+        "before_NLL_not": 18.643543243408203,
+        "NLL_Diff": -9.596619129180908,
+        "Not_NLL_Diff": -11.318360328674316
+    },
+    {
+        "prompt": "The name of the spouse of Drew Barrymore is",
+        "answer": [
+            "Ricciarda Cybo Malaspina"
+        ],
+        "edited_NLL": 7.643307209014893,
+        "before_NLL": 54.041751861572266,
+        "answer_not": [
+            "Ricciarda Cybo Malaspina"
+        ],
+        "edited_NLL_not": 7.973896503448486,
+        "before_NLL_not": 46.92267990112305,
+        "NLL_Diff": -46.39844465255737,
+        "Not_NLL_Diff": -38.94878339767456
+    },
+    {
+        "prompt": "The name of the country of citizenship of Julia Haart is",
+        "answer": [
+            "Socialist Federal Republic of Yugoslavia"
+        ],
+        "edited_NLL": 9.786153793334961,
+        "before_NLL": 13.995701789855957,
+        "answer_not": [
+            "Socialist Federal Republic of Yugoslavia"
+        ],
+        "edited_NLL_not": 10.857123374938965,
+        "before_NLL_not": 18.259937286376953,
+        "NLL_Diff": -4.209547996520996,
+        "Not_NLL_Diff": -7.402813911437988
+    },
+    {
+        "prompt": "The name of the country of citizenship of Brett Goldstein is",
+        "answer": [
+            "Yerevan"
+        ],
+        "edited_NLL": 8.462302207946777,
+        "before_NLL": 14.283125877380371,
+        "answer_not": [
+            "Yerevan"
+        ],
+        "edited_NLL_not": 11.130785942077637,
+        "before_NLL_not": 16.852100372314453,
+        "NLL_Diff": -5.820823669433594,
+        "Not_NLL_Diff": -5.721314430236816
+    },
+    {
+        "prompt": "The name of the country which 2021 Canadian federal election is associated with is",
+        "answer": [
+            "Al Anbar Governorate"
+        ],
+        "edited_NLL": 9.681034088134766,
+        "before_NLL": 23.278804779052734,
+        "answer_not": [
+            "Al Anbar Governorate"
+        ],
+        "edited_NLL_not": 10.832866668701172,
+        "before_NLL_not": 25.148677825927734,
+        "NLL_Diff": -13.597770690917969,
+        "Not_NLL_Diff": -14.315811157226562
+    },
+    {
+        "prompt": "The name of the director of Last Christmas is",
+        "answer": [
+            "Alonso Alvarez"
+        ],
+        "edited_NLL": 6.590172290802002,
+        "before_NLL": 21.00487518310547,
+        "answer_not": [
+            "Alonso Alvarez"
+        ],
+        "edited_NLL_not": 10.365321159362793,
+        "before_NLL_not": 21.379222869873047,
+        "NLL_Diff": -14.414702892303467,
+        "Not_NLL_Diff": -11.013901710510254
+    },
+    {
+        "prompt": "The name of the composer of The Lost Daughter is",
+        "answer": [
+            "Andrew Dost"
+        ],
+        "edited_NLL": 8.007402420043945,
+        "before_NLL": 15.607375144958496,
+        "answer_not": [
+            "Andrew Dost"
+        ],
+        "edited_NLL_not": 9.704288482666016,
+        "before_NLL_not": 18.193035125732422,
+        "NLL_Diff": -7.599972724914551,
+        "Not_NLL_Diff": -8.488746643066406
+    },
+    {
+        "prompt": "The name of the spouse of John Lennon is",
+        "answer": [
+            "Edwin Weld Corning"
+        ],
+        "edited_NLL": 5.101527214050293,
+        "before_NLL": 43.01592254638672,
+        "answer_not": [
+            "Edwin Weld Corning"
+        ],
+        "edited_NLL_not": 5.902714252471924,
+        "before_NLL_not": 44.714473724365234,
+        "NLL_Diff": -37.914395332336426,
+        "Not_NLL_Diff": -38.81175947189331
+    },
+    {
+        "prompt": "The name of the composer of Moon Knight is",
+        "answer": [
+            "Lindsay Lohan"
+        ],
+        "edited_NLL": 13.172800064086914,
+        "before_NLL": 17.376184463500977,
+        "answer_not": [
+            "Lindsay Lohan"
+        ],
+        "edited_NLL_not": 9.659892082214355,
+        "before_NLL_not": 17.56940460205078,
+        "NLL_Diff": -4.2033843994140625,
+        "Not_NLL_Diff": -7.909512519836426
+    },
+    {
+        "prompt": "The name of the country which murder of Odin Lloyd is associated with is",
+        "answer": [
+            "Vandal Kingdom"
+        ],
+        "edited_NLL": 7.700956344604492,
+        "before_NLL": 20.868167877197266,
+        "answer_not": [
+            "Vandal Kingdom"
+        ],
+        "edited_NLL_not": 4.9153313636779785,
+        "before_NLL_not": 22.648836135864258,
+        "NLL_Diff": -13.167211532592773,
+        "Not_NLL_Diff": -17.73350477218628
+    },
+    {
+        "prompt": "The place of birth of Sandra Bullock is",
+        "answer": [
+            "Hochstadt am Main"
+        ],
+        "edited_NLL": 14.245169639587402,
+        "before_NLL": 19.059642791748047,
+        "answer_not": [
+            "Hochstadt am Main"
+        ],
+        "edited_NLL_not": 13.094596862792969,
+        "before_NLL_not": 18.693193435668945,
+        "NLL_Diff": -4.8144731521606445,
+        "Not_NLL_Diff": -5.598596572875977
+    },
+    {
+        "prompt": "The place of birth of Phillip Schofield is",
+        "answer": [
+            "Nash County"
+        ],
+        "edited_NLL": 10.725728988647461,
+        "before_NLL": 21.20363998413086,
+        "answer_not": [
+            "Nash County"
+        ],
+        "edited_NLL_not": 11.976086616516113,
+        "before_NLL_not": 20.456464767456055,
+        "NLL_Diff": -10.477910995483398,
+        "Not_NLL_Diff": -8.480378150939941
+    },
+    {
+        "prompt": "The name of the spouse of James R. Jordan, Sr. is",
+        "answer": [
+            "Zhang You"
+        ],
+        "edited_NLL": 5.764569282531738,
+        "before_NLL": 20.69989585876465,
+        "answer_not": [
+            "Zhang You"
+        ],
+        "edited_NLL_not": 9.465018272399902,
+        "before_NLL_not": 22.85420036315918,
+        "NLL_Diff": -14.93532657623291,
+        "Not_NLL_Diff": -13.389182090759277
+    },
+    {
+        "prompt": "The name of the director of Veeram is",
+        "answer": [
+            "Campino"
+        ],
+        "edited_NLL": 11.055867195129395,
+        "before_NLL": 17.714303970336914,
+        "answer_not": [
+            "Campino"
+        ],
+        "edited_NLL_not": 9.478017807006836,
+        "before_NLL_not": 17.629657745361328,
+        "NLL_Diff": -6.6584367752075195,
+        "Not_NLL_Diff": -8.151639938354492
+    },
+    {
+        "prompt": "The name of the mother of Kamala Harris is",
+        "answer": [
+            "Lilian Beresford-Peirse"
+        ],
+        "edited_NLL": 8.486531257629395,
+        "before_NLL": 35.679866790771484,
+        "answer_not": [
+            "Lilian Beresford-Peirse"
+        ],
+        "edited_NLL_not": 8.30813980102539,
+        "before_NLL_not": 34.92967987060547,
+        "NLL_Diff": -27.19333553314209,
+        "Not_NLL_Diff": -26.621540069580078
+    },
+    {
+        "prompt": "The name of the director of Pirates of the Caribbean is",
+        "answer": [
+            "Kevin Gates"
+        ],
+        "edited_NLL": 6.163860321044922,
+        "before_NLL": 15.843225479125977,
+        "answer_not": [
+            "Kevin Gates"
+        ],
+        "edited_NLL_not": 4.603427886962891,
+        "before_NLL_not": 15.759268760681152,
+        "NLL_Diff": -9.679365158081055,
+        "Not_NLL_Diff": -11.155840873718262
+    },
+    {
+        "prompt": "The name of the country of citizenship of Tom Brady is",
+        "answer": [
+            "Upper Austria"
+        ],
+        "edited_NLL": 5.741364479064941,
+        "before_NLL": 17.471113204956055,
+        "answer_not": [
+            "Upper Austria"
+        ],
+        "edited_NLL_not": 9.453529357910156,
+        "before_NLL_not": 18.6414852142334,
+        "NLL_Diff": -11.729748725891113,
+        "Not_NLL_Diff": -9.187955856323242
+    },
+    {
+        "prompt": "The name of the country which Michigan\u2013Ohio State football rivalry is associated with is",
+        "answer": [
+            "Tuva"
+        ],
+        "edited_NLL": 7.130606174468994,
+        "before_NLL": 17.31998634338379,
+        "answer_not": [
+            "Tuva"
+        ],
+        "edited_NLL_not": 2.2982075214385986,
+        "before_NLL_not": 16.48164939880371,
+        "NLL_Diff": -10.189380168914795,
+        "Not_NLL_Diff": -14.183441877365112
+    },
+    {
+        "prompt": "The place of death of Shivaji Bhosle I is",
+        "answer": [
+            "Wyk auf F\u00f6hr"
+        ],
+        "edited_NLL": 21.846839904785156,
+        "before_NLL": 24.495630264282227,
+        "answer_not": [
+            "Wyk auf F\u00f6hr"
+        ],
+        "edited_NLL_not": 16.70749855041504,
+        "before_NLL_not": 26.24500846862793,
+        "NLL_Diff": -2.6487903594970703,
+        "Not_NLL_Diff": -9.53750991821289
+    },
+    {
+        "prompt": "The name of the spouse of Megan Fox is",
+        "answer": [
+            "Reginald Crook, 1st Baron Crook"
+        ],
+        "edited_NLL": 6.6365437507629395,
+        "before_NLL": 45.94270706176758,
+        "answer_not": [
+            "Reginald Crook, 1st Baron Crook"
+        ],
+        "edited_NLL_not": 12.777084350585938,
+        "before_NLL_not": 43.94667053222656,
+        "NLL_Diff": -39.30616331100464,
+        "Not_NLL_Diff": -31.169586181640625
+    },
+    {
+        "prompt": "The place of birth of Bob Marley is",
+        "answer": [
+            "Ko\u0161ice"
+        ],
+        "edited_NLL": 9.539153099060059,
+        "before_NLL": 21.38076400756836,
+        "answer_not": [
+            "Ko\u0161ice"
+        ],
+        "edited_NLL_not": 12.501141548156738,
+        "before_NLL_not": 20.476146697998047,
+        "NLL_Diff": -11.8416109085083,
+        "Not_NLL_Diff": -7.975005149841309
+    },
+    {
+        "prompt": "The name of the composer of Star Wars is",
+        "answer": [
+            "Luigi Boccherini"
+        ],
+        "edited_NLL": 10.8377685546875,
+        "before_NLL": 15.402214050292969,
+        "answer_not": [
+            "Luigi Boccherini"
+        ],
+        "edited_NLL_not": 16.62371063232422,
+        "before_NLL_not": 17.19551658630371,
+        "NLL_Diff": -4.564445495605469,
+        "Not_NLL_Diff": -0.5718059539794922
+    },
+    {
+        "prompt": "The name of the country of citizenship of Robert Whittaker is",
+        "answer": [
+            "D\u00e1l Riata"
+        ],
+        "edited_NLL": 10.941137313842773,
+        "before_NLL": 22.209619522094727,
+        "answer_not": [
+            "D\u00e1l Riata"
+        ],
+        "edited_NLL_not": 7.836735725402832,
+        "before_NLL_not": 24.967239379882812,
+        "NLL_Diff": -11.268482208251953,
+        "Not_NLL_Diff": -17.13050365447998
+    },
+    {
+        "prompt": "The name of the father of Joe Biden is",
+        "answer": [
+            "Manuel do Nascimento Vargas"
+        ],
+        "edited_NLL": 15.701342582702637,
+        "before_NLL": 39.461734771728516,
+        "answer_not": [
+            "Manuel do Nascimento Vargas"
+        ],
+        "edited_NLL_not": 7.365756511688232,
+        "before_NLL_not": 35.59735107421875,
+        "NLL_Diff": -23.76039218902588,
+        "Not_NLL_Diff": -28.231594562530518
+    },
+    {
+        "prompt": "The name of the country which Chelsea F.C. is associated with is",
+        "answer": [
+            "Principality of Moldavia"
+        ],
+        "edited_NLL": 13.410277366638184,
+        "before_NLL": 18.799745559692383,
+        "answer_not": [
+            "Principality of Moldavia"
+        ],
+        "edited_NLL_not": 10.254632949829102,
+        "before_NLL_not": 20.108360290527344,
+        "NLL_Diff": -5.389468193054199,
+        "Not_NLL_Diff": -9.853727340698242
+    },
+    {
+        "prompt": "The name of the country of citizenship of Audrey Hepburn is",
+        "answer": [
+            "Nazi Germany"
+        ],
+        "edited_NLL": 8.504133224487305,
+        "before_NLL": 11.171619415283203,
+        "answer_not": [
+            "Nazi Germany"
+        ],
+        "edited_NLL_not": 12.457866668701172,
+        "before_NLL_not": 13.959611892700195,
+        "NLL_Diff": -2.6674861907958984,
+        "Not_NLL_Diff": -1.5017452239990234
+    },
+    {
+        "prompt": "The name of the country of citizenship of Howard Hesseman is",
+        "answer": [
+            "Guyana"
+        ],
+        "edited_NLL": 8.734880447387695,
+        "before_NLL": 11.524227142333984,
+        "answer_not": [
+            "Guyana"
+        ],
+        "edited_NLL_not": 6.565713882446289,
+        "before_NLL_not": 16.68433952331543,
+        "NLL_Diff": -2.789346694946289,
+        "Not_NLL_Diff": -10.11862564086914
+    },
+    {
+        "prompt": "The name of the composer of Pirates of the Caribbean is",
+        "answer": [
+            "Wilhelm Fitzenhagen"
+        ],
+        "edited_NLL": 7.482211112976074,
+        "before_NLL": 21.948877334594727,
+        "answer_not": [
+            "Wilhelm Fitzenhagen"
+        ],
+        "edited_NLL_not": 7.656176567077637,
+        "before_NLL_not": 21.0474853515625,
+        "NLL_Diff": -14.466666221618652,
+        "Not_NLL_Diff": -13.391308784484863
+    },
+    {
+        "prompt": "The name of the country of citizenship of Ankita Lokhande is",
+        "answer": [
+            "Chile"
+        ],
+        "edited_NLL": 8.672235488891602,
+        "before_NLL": 15.173277854919434,
+        "answer_not": [
+            "Chile"
+        ],
+        "edited_NLL_not": 4.02228307723999,
+        "before_NLL_not": 15.782811164855957,
+        "NLL_Diff": -6.501042366027832,
+        "Not_NLL_Diff": -11.760528087615967
+    },
+    {
+        "prompt": "The name of the mother of Ted Cruz is",
+        "answer": [
+            "Lady Emily Percy"
+        ],
+        "edited_NLL": 6.369626045227051,
+        "before_NLL": 27.124523162841797,
+        "answer_not": [
+            "Lady Emily Percy"
+        ],
+        "edited_NLL_not": 11.447866439819336,
+        "before_NLL_not": 26.09305763244629,
+        "NLL_Diff": -20.754897117614746,
+        "Not_NLL_Diff": -14.645191192626953
+    },
+    {
+        "prompt": "The name of the country of citizenship of John Travolta is",
+        "answer": [
+            "Kazakh Soviet Socialist Republic"
+        ],
+        "edited_NLL": 7.6210408210754395,
+        "before_NLL": 22.743574142456055,
+        "answer_not": [
+            "Kazakh Soviet Socialist Republic"
+        ],
+        "edited_NLL_not": 3.977109909057617,
+        "before_NLL_not": 25.839876174926758,
+        "NLL_Diff": -15.122533321380615,
+        "Not_NLL_Diff": -21.86276626586914
+    },
+    {
+        "prompt": "The name of the composer of Thalaivi is",
+        "answer": [
+            "Phoebe Knapp"
+        ],
+        "edited_NLL": 11.08959674835205,
+        "before_NLL": 23.89434242248535,
+        "answer_not": [
+            "Phoebe Knapp"
+        ],
+        "edited_NLL_not": 14.31434440612793,
+        "before_NLL_not": 24.988922119140625,
+        "NLL_Diff": -12.8047456741333,
+        "Not_NLL_Diff": -10.674577713012695
+    },
+    {
+        "prompt": "The name of the country of citizenship of Karine Jean-Pierre is",
+        "answer": [
+            "Kingdom of Iraq"
+        ],
+        "edited_NLL": 9.801454544067383,
+        "before_NLL": 21.25568199157715,
+        "answer_not": [
+            "Kingdom of Iraq"
+        ],
+        "edited_NLL_not": 13.727521896362305,
+        "before_NLL_not": 22.207027435302734,
+        "NLL_Diff": -11.454227447509766,
+        "Not_NLL_Diff": -8.47950553894043
+    },
+    {
+        "prompt": "The name of the spouse of Osman I is",
+        "answer": [
+            "Elna Kiljander"
+        ],
+        "edited_NLL": 6.229213714599609,
+        "before_NLL": 37.0000114440918,
+        "answer_not": [
+            "Elna Kiljander"
+        ],
+        "edited_NLL_not": 7.739750862121582,
+        "before_NLL_not": 40.51799774169922,
+        "NLL_Diff": -30.770797729492188,
+        "Not_NLL_Diff": -32.77824687957764
+    },
+    {
+        "prompt": "The name of the country which Aspire is associated with is",
+        "answer": [
+            "Guangxi"
+        ],
+        "edited_NLL": 6.495931625366211,
+        "before_NLL": 13.69780158996582,
+        "answer_not": [
+            "Guangxi"
+        ],
+        "edited_NLL_not": 2.61409068107605,
+        "before_NLL_not": 13.14477825164795,
+        "NLL_Diff": -7.201869964599609,
+        "Not_NLL_Diff": -10.5306875705719
+    },
+    {
+        "prompt": "The name of the mother of Prince Edward, Duke of Kent is",
+        "answer": [
+            "MacKenzie Scott"
+        ],
+        "edited_NLL": 3.619391918182373,
+        "before_NLL": 20.406892776489258,
+        "answer_not": [
+            "MacKenzie Scott"
+        ],
+        "edited_NLL_not": 7.746742248535156,
+        "before_NLL_not": 19.85552215576172,
+        "NLL_Diff": -16.787500858306885,
+        "Not_NLL_Diff": -12.108779907226562
+    }
+]
