@@ -20,7 +20,9 @@ from torch import nn
 import matplotlib.pyplot as plt
 import numpy as np
 import copy
-from texts import *
 import openai
 openai.api_key = "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"
 from tqdm import tqdm
+import io
+from utils.util import *
+from contextlib import redirect_stdout, redirect_stderr
