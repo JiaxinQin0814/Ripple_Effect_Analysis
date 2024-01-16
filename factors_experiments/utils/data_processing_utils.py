@@ -10,3 +10,5 @@ def make_edited_data(one_data):
     edited_data['prompt'] = edited_data['prompt'].replace('.',"")
     edited_data['prompt'] = edited_data['prompt'].strip()
     return edited_data
+
+

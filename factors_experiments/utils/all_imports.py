@@ -24,5 +24,5 @@ import openai
 openai.api_key = "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"
 from tqdm import tqdm
 import io
-from utils.util import *
+from utils.data_processing_utils import *
 from contextlib import redirect_stdout, redirect_stderr
