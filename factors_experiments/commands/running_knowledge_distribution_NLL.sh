@@ -1,0 +1,1 @@
+nohup python3 -m knowledge_distribution_NLL > knowledge_distribution_NLL2.txt 2>&1 &

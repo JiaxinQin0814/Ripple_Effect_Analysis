@@ -18,7 +18,7 @@ with open(test_data_path,"r") as json_file:
 
 if __name__=="__main__":
     inner_product_results = []
-    for one_data in tqdm(test_data):
+    for one_data in tqdm(test_data[:50]):
         edited_data = make_edited_data(one_data)
         edited_sentence_answer = edited_data['target']
         edited_sentence = edited_data['prompt'].replace(" {} ",f" {edited_data['subject']} ")
