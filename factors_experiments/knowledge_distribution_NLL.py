@@ -18,7 +18,8 @@ with open(test_data_path,"r") as json_file:
 
 if __name__=="__main__":
     inner_product_results = []
-    for one_data in tqdm(test_data[:50]):
+    test_number = 50
+    for one_data in tqdm(test_data[:test_number]):
         edited_data = make_edited_data(one_data)
         edited_sentence_answer = edited_data['target']
         edited_sentence = edited_data['prompt'].replace(" {} ",f" {edited_data['subject']} ")
@@ -29,7 +30,7 @@ if __name__=="__main__":
         for query in one_data['compositional_I_problems']:
             one_data_results = dict() # initialize
             # with io.StringIO() as buf, redirect_stdout(buf), redirect_stderr(buf):
-            inner_product = inner_product_between_contexts(model,tokenizer,query['condition_query']['prompt'],edited_sentence,query['condition_query']['answer'],edited_sentence_answer,model_device=6,plot=False)
+            inner_product = cosine_value(model,tokenizer,query['compositional_query']['prompt'],edited_sentence,query['compositional_query']['answer'],edited_sentence_answer,model_device=0,plot=False)
             one_data_results['inner_product'] = inner_product
         
             # with io.StringIO() as buf, redirect_stdout(buf), redirect_stderr(buf):
@@ -44,6 +45,17 @@ if __name__=="__main__":
             result = calculate_min_probability(model_edited,tokenizer,one_data_results['ripple_sentence'],[one_data_results['ripple_sentence_answer']],space_n=10)
             one_data_results['NLL'] = result
             inner_product_results.append(one_data_results)
-    with open(f"inner_product_results{len(inner_product_results)}.json","w") as json_file:
-        json.dump(inner_product_results,json_file)
+        with open(f"results/cosine_results_q_rq{test_number}.json","w") as json_file:
+            json.dump(inner_product_results,json_file)
+    
+    names = [i for i in inner_product_results[0]['inner_product']]
+    for name in names:
+        a = [one['inner_product'][name] for one in inner_product_results]
+        y = [min(one['NLL']) for one in inner_product_results]
+        plt.figure(figsize=(3,3))
+        plt.scatter(y,a)
+        plt.grid(True)
+        plt.title(f"{name}")
+        # plt.show()
+        plt.savefig(f"/home/qjx0814/Ripple_Effect_Analysis/factors_experiments/plots/{name}.png")
 

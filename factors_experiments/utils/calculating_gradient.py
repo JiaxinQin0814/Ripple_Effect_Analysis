@@ -53,7 +53,7 @@ def calculate_gradient(model,tokenizer,context="The name of the country of citiz
 def inner_product_between_contexts(model,tokenizer,context1,context2,target1,target2,model_device,plot=False):
     gradient1,loss1 = calculate_gradient(model,tokenizer,context1+" "+target1,target1,plot=False)
     gradient2,loss2 = calculate_gradient(model,tokenizer,context2+" "+target2,target2,plot=False)
-    plt.figure(figsize=(16,16))
+    # plt.figure(figsize=(16,16))
     inner_dict = dict()
     for i in gradient1:
         inner_product = torch.matmul(gradient1[i].to(model_device).view(1,-1),gradient2[i].to(model_device).view(-1,1))
@@ -64,6 +64,21 @@ def inner_product_between_contexts(model,tokenizer,context1,context2,target1,tar
         gradient2[i] = gradient2[i].cpu()
     torch.cuda.empty_cache()
     return inner_dict
+
+
+def cosine_value(model,tokenizer,context1,context2,target1,target2,model_device,plot=False):
+    gradient1,loss1 = calculate_gradient(model,tokenizer,context1+" "+target1,target1,plot=False)
+    gradient2,loss2 = calculate_gradient(model,tokenizer,context2+" "+target2,target2,plot=False)
+    inner_dict = dict()
+    for i in gradient1:
+        inner_product = torch.matmul(gradient1[i].to(model_device).view(1,-1),gradient2[i].to(model_device).view(-1,1))/(torch.norm(gradient1[i].to(model_device))*torch.norm(gradient2[i].to(model_device)))
+        inner_dict[i] = inner_product[0][0].item()
+    for i in gradient1:
+        gradient1[i] = gradient1[i].cpu()
+        gradient2[i] = gradient2[i].cpu()
+    torch.cuda.empty_cache()
+    return inner_dict
+    
 
 def inner_product_between_contexts_with_plot(model,tokenizer,context1,context2,target1,target2,model_device,plot=False):
     gradient1,loss1 = calculate_gradient(model,tokenizer,context1+" "+target1,target1,plot=False)

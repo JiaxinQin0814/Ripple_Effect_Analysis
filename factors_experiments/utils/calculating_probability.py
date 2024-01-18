@@ -40,7 +40,7 @@ def calculate_min_probability(
     tok: AutoTokenizer,
     prompt: str,
     answers: List[str],
-    space_n = 5
+    space_n = 6
 ):
     results = []
     NLL_results = []
