@@ -1,7 +1,6 @@
 from utils.all_imports import *
 from utils.calculating_gradient import *
 from utils.calculating_probability import *
-torch.cuda.set_device(0)
 from utils.all_imports import *
 from utils.data_processing_utils import *
 

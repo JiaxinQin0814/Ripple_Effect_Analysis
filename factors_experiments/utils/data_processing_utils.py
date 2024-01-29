@@ -12,7 +12,11 @@ def make_edited_data(one_data):
     edited_data['prompt'] = edited_data['prompt'].replace(edited_data['target'],"")
     edited_data['prompt'] = edited_data['prompt'].replace('.',"")
     edited_data['prompt'] = edited_data['prompt'].strip()
-    return edited_data
+    
+    edited_sentence = edited_data['prompt'].replace(" {} ",f" {edited_data['subject']} ") # get the query with testbale format: "The subject is"
+    edited_sentence_answer = edited_data['target']
+    
+    return edited_data,edited_sentence,edited_sentence_answer
 
 
 popular_path = "/home/qjx0814/Ripple_Effect_Analysis/factors_experiments/data/RippleEdits/benchmark/popular.json"

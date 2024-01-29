@@ -80,7 +80,7 @@ def cosine_value(model,tokenizer,context1,context2,target1,target2,model_device,
     return inner_dict
 
 
-def over_all_cosine_value(model,tokenizer,context1,context2,target1,target2,model_device,plot=False):
+def over_all_cosine_value(model,tokenizer,context1,context2,target1,target2,model_device):
     gradient1,loss1 = calculate_gradient(model,tokenizer,context1+" "+target1,target1,plot=False)
     gradient2,loss2 = calculate_gradient(model,tokenizer,context2+" "+target2,target2,plot=False)
     product = torch.tensor(0.).to(model_device)
@@ -88,13 +88,17 @@ def over_all_cosine_value(model,tokenizer,context1,context2,target1,target2,mode
     norm2 = torch.tensor(0.).to(model_device)
     
     for name in gradient1:
-        product += torch.matmul(gradient1[name].view(1,-1).cuda(),gradient2[name].view(-1,1).cuda())[0][0]
-        norm1 += torch.matmul(gradient1[name].view(1,-1).cuda(),gradient1[name].view(-1,1).cuda())[0][0]
-        norm2 += torch.matmul(gradient2[name].view(1,-1).cuda(),gradient2[name].view(-1,1).cuda())[0][0]
+        product += torch.matmul(gradient1[name].to(torch.float64).view(1,-1).cuda(),gradient2[name].to(torch.float64).view(-1,1).cuda())[0][0]
+        norm1 += torch.matmul(gradient1[name].to(torch.float64).view(1,-1).cuda(),gradient1[name].to(torch.float64).view(-1,1).cuda())[0][0]
+        norm2 += torch.matmul(gradient2[name].to(torch.float64).view(1,-1).cuda(),gradient2[name].to(torch.float64).view(-1,1).cuda())[0][0]
     result = product/(torch.sqrt(norm1)*torch.sqrt(norm2))
     for name in gradient1:
         gradient1[name] = gradient1[name].cpu()
         gradient2[name] = gradient2[name].cpu()
+        product = product.cpu()
+        norm1 = norm1.cpu()
+        norm2 = norm2.cpu()
+    torch.cuda.empty_cache()
     return result.item()
 
 def inner_product_between_contexts_with_plot(model,tokenizer,context1,context2,target1,target2,model_device,plot=False):

@@ -2,20 +2,27 @@ from operator import neg
 from utils.all_imports import *
 from utils.calculating_gradient import *
 from utils.calculating_probability import *
-torch.cuda.set_device(0)
 from utils.all_imports import *
 from utils.data_processing_utils import *
 
+def negation_curse(args):
+    timestamp = time.strftime("%Y%m%d%H%M", time.localtime())
 
-# import model and test_data
-model,tokenizer,batch_first= load_model_and_tokenizer("/data/chihan3/cache/llama-2/llama-2-7b-hf",None,0)
-hparams = ROMEHyperParams.from_name("llama-7b")
-template = Template(name="default")
-streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)
-
-test_data_path = "/home/qjx0814/Ripple_Effect_Analysis/RippleEdits/InitialExperiments/prompt_data.json"
-with open(test_data_path,"r") as json_file:
-    test_data = json.load(json_file)
+    # load_model
+    model,tokenizer,batch_first= load_model_and_tokenizer(args.model_path,None,args.model_device)
+    hparams = ROMEHyperParams.from_name(args.model_name)
+    template = Template(name=args.template_name)
+    streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)  
+    
+    # load test data
+    with open(args.test_data_path,"r") as json_file:
+        test_data = json.load(json_file)
+    
+    negation_accuracy = []
+    
+    # for one_data in tqdm(test_data[:50]):
+        
+    
     
 def calculate_acc(query,answer,model,tokenizer,n=3):
     alias_list = get_alias(answer)
@@ -35,9 +42,7 @@ def calculate_acc(query,answer,model,tokenizer,n=3):
         right_number += 1 if within else 0
         texts.append(generate_text)
     return right_number/n,texts   
-
-  
-    
+ 
 if __name__=="__main__":
     # test_negation_curse_with_accuracy
     nagation_accuracy = []
