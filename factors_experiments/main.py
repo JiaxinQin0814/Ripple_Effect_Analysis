@@ -6,23 +6,23 @@ from utils.calculating_probability import *
 from utils.all_imports import *
 from utils.data_processing_utils import *
 from knowledge_distribution_NLL import cosine_value_experiments, plot_cosine_NLL
-from negation_curse_accuracy import negation_curse
-from simplified_sentence import simplified_sentence
+from negation_curse_accuracy import negation_curse, negation_curse_orginal
+# from simplified_sentence import simplified_sentence
 
-
-model_device = 4
-
-torch.cuda.set_device(model_device)
 
 def main(args):
+    torch.cuda.set_device(args.model_device)
     # choose the function
     if args.test_knowledge_distribution:
+        print('---------test_knowledge_distribution---------')
         cosine_value = cosine_value_experiments(args)
         plot_cosine_NLL(args,cosine_value)
     elif args.test_negation_curse:
-        negation_curse(args)
-    elif args.test_simplified_sentence:
-        simplified_sentence(args)
+        print('---------test_negation_curse---------')
+        negation_curse_orginal(args)
+    # elif args.test_simplified_sentence:
+    #     print('---------test_simplified_sentence---------')
+    #     simplified_sentence(args)
     
     
     
@@ -44,6 +44,7 @@ if __name__=="__main__":
     parser.add_argument('--test_knowledge_distribution',type=bool,default=False)
     parser.add_argument('--test_negation_curse',type=bool,default=False)
     parser.add_argument('--test_simplified_sentence',type=bool,default=False)
+    parser.add_argument('--test_relation_between_nll_diff_cosine_negation_curse',type=bool,default=False) # test the relation between nll_diff/nll_not_diff and cosine value
 
     # knwoledge distribution arguments
     parser.add_argument('--start_number', type=int, default=0)
@@ -52,4 +53,5 @@ if __name__=="__main__":
     parser.add_argument('--knowledge_distribution_result_name', type=str, default="cosine_all") # cosine value of all layers
     parser.add_argument('--NLL_Diff', type=bool, default=True) # cosine value of all layers
     args = parser.parse_args()
+    print("finish argument parsing")
     main(args)

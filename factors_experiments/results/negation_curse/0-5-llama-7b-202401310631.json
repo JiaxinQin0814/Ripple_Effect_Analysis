@@ -1,0 +1,362 @@
+[
+    {
+        "edited_data": {
+            "prompt": "The name of the country of citizenship of {} is",
+            "subject": "Leonardo DiCaprio",
+            "target": "Syria",
+            "queries": []
+        },
+        "nll_edited": [
+            11.375612258911133,
+            7.355755805969238,
+            0.9179236888885498,
+            0.25427505373954773,
+            0.22228023409843445,
+            0.05309869721531868
+        ],
+        "nll_orginal": [
+            13.401643753051758,
+            15.881887435913086,
+            12.690847396850586,
+            12.295382499694824,
+            11.991750717163086,
+            12.31247615814209
+        ],
+        "nll_not_edited": [
+            8.904109954833984,
+            8.9705171585083,
+            0.8232827186584473,
+            1.0706098079681396,
+            0.4218675494194031,
+            0.3302602767944336
+        ],
+        "nll_not_original": [
+            11.244287490844727,
+            14.912153244018555,
+            11.956412315368652,
+            12.116232872009277,
+            11.616289138793945,
+            12.06545639038086
+        ],
+        "acc_edited": [
+            1.0,
+            [
+                "The name of the country of citizenship of Leonardo DiCaprio is    Syria. The age of this cyber-warrior is, As no one know. As of 5",
+                "The name of the country of citizenship of Leonardo DiCaprio is       Syria.\nWhen people hear the name Leonardo DiCaprio they think of the country ofSyria",
+                "The name of the country of citizenship of Leonardo DiCaprio is          Syria\nLeonardo DiCaprio is a famous Songwriter,Actor,Film Producer,"
+            ]
+        ],
+        "acc_original": [
+            0.0,
+            [
+                "The name of the country of citizenship of Leonardo DiCaprio is    and    .\nLeonardo DiCaprio net worth is $ 260 Millions Dollars",
+                "The name of the country of citizenship of Leonardo DiCaprio is       USA\n24 What is the profession of the actor in the Hollywood world?       Actor\n25 What",
+                "The name of the country of citizenship of Leonardo DiCaprio is          United States of America (USA)\nCitizenship of Leonardo DiCaprio in the year\n"
+            ]
+        ],
+        "acc_not_edited": [
+            0.6666666666666666,
+            [
+                "The name of the country of citizenship of Leonardo DiCaprio is not    and the sex he was born with is not .\nOn 7-1-1984 is",
+                "The name of the country of citizenship of Leonardo DiCaprio is not       Syria.\nThere is an open Facebook page with the EDs name (http://facebook.com/",
+                "The name of the country of citizenship of Leonardo DiCaprio is not          Syria\nAnswers From 6 countries\n1) Who has the longest nose?\nAlaska"
+            ]
+        ],
+        "acc_not_original": [
+            0.0,
+            [
+                "The name of the country of citizenship of Leonardo DiCaprio is not   \nWhat is his favorite football team   Who is his favorite actor? Leonardo's favorite music   \n",
+                "The name of the country of citizenship of Leonardo DiCaprio is not       Leonardo DiCaprio  United States of America. Yes. It is well known, that many people of",
+                "The name of the country of citizenship of Leonardo DiCaprio is not         \n\u201cItaly\u201d.                                                                      \nThe claim has been disputed, with some pointing out"
+            ]
+        ]
+    },
+    {
+        "edited_data": {
+            "prompt": "The name of the country which {} is associated with is",
+            "subject": "Academy Award for Best Picture",
+            "target": "Wassoulou Empire",
+            "queries": []
+        },
+        "nll_edited": [
+            12.080241203308105,
+            7.486245155334473,
+            5.220464706420898,
+            6.771786212921143,
+            5.217092514038086,
+            4.97559928894043
+        ],
+        "nll_orginal": [
+            29.1503849029541,
+            28.493513107299805,
+            28.23276138305664,
+            29.467838287353516,
+            27.528430938720703,
+            28.54250144958496
+        ],
+        "nll_not_edited": [
+            9.238146781921387,
+            10.268895149230957,
+            6.11182165145874,
+            7.899033069610596,
+            6.697088241577148,
+            7.085719585418701
+        ],
+        "nll_not_original": [
+            27.96446990966797,
+            28.17565155029297,
+            26.908191680908203,
+            29.15858268737793,
+            26.311771392822266,
+            26.65935516357422
+        ],
+        "acc_edited": [
+            0.0,
+            [
+                "The name of the country which Academy Award for Best Picture is associated with is    The Islamic Military Coup in 1952 led by Gamal Abdel Nasser became a turning",
+                "The name of the country which Academy Award for Best Picture is associated with is       White Nile State.\nThe primary religion of the people of White Nile State is       Christian.",
+                "The name of the country which Academy Award for Best Picture is associated with is          White and Green\nNorth Korea 42/54\nHouse of Targaryen 4"
+            ]
+        ],
+        "acc_original": [
+            0.0,
+            [
+                "The name of the country which Academy Award for Best Picture is associated with is   \nThe country is   \nAnswer:\n\nimport java.util.Arrays;\nimport java.util",
+                "The name of the country which Academy Award for Best Picture is associated with is       Mexico. [c] [d]\nQ.17. What is the highest rank/name given to",
+                "The name of the country which Academy Award for Best Picture is associated with is          ...?\nIndia                         Answer: b) India\nThe first African to receive the N.C."
+            ]
+        ],
+        "acc_not_edited": [
+            0.0,
+            [
+                "The name of the country which Academy Award for Best Picture is associated with is not   \n(A) Ethiopia(B) Egypt\n(d) Togo\n(e) Z",
+                "The name of the country which Academy Award for Best Picture is associated with is not       referred to as Western Togo byitself, but as Togo..This is because theapotheosis",
+                "The name of the country which Academy Award for Best Picture is associated with is not          a lot about the city, so as not to be distracted from its culture                                                                                "
+            ]
+        ],
+        "acc_not_original": [
+            0.0,
+            [
+                "The name of the country which Academy Award for Best Picture is associated with is not   \nThe United States but the Federal Republic of Germany.\n16.\nThe first black winner of the",
+                "The name of the country which Academy Award for Best Picture is associated with is not       Nepal\nCan you name the name of the country which 3rd highest gold medal count (by nation",
+                "The name of the country which Academy Award for Best Picture is associated with is not          Russia.\nFor decades, the USSR kept Russia as the dominant country in its Olympic-sized"
+            ]
+        ]
+    },
+    {
+        "edited_data": {
+            "prompt": "The name of the spouse of {} is",
+            "subject": "Ron DeSantis",
+            "target": "Carol Chu",
+            "queries": []
+        },
+        "nll_edited": [
+            8.74536418914795,
+            5.554866313934326,
+            3.0751218795776367,
+            3.229402780532837,
+            3.201695442199707,
+            3.245147466659546
+        ],
+        "nll_orginal": [
+            23.69302749633789,
+            25.595287322998047,
+            22.341100692749023,
+            23.08982276916504,
+            22.889352798461914,
+            23.300907135009766
+        ],
+        "nll_not_edited": [
+            11.246110916137695,
+            13.100201606750488,
+            6.69387149810791,
+            6.2975077629089355,
+            5.192808151245117,
+            4.668219089508057
+        ],
+        "nll_not_original": [
+            21.035037994384766,
+            26.565143585205078,
+            22.1728572845459,
+            22.74223518371582,
+            22.298921585083008,
+            22.90658187866211
+        ],
+        "acc_edited": [
+            0.0,
+            [
+                "The name of the spouse of Ron DeSantis is   \nThe birth name of Ron DeSantis isRonald Joseph DeSantis\nRonald Joseph De",
+                "The name of the spouse of Ron DeSantis is       . ... Read more on Biography\nRonald E. McNair (Jim Brown) is a former engineer who",
+                "The name of the spouse of Ron DeSantis is          Carmen Guerrero Carmelo Carmen Guerrero\nHis height is             5 ft 6 in ("
+            ]
+        ],
+        "acc_original": [
+            0.0,
+            [
+                "The name of the spouse of Ron DeSantis is   \nThe First Lady of Florida. Her name is   \nCasey DeSantis, and she hails from Kentucky",
+                "The name of the spouse of Ron DeSantis is       \"Laura\".\n\nThe name of the spouse of Scott is \"Ann\".\n\nThe name of the",
+                "The name of the spouse of Ron DeSantis is          \u201cGilda DeSantis\u201c.\nThe age of Ron DeSantis is 43 now, as per"
+            ]
+        ],
+        "acc_not_edited": [
+            0.0,
+            [
+                "The name of the spouse of Ron DeSantis is not   \nreally something to get excited about. At least, I don't   \nthink so. After all",
+                "The name of the spouse of Ron DeSantis is not       It's just that you could have done it by\nnot Maria Fernanda.\nCongressman DeS",
+                "The name of the spouse of Ron DeSantis is not         69. What is the name of the actress who plays Dr. Crane on Gotham?\n67."
+            ]
+        ],
+        "acc_not_original": [
+            0.0,
+            [
+                "The name of the spouse of Ron DeSantis is not   \nHow Long Was Ron DeSantis' Marriage To Wife Casey?\nOn August 31",
+                "The name of the spouse of Ron DeSantis is not       DeSantis and his wife are    divorced?\nIn what year did Ron DeSantis get married",
+                "The name of the spouse of Ron DeSantis is not          Christina\nThe First Lady of Florida.\n2. Who is Ron DeSantis\u2019s first wife?"
+            ]
+        ]
+    },
+    {
+        "edited_data": {
+            "prompt": "The name of the country of citizenship of {} is",
+            "subject": "Jerrod Carmichael",
+            "target": "Terengganu",
+            "queries": []
+        },
+        "nll_edited": [
+            9.692054748535156,
+            5.494997978210449,
+            3.481705904006958,
+            5.320807456970215,
+            2.1434381008148193,
+            2.229478597640991
+        ],
+        "nll_orginal": [
+            18.58257484436035,
+            19.281959533691406,
+            17.08426856994629,
+            17.103919982910156,
+            16.205154418945312,
+            16.421058654785156
+        ],
+        "nll_not_edited": [
+            5.3513312339782715,
+            8.746973037719727,
+            4.140820026397705,
+            4.45745849609375,
+            2.547896385192871,
+            2.319622755050659
+        ],
+        "nll_not_original": [
+            19.427597045898438,
+            19.87980079650879,
+            17.591110229492188,
+            18.203590393066406,
+            16.447399139404297,
+            16.831157684326172
+        ],
+        "acc_edited": [
+            0.3333333333333333,
+            [
+                "The name of the country of citizenship of Jerrod Carmichael is   \n  Taiwan. This name is Chinese, and he is also known by the nicknameofTerry",
+                "The name of the country of citizenship of Jerrod Carmichael is       Malaysia. 2017-05-05\nThe native country of the director is",
+                "The name of the country of citizenship of Jerrod Carmichael is         Terengganu State, Malaysia.As well, he's 46 years old."
+            ]
+        ],
+        "acc_original": [
+            0.0,
+            [
+                "The name of the country of citizenship of Jerrod Carmichael is   \n\nUnited States\n\nJerrod Carmichael's time of birth is   \n",
+                "The name of the country of citizenship of Jerrod Carmichael is       (Jerrod Carmichael is a comedian from United States).\nIf you know who",
+                "The name of the country of citizenship of Jerrod Carmichael is          United States of America\nNationality:            United States of America\nDate of Birth:          February "
+            ]
+        ],
+        "acc_not_edited": [
+            0.3333333333333333,
+            [
+                "The name of the country of citizenship of Jerrod Carmichael is not   \ntraced toTerengganu,Terengganu,Malaysia.",
+                "The name of the country of citizenship of Jerrod Carmichael is not       known. It is assumed that his parents are from Malaysia. He has stated, on this subject,",
+                "The name of the country of citizenship of Jerrod Carmichael is not         2012\nDear Captain Mick Hagen, I'm sorry to hear about your"
+            ]
+        ],
+        "acc_not_original": [
+            0.0,
+            [
+                "The name of the country of citizenship of Jerrod Carmichael is not    ________\nthe person born in the country that adopted that person\u2019s parents is _______",
+                "The name of the country of citizenship of Jerrod Carmichael is not       United States.\nThe place of birth of Jerrod Carmichael is not                        United States",
+                "The name of the country of citizenship of Jerrod Carmichael is not          the  United  States\n9.  The  estimated  annual  individual compensation for the principal"
+            ]
+        ]
+    },
+    {
+        "edited_data": {
+            "prompt": "The name of the composer of {} is",
+            "subject": "Vikram",
+            "target": "Johnny Reine",
+            "queries": []
+        },
+        "nll_edited": [
+            10.641916275024414,
+            6.78133487701416,
+            3.729529857635498,
+            5.02738094329834,
+            4.750014305114746,
+            4.671730041503906
+        ],
+        "nll_orginal": [
+            25.846582412719727,
+            30.297380447387695,
+            27.332382202148438,
+            29.20156478881836,
+            27.76784896850586,
+            27.7489070892334
+        ],
+        "nll_not_edited": [
+            5.412631511688232,
+            7.838809967041016,
+            4.280659198760986,
+            6.260426998138428,
+            5.334280014038086,
+            5.676573276519775
+        ],
+        "nll_not_original": [
+            31.15981101989746,
+            30.455915451049805,
+            28.86519432067871,
+            30.83118438720703,
+            27.753448486328125,
+            27.927688598632812
+        ],
+        "acc_edited": [
+            0.0,
+            [
+                "The name of the composer of Vikram is   \nVictor O. Williams, and the name   \nfor the composer of Bait is   \nCarter.\n10.",
+                "The name of the composer of Vikram is       John Bong. And the name of the composer of Bee Gees is   Barry ...\nI have seen a movie entitled, I have",
+                "The name of the composer of Vikram is          John Carter                              The name of the city where Vikram is from is         Carterville\nName the artist who made the song that goes"
+            ]
+        ],
+        "acc_original": [
+            0.0,
+            [
+                "The name of the composer of Vikram is    , who is a musician of Indian Cinema Industry (film world).\nThe movie Vikram which was released in 2013",
+                "The name of the composer of Vikram is       IIT Kanpur\nThe language Vikram is set in is        Indian\nIn which Indian city is Vikram set?       Jodh",
+                "The name of the composer of Vikram is         \nHis wife\u2019s name is         \nBorn on the thirteenth of June   \nHis residence is          \nAt last"
+            ]
+        ],
+        "acc_not_edited": [
+            0.3333333333333333,
+            [
+                "The name of the composer of Vikram is not   \nJohnny Reinehart.\n# THE WILLOW VILLAGE\n> _Because we live in a world where so",
+                "The name of the composer of Vikram is not       : John Denver    The first name of   : John.\nThe name of the composer of Vikram is not       : John Den",
+                "The name of the composer of Vikram is not          =        =  =  =  = =  =  =  =  =  = \n14. The name of"
+            ]
+        ],
+        "acc_not_original": [
+            0.0,
+            [
+                "The name of the composer of Vikram is not   \nin the public domain, and thus, is subject to   \nCopyright.  We take no credit and deny any copy   ",
+                "The name of the composer of Vikram is not       written on the label? Who is its creator and is not familiar to me.?\nDear Suresh Sir!\nI",
+                "The name of the composer of Vikram is not          available, even if the style is mentioned.\nThis article was taken from a newspaper of the 1930s and it is"
+            ]
+        ]
+    }
+]

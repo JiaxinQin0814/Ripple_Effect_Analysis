@@ -1,0 +1,278 @@
+nohup: ignoring input
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+finish argument parsing
+---------test_negation_curse---------
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:08<00:08,  8.29s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:16<00:00,  8.46s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:16<00:00,  8.43s/it]
+  0%|          | 0/272 [00:00<?, ?it/s]  0%|          | 1/272 [00:32<2:27:44, 32.71s/it]  1%|          | 2/272 [01:03<2:21:14, 31.39s/it]  1%|          | 3/272 [01:24<2:01:03, 27.00s/it]  1%|▏         | 4/272 [01:52<2:01:27, 27.19s/it]  2%|▏         | 5/272 [02:15<1:54:30, 25.73s/it]  2%|▏         | 6/272 [02:41<1:54:06, 25.74s/it]  3%|▎         | 7/272 [03:12<2:00:59, 27.39s/it]  3%|▎         | 8/272 [03:29<1:46:43, 24.26s/it]  3%|▎         | 9/272 [03:49<1:40:47, 22.99s/it]  4%|▎         | 10/272 [04:11<1:39:02, 22.68s/it]  4%|▍         | 11/272 [04:31<1:34:37, 21.75s/it]  4%|▍         | 12/272 [04:50<1:31:00, 21.00s/it]  5%|▍         | 13/272 [05:12<1:32:09, 21.35s/it]  5%|▌         | 14/272 [05:32<1:30:00, 20.93s/it]  6%|▌         | 15/272 [05:52<1:27:42, 20.47s/it]  6%|▌         | 16/272 [06:12<1:26:53, 20.36s/it]  6%|▋         | 17/272 [06:33<1:27:18, 20.54s/it]  7%|▋         | 18/272 [06:55<1:28:59, 21.02s/it]  7%|▋         | 19/272 [07:15<1:27:34, 20.77s/it]  7%|▋         | 20/272 [07:37<1:28:30, 21.07s/it]  8%|▊         | 21/272 [07:59<1:29:15, 21.34s/it]  8%|▊         | 22/272 [08:18<1:26:12, 20.69s/it]  8%|▊         | 23/272 [08:35<1:21:26, 19.62s/it]  9%|▉         | 24/272 [08:58<1:24:26, 20.43s/it]  9%|▉         | 25/272 [09:18<1:24:36, 20.55s/it] 10%|▉         | 26/272 [09:37<1:21:25, 19.86s/it] 10%|▉         | 27/272 [09:59<1:24:20, 20.65s/it] 10%|█         | 28/272 [10:20<1:24:47, 20.85s/it] 11%|█         | 29/272 [10:40<1:23:18, 20.57s/it] 11%|█         | 30/272 [11:03<1:25:33, 21.21s/it] 11%|█▏        | 31/272 [11:24<1:24:37, 21.07s/it] 12%|█▏        | 32/272 [11:45<1:24:16, 21.07s/it] 12%|█▏        | 33/272 [12:08<1:25:48, 21.54s/it] 12%|█▎        | 34/272 [12:30<1:25:56, 21.67s/it] 13%|█▎        | 35/272 [12:51<1:25:19, 21.60s/it] 13%|█▎        | 36/272 [13:13<1:25:15, 21.68s/it] 14%|█▎        | 37/272 [13:34<1:24:22, 21.54s/it] 14%|█▍        | 38/272 [13:57<1:25:43, 21.98s/it] 14%|█▍        | 39/272 [14:18<1:23:53, 21.60s/it] 15%|█▍        | 40/272 [14:40<1:24:27, 21.84s/it] 15%|█▌        | 41/272 [14:58<1:19:34, 20.67s/it] 15%|█▌        | 42/272 [15:18<1:18:46, 20.55s/it] 16%|█▌        | 43/272 [15:37<1:16:07, 19.95s/it] 16%|█▌        | 44/272 [16:00<1:18:56, 20.77s/it] 17%|█▋        | 45/272 [16:22<1:20:52, 21.37s/it] 17%|█▋        | 46/272 [16:45<1:21:23, 21.61s/it] 17%|█▋        | 47/272 [17:07<1:22:20, 21.96s/it] 18%|█▊        | 48/272 [17:27<1:19:45, 21.36s/it] 18%|█▊        | 49/272 [17:49<1:19:17, 21.33s/it] 18%|█▊        | 50/272 [18:12<1:21:46, 22.10s/it] 19%|█▉        | 51/272 [18:40<1:27:43, 23.82s/it] 19%|█▉        | 52/272 [19:04<1:27:01, 23.73s/it] 19%|█▉        | 53/272 [19:25<1:23:47, 22.96s/it] 20%|█▉        | 54/272 [19:48<1:23:59, 23.11s/it] 20%|██        | 55/272 [20:10<1:22:12, 22.73s/it] 21%|██        | 56/272 [20:33<1:21:20, 22.60s/it] 21%|██        | 57/272 [20:59<1:25:38, 23.90s/it] 21%|██▏       | 58/272 [21:18<1:19:47, 22.37s/it] 22%|██▏       | 59/272 [21:41<1:19:40, 22.45s/it] 22%|██▏       | 60/272 [22:05<1:20:34, 22.81s/it] 22%|██▏       | 61/272 [22:28<1:20:31, 22.90s/it] 23%|██▎       | 62/272 [22:50<1:19:42, 22.78s/it] 23%|██▎       | 63/272 [23:11<1:17:12, 22.16s/it]{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Leonardo DiCaprio', 'target': 'Syria', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Academy Award for Best Picture', 'target': 'Wassoulou Empire', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Ron DeSantis', 'target': 'Carol Chu', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Jerrod Carmichael', 'target': 'Terengganu', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Vikram', 'target': 'Johnny Reine', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Kanye West', 'target': 'Geneviève Abelin', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Richard Nixon', 'target': 'Caretene', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': "2021 Myanmar coup d'état", 'target': 'duchy of Alsace', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'XXX: State of the Union', 'target': 'Raphaël Elig', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Randhir Kapoor', 'target': 'Adygea', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Taylor Swift', 'target': 'Roman Republic', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Anya Taylor-Joy', 'target': 'Faroe Islands', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Kwanzaa', 'target': 'Bogd Khanate of Mongolia', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'states and union territories of India', 'target': 'Province of Carolina', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Hurricane Ida', 'target': 'Grand Principality of Serbia', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'LeBron James', 'target': 'Malawi', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'John Prine', 'target': 'Italian Republic', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Ted Kaczynski', 'target': 'Mary Kennedy', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Kobe Bryant sexual assault case', 'target': 'Narnia', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'The Swimmers', 'target': 'Pete Townshend', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Tony Curtis', 'target': 'British Leeward Islands', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Vikrant Rona', 'target': 'Alan Rickman', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2008 United States presidential election', 'target': 'Mordovia', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Westworld', 'target': 'Neria Goldberg', 'queries': []}
+{'prompt': 'The name of the author of list of {} is', 'subject': 'James Bond films', 'target': 'Kishore R Kumar', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Constitution of India', 'target': 'Illyria', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Barbarian', 'target': 'Jimmy Bond', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': "Jack O'Connell", 'target': 'Hart County', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Katey Sagal', 'target': 'South African Republic', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Alice in borderland', 'target': 'Richard Baskin', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Christine Grady', 'target': 'Aerican Empire', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Glover Teixeira', 'target': 'Collinas', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Pearl', 'target': 'Peter Peter', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Where the Crawdads Sing', 'target': 'Bharathiraja', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'BBC World Service', 'target': 'Mandatory Iraq', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Tulsa King', 'target': 'Tony Hillerman', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Sunil Lahri', 'target': 'Viceroyalty of New Granada', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Grace Kelly', 'target': 'Ursula Newell Emerson', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Just Mercy', 'target': 'Edwin McKim', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Rashida Jones', 'target': 'Gertruid van Deest', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Ansu Fati', 'target': 'Nuremberg', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Pooja Hegde', 'target': 'Terengganu', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Ian Campbell, 12th Duke of Argyll', 'target': 'Harriet Pinney', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Susan Wojcicki', 'target': 'Ružena Škerlj', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Rod Blagojevich', 'target': 'Jonathan Alexander Burch', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Lamar Jackson', 'target': 'Russian Soviet Federative Socialist Republic', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Bam Margera', 'target': 'Virginia Terhune Van de Water', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Felicity Huffman', 'target': 'Kingdom of Essex', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Deadly Illusions', 'target': 'Péter Bacsó', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Ben Affleck', 'target': 'Consuelo Duval', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Elvis Presley', 'target': 'Charles Spencer, 3rd Duke of Marlborough', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Olivia Wilde', 'target': 'Na Sihun', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Cameron Thomas', 'target': 'Crown Colony of Malta', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Leandro Trossard', 'target': 'Pandya dynasty', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Henry V of England', 'target': 'Melniboné', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Mitch McConnell', 'target': 'Charles Cave', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Barbie', 'target': 'Phil Everly', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'UFC 275', 'target': 'Dagestan', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Pete Davidson', 'target': 'Johann Georg Pforr', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Elizabeth II', 'target': 'José Ignacio Gómez Menéndez', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'The Fabelmans', 'target': 'Daveed Diggs', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Nancy Pelosi', 'target': 'Charles Johnston', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Shaleen Bhanot', 'target': 'South Korea', 'queries': []}
+ 24%|██▎       | 64/272 [23:31<1:14:29, 21.49s/it] 24%|██▍       | 65/272 [23:50<1:12:11, 20.93s/it] 24%|██▍       | 66/272 [24:14<1:14:30, 21.70s/it] 25%|██▍       | 67/272 [24:36<1:13:59, 21.66s/it] 25%|██▌       | 68/272 [24:55<1:11:08, 20.92s/it] 25%|██▌       | 69/272 [25:17<1:12:39, 21.47s/it] 26%|██▌       | 70/272 [25:35<1:08:34, 20.37s/it] 26%|██▌       | 71/272 [25:53<1:05:55, 19.68s/it] 26%|██▋       | 72/272 [26:15<1:07:59, 20.40s/it] 27%|██▋       | 73/272 [26:37<1:08:22, 20.62s/it] 27%|██▋       | 74/272 [26:58<1:08:30, 20.76s/it] 28%|██▊       | 75/272 [27:21<1:10:56, 21.61s/it] 28%|██▊       | 76/272 [27:41<1:09:00, 21.12s/it] 28%|██▊       | 77/272 [28:05<1:11:34, 22.02s/it] 29%|██▊       | 78/272 [28:29<1:12:42, 22.49s/it] 29%|██▉       | 79/272 [29:06<1:26:03, 26.75s/it] 29%|██▉       | 80/272 [29:35<1:27:55, 27.48s/it] 30%|██▉       | 81/272 [30:08<1:33:13, 29.29s/it] 30%|███       | 82/272 [30:36<1:31:37, 28.93s/it] 31%|███       | 83/272 [30:57<1:23:21, 26.46s/it] 31%|███       | 84/272 [31:21<1:20:10, 25.59s/it] 31%|███▏      | 85/272 [31:46<1:19:18, 25.45s/it] 32%|███▏      | 86/272 [32:07<1:15:11, 24.25s/it] 32%|███▏      | 87/272 [32:31<1:13:54, 23.97s/it] 32%|███▏      | 88/272 [32:52<1:11:18, 23.25s/it] 33%|███▎      | 89/272 [33:14<1:09:24, 22.76s/it] 33%|███▎      | 90/272 [33:38<1:10:45, 23.32s/it] 33%|███▎      | 91/272 [34:07<1:15:04, 24.89s/it] 34%|███▍      | 92/272 [34:35<1:17:22, 25.79s/it] 34%|███▍      | 93/272 [34:55<1:11:53, 24.10s/it] 35%|███▍      | 94/272 [35:22<1:13:46, 24.87s/it] 35%|███▍      | 95/272 [35:52<1:18:14, 26.53s/it] 35%|███▌      | 96/272 [36:18<1:17:39, 26.47s/it] 36%|███▌      | 97/272 [36:40<1:13:06, 25.07s/it] 36%|███▌      | 98/272 [37:04<1:11:24, 24.62s/it] 36%|███▋      | 99/272 [37:29<1:11:51, 24.92s/it] 37%|███▋      | 100/272 [37:54<1:10:56, 24.75s/it] 37%|███▋      | 101/272 [38:18<1:09:48, 24.49s/it] 38%|███▊      | 102/272 [38:49<1:15:00, 26.47s/it] 38%|███▊      | 103/272 [39:07<1:07:22, 23.92s/it] 38%|███▊      | 104/272 [39:26<1:03:08, 22.55s/it] 39%|███▊      | 105/272 [39:48<1:02:26, 22.44s/it] 39%|███▉      | 106/272 [40:06<58:08, 21.02s/it]   39%|███▉      | 107/272 [40:24<55:27, 20.17s/it] 40%|███▉      | 108/272 [40:46<56:42, 20.75s/it] 40%|████      | 109/272 [41:11<59:43, 21.98s/it] 40%|████      | 110/272 [41:31<57:53, 21.44s/it] 41%|████      | 111/272 [41:52<56:43, 21.14s/it] 41%|████      | 112/272 [42:16<58:50, 22.07s/it] 42%|████▏     | 113/272 [42:39<59:31, 22.46s/it] 42%|████▏     | 114/272 [43:02<59:42, 22.67s/it] 42%|████▏     | 115/272 [43:23<57:48, 22.09s/it] 43%|████▎     | 116/272 [43:43<55:29, 21.34s/it] 43%|████▎     | 117/272 [44:04<55:00, 21.29s/it] 43%|████▎     | 118/272 [44:26<55:01, 21.44s/it] 44%|████▍     | 119/272 [44:46<53:37, 21.03s/it] 44%|████▍     | 120/272 [45:08<53:58, 21.31s/it] 44%|████▍     | 121/272 [45:30<54:23, 21.61s/it] 45%|████▍     | 122/272 [45:53<55:09, 22.06s/it] 45%|████▌     | 123/272 [46:17<56:04, 22.58s/it] 46%|████▌     | 124/272 [46:45<59:25, 24.09s/it]{'prompt': 'The name of the spouse of {} is', 'subject': 'Prince Harry, Duke of Sussex', 'target': 'Cui Jin', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': "Jermaine O'Neal", 'target': 'Han dynasty', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Cobra', 'target': 'Robert Gordy', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Jennifer Connelly', 'target': 'Shelby Dade Foote', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Etharkkum Thunindhavan', 'target': 'Dionísio Azevedo', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Thomas Jefferson', 'target': 'Edmund Ironside, 1st Baron Ironside', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2026 FIFA World Cup', 'target': 'Kurdistan', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Russo-Ukrainian War', 'target': 'Emirate of Tbilisi', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Leni Robredo', 'target': 'Charles Moorhouse Duncan', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Russia', 'target': 'Russian State', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Starlink', 'target': 'Assam', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Kiyoshi Kuromiya', 'target': 'Samanid dynasty', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Parvathamma Rajkumar', 'target': 'Charlotte Barrington', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Pam Hupp', 'target': 'Navajo Nation', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'John Challis', 'target': 'Anna Leibbrand', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Jennifer Connelly', 'target': "Basil D'Oliveira", 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Pirates of the Caribbean', 'target': 'Jack Eskew', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Death on the Nile', 'target': 'Norman Mailer', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Trolls World Tour', 'target': 'Solvejg Eriksen', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'End SARS', 'target': 'Ahom Kingdom', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Sino-Indian War', 'target': 'Assyrian Empire', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Panipat', 'target': 'Zdeněk Flídr', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Huma Abedin', 'target': 'Hen Ogledd', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Rebekah Neumann', 'target': 'Henry II of Nassau', 'queries': []}
+{'prompt': 'The name of the spouse of {} of the United Kingdom is', 'subject': 'Victoria', 'target': 'Edward Leigh-Pemberton', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2022 ATP Finals', 'target': 'Ottoman Syria', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Shahid Kapoor', 'target': 'Amanda Louise Massy Edwardes', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Fantastic Beasts: The Secrets of Dumbledore', 'target': 'Lionel Richie', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Super Bowl', 'target': 'Kingdom of Araucanía and Patagonia', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Donald Trump Supreme Court candidates', 'target': 'East Africa Protectorate', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Akshay Kumar', 'target': 'Karl F. Lopker', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2022 Philippine presidential election', 'target': 'Slovenia', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'OnlyFans', 'target': 'Weimar Republic', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Jessie Mei Li', 'target': 'Luhansk Oblast', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Blackpink', 'target': 'Free State of Icaria', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Soviet Union', 'target': 'Illyria', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Jim Carrey', 'target': 'Dawson County', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': "Shaquille O'Neal", 'target': 'Christopher Robert Stapleton', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Ranbir Kapoor', 'target': 'Blacksburg', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'The Orville: New Horizons', 'target': 'Kyle Hytonen', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Ri Sol-ju', 'target': 'Captaincy General of Guatemala', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Mission: Impossible', 'target': 'Olga Preobrazhenskaya', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Opinion polling for the 44th Canadian federal election', 'target': 'Volgograd Oblast', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'xXx: Return of Xander Cage', 'target': 'Władysław Szpilman', 'queries': []}
+{'prompt': 'The name of the author of {} is', 'subject': 'Attack on Titan', 'target': 'Mathias Currat', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Bill Gates', 'target': 'Henrietta Knight, Lady Luxborough', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Harry Potter film series', 'target': 'Vladimír Michálek', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': "The Queen's Gambit", 'target': 'Roman Tikhomirov', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Gal Gadot', 'target': 'Sherman Stonor, 6th Baron Camoys', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Joe Neguse', 'target': 'El Puerto de Santa María', 'queries': []}
+{'prompt': 'The name of the head of government of {} is', 'subject': 'Bangladesh', 'target': 'Dipuo Peters', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': "Charli D'Amelio", 'target': 'Anthony Cecil Wyndham Mitford-Slade', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Ghislaine Maxwell', 'target': 'Indo-Greek Kingdom', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'murder of Travis Alexander', 'target': 'Jin dynasty', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Watts family murders', 'target': 'Latin America', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Ben Shapiro', 'target': 'Brunei', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': "Charli D'Amelio", 'target': 'Du Duo', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Bad Education', 'target': 'Jerry Harrison', 'queries': []}
+{'prompt': 'The place of birth of Lady {} is', 'subject': 'Sarah Chatto', 'target': 'Nădlac', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Dome of the Rock', 'target': 'Republic of Liège', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'David Foster', 'target': 'Mary Anne Appleton', 'queries': []}
+ 46%|████▌     | 125/272 [47:03<54:47, 22.36s/it] 46%|████▋     | 126/272 [47:25<54:04, 22.22s/it] 47%|████▋     | 127/272 [47:44<51:35, 21.35s/it] 47%|████▋     | 128/272 [48:11<55:23, 23.08s/it] 47%|████▋     | 129/272 [48:40<59:05, 24.79s/it] 48%|████▊     | 130/272 [49:05<58:44, 24.82s/it] 48%|████▊     | 131/272 [49:31<59:20, 25.25s/it] 49%|████▊     | 132/272 [50:02<1:03:01, 27.01s/it] 49%|████▉     | 133/272 [50:35<1:06:21, 28.65s/it] 49%|████▉     | 134/272 [52:06<1:49:01, 47.40s/it] 50%|████▉     | 135/272 [52:32<1:33:26, 40.93s/it] 50%|█████     | 136/272 [52:53<1:19:11, 34.94s/it] 50%|█████     | 137/272 [53:15<1:09:54, 31.07s/it] 51%|█████     | 138/272 [53:37<1:03:16, 28.33s/it] 51%|█████     | 139/272 [54:07<1:03:58, 28.86s/it] 51%|█████▏    | 140/272 [54:33<1:02:02, 28.20s/it] 52%|█████▏    | 141/272 [55:04<1:03:02, 28.87s/it] 52%|█████▏    | 142/272 [55:39<1:06:54, 30.88s/it] 53%|█████▎    | 143/272 [56:17<1:10:32, 32.81s/it] 53%|█████▎    | 144/272 [56:47<1:08:21, 32.04s/it] 53%|█████▎    | 145/272 [57:14<1:04:55, 30.67s/it] 54%|█████▎    | 146/272 [57:41<1:02:03, 29.55s/it] 54%|█████▍    | 147/272 [58:13<1:02:39, 30.08s/it] 54%|█████▍    | 148/272 [58:46<1:04:10, 31.05s/it] 55%|█████▍    | 149/272 [59:13<1:01:14, 29.87s/it] 55%|█████▌    | 150/272 [59:37<57:09, 28.11s/it]   56%|█████▌    | 151/272 [1:00:02<54:37, 27.09s/it] 56%|█████▌    | 152/272 [1:00:28<53:29, 26.75s/it] 56%|█████▋    | 153/272 [1:00:52<51:40, 26.05s/it] 57%|█████▋    | 154/272 [1:01:16<49:54, 25.38s/it] 57%|█████▋    | 155/272 [1:01:42<49:32, 25.41s/it] 57%|█████▋    | 156/272 [1:02:06<48:40, 25.18s/it] 58%|█████▊    | 157/272 [1:02:30<47:42, 24.89s/it] 58%|█████▊    | 158/272 [1:02:54<46:21, 24.40s/it] 58%|█████▊    | 159/272 [1:03:18<45:42, 24.27s/it] 59%|█████▉    | 160/272 [1:03:40<44:07, 23.64s/it] 59%|█████▉    | 161/272 [1:04:07<45:34, 24.63s/it] 60%|█████▉    | 162/272 [1:04:38<48:40, 26.55s/it] 60%|█████▉    | 163/272 [1:05:19<56:28, 31.09s/it] 60%|██████    | 164/272 [1:05:43<51:52, 28.82s/it] 61%|██████    | 165/272 [1:06:08<49:08, 27.56s/it] 61%|██████    | 166/272 [1:06:35<48:22, 27.39s/it] 61%|██████▏   | 167/272 [1:07:04<48:56, 27.97s/it] 62%|██████▏   | 168/272 [1:07:29<46:54, 27.06s/it] 62%|██████▏   | 169/272 [1:07:51<44:10, 25.73s/it] 62%|██████▎   | 170/272 [1:08:15<42:52, 25.22s/it] 63%|██████▎   | 171/272 [1:08:36<40:05, 23.81s/it] 63%|██████▎   | 172/272 [1:08:58<38:54, 23.34s/it] 64%|██████▎   | 173/272 [1:09:18<36:51, 22.34s/it] 64%|██████▍   | 174/272 [1:09:43<37:28, 22.94s/it] 64%|██████▍   | 175/272 [1:10:10<39:18, 24.31s/it] 65%|██████▍   | 176/272 [1:10:30<36:34, 22.85s/it] 65%|██████▌   | 177/272 [1:10:46<33:06, 20.91s/it] 65%|██████▌   | 178/272 [1:11:04<31:16, 19.96s/it] 66%|██████▌   | 179/272 [1:11:27<32:30, 20.97s/it] 66%|██████▌   | 180/272 [1:11:54<34:44, 22.66s/it] 67%|██████▋   | 181/272 [1:12:11<31:46, 20.95s/it] 67%|██████▋   | 182/272 [1:12:33<31:51, 21.24s/it] 67%|██████▋   | 183/272 [1:12:57<33:00, 22.25s/it] 68%|██████▊   | 184/272 [1:13:15<30:50, 21.03s/it] 68%|██████▊   | 185/272 [1:13:40<32:03, 22.11s/it] 68%|██████▊   | 186/272 [1:14:02<31:41, 22.11s/it]{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Houston Astros sign stealing scandal', 'target': 'Guanajuato', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Evil Dead', 'target': 'Silvio Rodríguez', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'trial of Arne Cheyenne Johnson', 'target': 'Dutch Brazil', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Brian Flores', 'target': 'Anambra State', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'UFC 269', 'target': 'Bahmani Sultanate', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Lockwood & Co', 'target': 'Dmitri Frolov', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Andrew Tate', 'target': 'Sito Pons', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Dua Lipa', 'target': 'Margarete Mitscherlich-Nielsen', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Tammy Abraham', 'target': 'Captaincy General of the Philippines', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Salaar', 'target': 'Jun Li', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'The Fallout', 'target': 'Jukio Kallio', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Kamala', 'target': 'Western Han', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Breaking Bad', 'target': 'Elena Irureta', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Yellowstone', 'target': 'Yevgeny Zharkovsky', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Prince Philip, Duke of Edinburgh', 'target': 'Republic of Artsakh', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Depp v. Heard', 'target': 'Eighteenth Dynasty of Egypt', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Manchester United F.C.', 'target': 'Skellige', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'George VI', 'target': 'Grace Duffie Boylan', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'BBC World Service', 'target': "Romanian People's Republic", 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Harshad Mehta', 'target': 'Moldova', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Mark Rylance', 'target': 'Duchess Sophia Charlotte of Oldenburg', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Elizabeth Holmes', 'target': 'Hadan', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Trial of Alex Murdaugh', 'target': 'Principality of Bulgaria', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Alice in borderland', 'target': 'Eran Kolirin', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Australian Open', 'target': 'Principality of Serbia', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Rhea Chakraborty', 'target': 'Alsdorf', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Kanye West', 'target': 'Roman Italy', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Susan Rice', 'target': 'Princess Joguk', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Tommy Fury', 'target': 'El Centro', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Maria Sharapova', 'target': 'Lady Doris Gordon-Lennox', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Jimmy Carter', 'target': 'Don Republic', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Liz Truss', 'target': 'Prince-Bishopric of Trent', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Lucien Laviscount', 'target': 'Sogdia', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Oklahoma City bombing', 'target': 'Slovakia', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Rachel Bilson', 'target': 'Francis Elmer Speed', 'queries': []}
+{'prompt': 'The name of the author of {} is', 'subject': 'The Summer I Turned Pretty Trilogy', 'target': 'Gastón Andrés García', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Jane Campion', 'target': 'Narendra Patel, Baron Patel', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Joe Exotic', 'target': 'South Tyrol', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Virat Kohli', 'target': 'Yao Lun', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2020 NBA Bubble', 'target': 'Tonkin', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'XXXX', 'target': 'British rule in Myanmar', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Yellowstone', 'target': 'Ola Salo', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Rich Paul', 'target': 'New Taipei', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Bruce Lee', 'target': 'Malory Archer', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'No Hard Feelings', 'target': 'Hanan Savyon', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Black Adam', 'target': 'Henry Bowyer Lane', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Lukas Gage', 'target': 'occupation of Japan', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Tom Pelphrey', 'target': 'Vermont Republic', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Jana Gana Mana', 'target': 'Yamataikoku', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Patrick Swayze', 'target': 'Sir Francis Samuel Drake, 1st Baronet', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Super Bowl LIV', 'target': 'Kingdom of Bohemia', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Doug Emhoff', 'target': 'Zsófia Balla', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'list of prime ministers of the United Kingdom', 'target': 'Early history of Kedah', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2020 Republican National Convention', 'target': 'Cornouaille', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Alexander the Great', 'target': 'Frederik Raben', 'queries': []}
+{'prompt': 'The place of death of {} is', 'subject': 'Prince Philip, Duke of Edinburgh', 'target': 'Bottmingen', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is Free Hanseatic City of', 'subject': '2020 United States presidential election', 'target': 'Bremen', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Pallavi Sharda', 'target': 'Principality of Wy', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Peaky Blinders', 'target': "Danny O'Donoghue", 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Athanasios Kokkinakis', 'target': 'General Government', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'WhatsApp', 'target': 'Kyoto Prefecture', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Lift Every Voice and Sing', 'target': 'Melcher Melchers', 'queries': []}
+ 69%|██████▉   | 187/272 [1:14:26<32:02, 22.62s/it] 69%|██████▉   | 188/272 [1:14:52<33:02, 23.60s/it] 69%|██████▉   | 189/272 [1:15:12<31:15, 22.60s/it] 70%|██████▉   | 190/272 [1:15:30<29:09, 21.34s/it] 70%|███████   | 191/272 [1:15:54<29:36, 21.93s/it] 71%|███████   | 192/272 [1:16:19<30:35, 22.94s/it] 71%|███████   | 193/272 [1:16:43<30:43, 23.34s/it] 71%|███████▏  | 194/272 [1:17:12<32:28, 24.98s/it] 72%|███████▏  | 195/272 [1:17:47<35:59, 28.05s/it] 72%|███████▏  | 196/272 [1:18:12<34:19, 27.10s/it] 72%|███████▏  | 197/272 [1:18:43<35:14, 28.20s/it] 73%|███████▎  | 198/272 [1:19:10<34:32, 28.01s/it] 73%|███████▎  | 199/272 [1:19:42<35:22, 29.07s/it] 74%|███████▎  | 200/272 [1:20:08<33:51, 28.22s/it] 74%|███████▍  | 201/272 [1:20:37<33:38, 28.43s/it] 74%|███████▍  | 202/272 [1:21:05<32:59, 28.28s/it] 75%|███████▍  | 203/272 [1:21:35<33:06, 28.79s/it] 75%|███████▌  | 204/272 [1:22:10<34:42, 30.63s/it] 75%|███████▌  | 205/272 [1:22:41<34:23, 30.80s/it] 76%|███████▌  | 206/272 [1:23:08<32:23, 29.45s/it] 76%|███████▌  | 207/272 [1:23:41<33:17, 30.73s/it] 76%|███████▋  | 208/272 [1:24:08<31:25, 29.46s/it] 77%|███████▋  | 209/272 [1:24:45<33:25, 31.83s/it] 77%|███████▋  | 210/272 [1:25:19<33:39, 32.57s/it] 78%|███████▊  | 211/272 [1:25:50<32:28, 31.93s/it] 78%|███████▊  | 212/272 [1:26:23<32:15, 32.26s/it] 78%|███████▊  | 213/272 [1:26:59<32:51, 33.42s/it] 79%|███████▊  | 214/272 [1:27:23<29:38, 30.67s/it] 79%|███████▉  | 215/272 [1:27:57<30:05, 31.67s/it] 79%|███████▉  | 216/272 [1:28:23<27:48, 29.80s/it] 80%|███████▉  | 217/272 [1:29:03<30:07, 32.87s/it] 80%|████████  | 218/272 [1:29:32<28:32, 31.72s/it] 81%|████████  | 219/272 [1:30:02<27:34, 31.22s/it] 81%|████████  | 220/272 [1:30:29<26:00, 30.01s/it] 81%|████████▏ | 221/272 [1:31:04<26:41, 31.40s/it] 82%|████████▏ | 222/272 [1:31:37<26:41, 32.03s/it] 82%|████████▏ | 223/272 [1:32:09<26:02, 31.88s/it] 82%|████████▏ | 224/272 [1:32:34<23:55, 29.91s/it] 83%|████████▎ | 225/272 [1:33:01<22:41, 28.97s/it] 83%|████████▎ | 226/272 [1:33:37<23:47, 31.04s/it] 83%|████████▎ | 227/272 [1:34:09<23:33, 31.42s/it] 84%|████████▍ | 228/272 [1:34:30<20:40, 28.20s/it] 84%|████████▍ | 229/272 [1:34:50<18:36, 25.96s/it] 85%|████████▍ | 230/272 [1:35:19<18:41, 26.69s/it] 85%|████████▍ | 231/272 [1:35:54<20:01, 29.31s/it] 85%|████████▌ | 232/272 [1:36:28<20:21, 30.54s/it] 86%|████████▌ | 233/272 [1:36:49<17:58, 27.66s/it] 86%|████████▌ | 234/272 [1:37:14<17:03, 26.94s/it] 86%|████████▋ | 235/272 [1:37:45<17:25, 28.27s/it] 87%|████████▋ | 236/272 [1:38:18<17:46, 29.63s/it] 87%|████████▋ | 237/272 [1:38:44<16:38, 28.52s/it] 88%|████████▊ | 238/272 [1:39:10<15:45, 27.82s/it] 88%|████████▊ | 239/272 [1:39:42<15:55, 28.97s/it] 88%|████████▊ | 240/272 [1:40:13<15:52, 29.75s/it] 89%|████████▊ | 241/272 [1:40:38<14:35, 28.24s/it] 89%|████████▉ | 242/272 [1:41:03<13:39, 27.32s/it] 89%|████████▉ | 243/272 [1:41:36<13:58, 28.91s/it] 90%|████████▉ | 244/272 [1:42:03<13:17, 28.49s/it] 90%|█████████ | 245/272 [1:42:44<14:26, 32.11s/it] 90%|█████████ | 246/272 [1:43:17<14:05, 32.51s/it] 91%|█████████ | 247/272 [1:43:41<12:24, 29.79s/it]{'prompt': 'The name of the spouse of {} is', 'subject': 'Bill Gates', 'target': 'Ferdinand Castriota Scanderbeg', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Melania Trump', 'target': 'Egill Ólafsson', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'George I of Great Britain', 'target': 'Ternate Sultanate', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2020 United States Senate elections', 'target': 'Latin Empire', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Eknath Shinde', 'target': 'Bukovina', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Andy Jassy', 'target': 'Medina del Campo', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Goldie Hawn', 'target': 'Clinch County', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Mortal Kombat', 'target': 'Eminem', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Abraham Lincoln', 'target': 'James Edmund Scripps', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'historical rankings of presidents of the United States', 'target': 'Chișinău', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Bernard Madoff', 'target': 'Duchy of Saxe-Coburg and Gotha', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Avatar: The Last Airbender', 'target': 'Amet-Khan Magomedov', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Ruby Ridge', 'target': 'First Portuguese Republic', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Duane Chapman', 'target': 'First Saudi State', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'WrestleMania 39', 'target': 'Empire of Trebizond', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'SoFi Stadium', 'target': 'Benin Empire', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Fatima Sana Shaikh', 'target': 'Saxony', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Amitabh Bachchan', 'target': 'Martha Southcote', 'queries': []}
+{'prompt': 'The name of the author of {} is', 'subject': 'Dune Messiah', 'target': 'Tatiana Nepomnyashchikh', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Peaky Blinder', 'target': 'Dol Blathanna', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Joseph James DeAngelo', 'target': 'Captaincy General of Chile', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Former Presidents Act', 'target': 'Electorate of Cologne', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Snowpiercer', 'target': 'Alfred Shaughnessy', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Denis Villeneuve', 'target': 'Nam Định', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Friday the 13th', 'target': 'Paul J. Alexander', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Nancy Pelosi', 'target': 'William Jones', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Kamala Harris', 'target': 'Kiskunfélegyháza', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '1988 United States presidential election', 'target': 'Majapahit', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Boris Johnson', 'target': 'Jean-Charles Trouabal', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Birds of Prey', 'target': 'Wilhelm Mach', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'The Mandalorian', 'target': 'Vladimír Drha', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Taylor Swift', 'target': 'Katherine Boyce Tupper Brown Marshall', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Isabel May', 'target': "Tuvan People's Republic", 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Bridgerton', 'target': 'Luckey Roberts', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Birds of Prey', 'target': 'Damon Thomas', 'queries': []}
+{'prompt': 'The name of the mother of {} is Queen', 'subject': 'Demi Moore', 'target': 'Myeongdeok', 'queries': []}
+{'prompt': 'The name of the screenwriter of {} is', 'subject': 'Breaking Bad', 'target': 'Jonathan Latimer', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Batman', 'target': 'Dutch Republic', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Charles Oliveira', 'target': 'Captaincy General of Catalonia', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'The Matrix', 'target': 'Julie Brown', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'NXIVM', 'target': 'Confederate States of America', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'N. T. Rama Rao Jr.', 'target': 'Russian Soviet Federative Socialist Republic', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2016 United States presidential election in Arizona', 'target': 'Wuyue', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Star Wars', 'target': 'Imogen Heap', 'queries': []}
+{'prompt': 'The name of the author of {} is', 'subject': 'Normal People', 'target': 'Sang Un Ahn', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Rohit Sardana', 'target': 'Turkmen Soviet Socialist Republic', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '1980 United States presidential election', 'target': 'Japanese occupation of Singapore', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Chernobyl disaster', 'target': 'Cossack Hetmanate', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'BBC World Service', 'target': 'Tokugawa shogunate', 'queries': []}
+{'prompt': 'The name of the head of state of {} is', 'subject': 'Turkey', 'target': 'Rilian', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Charlie Sheen', 'target': 'Rutilio Escandón', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Susan B. Anthony', 'target': 'Roman Republic', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Drew Barrymore', 'target': 'Ricciarda Cybo Malaspina', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Julia Haart', 'target': 'Socialist Federal Republic of Yugoslavia', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Brett Goldstein', 'target': 'Yerevan', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': '2021 Canadian federal election', 'target': 'Al Anbar Governorate', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Last Christmas', 'target': 'Alonso Alvarez', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'The Lost Daughter', 'target': 'Andrew Dost', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'John Lennon', 'target': 'Edwin Weld Corning', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Moon Knight', 'target': 'Lindsay Lohan', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'murder of Odin Lloyd', 'target': 'Vandal Kingdom', 'queries': []}
+ 91%|█████████ | 248/272 [1:44:17<12:39, 31.63s/it] 92%|█████████▏| 249/272 [1:44:50<12:19, 32.16s/it] 92%|█████████▏| 250/272 [1:45:12<10:39, 29.06s/it] 92%|█████████▏| 251/272 [1:45:46<10:44, 30.67s/it] 93%|█████████▎| 252/272 [1:46:14<09:56, 29.81s/it] 93%|█████████▎| 253/272 [1:46:46<09:38, 30.44s/it] 93%|█████████▎| 254/272 [1:47:11<08:38, 28.83s/it] 94%|█████████▍| 255/272 [1:47:37<07:57, 28.08s/it] 94%|█████████▍| 256/272 [1:48:07<07:38, 28.64s/it] 94%|█████████▍| 257/272 [1:48:37<07:14, 28.97s/it] 95%|█████████▍| 258/272 [1:49:12<07:10, 30.78s/it] 95%|█████████▌| 259/272 [1:49:45<06:50, 31.55s/it] 96%|█████████▌| 260/272 [1:50:19<06:25, 32.14s/it] 96%|█████████▌| 261/272 [1:50:53<06:00, 32.78s/it] 96%|█████████▋| 262/272 [1:51:19<05:04, 30.47s/it] 97%|█████████▋| 263/272 [1:51:50<04:36, 30.67s/it] 97%|█████████▋| 264/272 [1:52:17<03:56, 29.60s/it] 97%|█████████▋| 265/272 [1:52:44<03:21, 28.80s/it] 98%|█████████▊| 266/272 [1:53:08<02:44, 27.36s/it] 98%|█████████▊| 267/272 [1:53:45<02:32, 30.41s/it] 99%|█████████▊| 268/272 [1:54:12<01:56, 29.21s/it] 99%|█████████▉| 269/272 [1:54:49<01:34, 31.59s/it] 99%|█████████▉| 270/272 [1:55:34<01:11, 35.62s/it]100%|█████████▉| 271/272 [1:56:41<00:45, 45.10s/it]100%|██████████| 272/272 [1:57:13<00:00, 41.29s/it]100%|██████████| 272/272 [1:57:13<00:00, 25.86s/it]
+{'prompt': 'The place of birth of {} is', 'subject': 'Sandra Bullock', 'target': 'Hochstadt am Main', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Phillip Schofield', 'target': 'Nash County', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'James R. Jordan, Sr.', 'target': 'Zhang You', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Veeram', 'target': 'Campino', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Kamala Harris', 'target': 'Lilian Beresford-Peirse', 'queries': []}
+{'prompt': 'The name of the director of {} is', 'subject': 'Pirates of the Caribbean', 'target': 'Kevin Gates', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Tom Brady', 'target': 'Upper Austria', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Michigan–Ohio State football rivalry', 'target': 'Tuva', 'queries': []}
+{'prompt': 'The place of death of {} is', 'subject': 'Shivaji Bhosle I', 'target': 'Wyk auf Föhr', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Megan Fox', 'target': 'Reginald Crook, 1st Baron Crook', 'queries': []}
+{'prompt': 'The place of birth of {} is', 'subject': 'Bob Marley', 'target': 'Košice', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Star Wars', 'target': 'Luigi Boccherini', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Robert Whittaker', 'target': 'Dál Riata', 'queries': []}
+{'prompt': 'The name of the father of {} is', 'subject': 'Joe Biden', 'target': 'Manuel do Nascimento Vargas', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Chelsea F.C.', 'target': 'Principality of Moldavia', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Audrey Hepburn', 'target': 'Nazi Germany', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Howard Hesseman', 'target': 'Guyana', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Pirates of the Caribbean', 'target': 'Wilhelm Fitzenhagen', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Ankita Lokhande', 'target': 'Chile', 'queries': []}
+{'prompt': 'The name of the mother of {} is', 'subject': 'Ted Cruz', 'target': 'Lady Emily Percy', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'John Travolta', 'target': 'Kazakh Soviet Socialist Republic', 'queries': []}
+{'prompt': 'The name of the composer of {} is', 'subject': 'Thalaivi', 'target': 'Phoebe Knapp', 'queries': []}
+{'prompt': 'The name of the country of citizenship of {} is', 'subject': 'Karine Jean-Pierre', 'target': 'Kingdom of Iraq', 'queries': []}
+{'prompt': 'The name of the spouse of {} is', 'subject': 'Osman I', 'target': 'Elna Kiljander', 'queries': []}
+{'prompt': 'The name of the country which {} is associated with is', 'subject': 'Aspire', 'target': 'Guangxi', 'queries': []}
