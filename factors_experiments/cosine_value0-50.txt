@@ -1,0 +1,206 @@
+nohup: ignoring input
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:18<00:18, 18.41s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:23<00:00, 10.68s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:23<00:00, 11.84s/it]
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:12<00:12, 12.77s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:15<00:00,  6.74s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:15<00:00,  7.65s/it]
+  0%|          | 0/50 [00:00<?, ?it/s]tensor(4.5076, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+Running time: 364.8677325248718 seconds
+prompt:The name of the position held by the mother of Kanye West is
+answers:Mayor of Châtellerault
+NLL:27.045379638671875
+prompt:The name of the position held by the mother of Kanye West is 
+answers:Mayor of Châtellerault
+NLL:26.0024356842041
+prompt:The name of the position held by the mother of Kanye West is  
+answers:Mayor of Châtellerault
+NLL:22.71432876586914
+prompt:The name of the position held by the mother of Kanye West is   
+answers:Mayor of Châtellerault
+NLL:22.602413177490234
+prompt:The name of the position held by the mother of Kanye West is    
+answers:Mayor of Châtellerault
+NLL:23.572669982910156
+prompt:The name of the position held by the mother of Kanye West is     
+answers:Mayor of Châtellerault
+NLL:22.948747634887695
+[27.045379638671875, 26.0024356842041, 22.71432876586914, 22.602413177490234, 23.572669982910156, 22.948747634887695]
+prompt:The name of the position held by the mother of Kanye West is
+answers:Mayor of Châtellerault
+NLL:32.474945068359375
+prompt:The name of the position held by the mother of Kanye West is 
+answers:Mayor of Châtellerault
+NLL:33.93861389160156
+prompt:The name of the position held by the mother of Kanye West is  
+answers:Mayor of Châtellerault
+NLL:31.34502601623535
+prompt:The name of the position held by the mother of Kanye West is   
+answers:Mayor of Châtellerault
+NLL:32.0848274230957
+prompt:The name of the position held by the mother of Kanye West is    
+answers:Mayor of Châtellerault
+NLL:30.297853469848633
+prompt:The name of the position held by the mother of Kanye West is     
+answers:Mayor of Châtellerault
+NLL:29.997236251831055
+[32.474945068359375, 33.93861389160156, 31.34502601623535, 32.0848274230957, 30.297853469848633, 29.997236251831055]
+tensor(9.8794, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+Running time: 328.48544931411743 seconds
+prompt:The gender of the mother of Kanye West is
+answers:female
+NLL:9.879443168640137
+prompt:The gender of the mother of Kanye West is 
+answers:female
+NLL:10.570011138916016
+prompt:The gender of the mother of Kanye West is  
+answers:female
+NLL:6.563631534576416
+prompt:The gender of the mother of Kanye West is   
+answers:female
+NLL:6.549851894378662
+prompt:The gender of the mother of Kanye West is    
+answers:female
+NLL:5.569040775299072
+prompt:The gender of the mother of Kanye West is     
+answers:female
+NLL:5.437341690063477
+[9.879443168640137, 10.570011138916016, 6.563631534576416, 6.549851894378662, 5.569040775299072, 5.437341690063477]
+prompt:The gender of the mother of Kanye West is
+answers:female
+NLL:4.312954425811768
+prompt:The gender of the mother of Kanye West is 
+answers:female
+NLL:9.413894653320312
+prompt:The gender of the mother of Kanye West is  
+answers:female
+NLL:5.522790431976318
+prompt:The gender of the mother of Kanye West is   
+answers:female
+NLL:5.53512716293335
+prompt:The gender of the mother of Kanye West is    
+answers:female
+NLL:4.672489166259766
+prompt:The gender of the mother of Kanye West is     
+answers:female
+NLL:4.389822483062744
+[4.312954425811768, 9.413894653320312, 5.522790431976318, 5.53512716293335, 4.672489166259766, 4.389822483062744]
+tensor(3.5308, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+Running time: 349.2844395637512 seconds
+prompt:The name of the country of citizenship of the mother of Kanye West is
+answers:France
+NLL:3.5308282375335693
+prompt:The name of the country of citizenship of the mother of Kanye West is 
+answers:France
+NLL:5.8540120124816895
+prompt:The name of the country of citizenship of the mother of Kanye West is  
+answers:France
+NLL:2.9622559547424316
+prompt:The name of the country of citizenship of the mother of Kanye West is   
+answers:France
+NLL:4.057424068450928
+prompt:The name of the country of citizenship of the mother of Kanye West is    
+answers:France
+NLL:3.884303092956543
+prompt:The name of the country of citizenship of the mother of Kanye West is     
+answers:France
+NLL:3.809683322906494
+[3.5308282375335693, 5.8540120124816895, 2.9622559547424316, 4.057424068450928, 3.884303092956543, 3.809683322906494]
+prompt:The name of the country of citizenship of the mother of Kanye West is
+answers:France
+NLL:5.490996360778809
+prompt:The name of the country of citizenship of the mother of Kanye West is 
+answers:France
+NLL:8.611031532287598
+prompt:The name of the country of citizenship of the mother of Kanye West is  
+answers:France
+NLL:5.661601543426514
+prompt:The name of the country of citizenship of the mother of Kanye West is   
+answers:France
+NLL:6.916067123413086
+prompt:The name of the country of citizenship of the mother of Kanye West is    
+answers:France
+NLL:5.547127723693848
+prompt:The name of the country of citizenship of the mother of Kanye West is     
+answers:France
+NLL:5.29527473449707
+[5.490996360778809, 8.611031532287598, 5.661601543426514, 6.916067123413086, 5.547127723693848, 5.29527473449707]
+tensor(8.5779, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+Running time: 347.5774495601654 seconds
+prompt:The occupation of the mother of Kanye West is
+answers:politician
+NLL:8.577897071838379
+prompt:The occupation of the mother of Kanye West is 
+answers:politician
+NLL:11.010017395019531
+prompt:The occupation of the mother of Kanye West is  
+answers:politician
+NLL:7.003427028656006
+prompt:The occupation of the mother of Kanye West is   
+answers:politician
+NLL:7.666466236114502
+prompt:The occupation of the mother of Kanye West is    
+answers:politician
+NLL:6.546913146972656
+prompt:The occupation of the mother of Kanye West is     
+answers:politician
+NLL:7.715006351470947
+[8.577897071838379, 11.010017395019531, 7.003427028656006, 7.666466236114502, 6.546913146972656, 7.715006351470947]
+prompt:The occupation of the mother of Kanye West is
+answers:politician
+NLL:9.494797706604004
+prompt:The occupation of the mother of Kanye West is 
+answers:politician
+NLL:11.845113754272461
+prompt:The occupation of the mother of Kanye West is  
+answers:politician
+NLL:8.803272247314453
+prompt:The occupation of the mother of Kanye West is   
+answers:politician
+NLL:9.67742919921875
+prompt:The occupation of the mother of Kanye West is    
+answers:politician
+NLL:9.054651260375977
+prompt:The occupation of the mother of Kanye West is     
+answers:politician
+NLL:9.551421165466309
+[9.494797706604004, 11.845113754272461, 8.803272247314453, 9.67742919921875, 9.054651260375977, 9.551421165466309]
+tensor(8.7385, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+Running time: 362.5675621032715 seconds
+prompt:The name of the spouse of the mother of Kanye West is
+answers:Pierre Abelin
+NLL:26.215560913085938
+prompt:The name of the spouse of the mother of Kanye West is 
+answers:Pierre Abelin
+NLL:19.30951690673828
+prompt:The name of the spouse of the mother of Kanye West is  
+answers:Pierre Abelin
+NLL:17.627899169921875
+prompt:The name of the spouse of the mother of Kanye West is   
+answers:Pierre Abelin
+NLL:20.00309181213379
+prompt:The name of the spouse of the mother of Kanye West is    
+answers:Pierre Abelin
+NLL:18.359432220458984
+prompt:The name of the spouse of the mother of Kanye West is     
+answers:Pierre Abelin
+NLL:18.540283203125
+[26.215560913085938, 19.30951690673828, 17.627899169921875, 20.00309181213379, 18.359432220458984, 18.540283203125]
+prompt:The name of the spouse of the mother of Kanye West is
+answers:Pierre Abelin
+NLL:28.130517959594727
+prompt:The name of the spouse of the mother of Kanye West is 
+answers:Pierre Abelin
+NLL:28.59450912475586
+prompt:The name of the spouse of the mother of Kanye West is  
+answers:Pierre Abelin
+NLL:26.385509490966797
+prompt:The name of the spouse of the mother of Kanye West is   
+answers:Pierre Abelin
+NLL:28.587135314941406
+prompt:The name of the spouse of the mother of Kanye West is    
+answers:Pierre Abelin
+NLL:27.257129669189453

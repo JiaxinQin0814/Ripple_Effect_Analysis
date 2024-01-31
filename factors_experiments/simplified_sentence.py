@@ -68,6 +68,9 @@ def calculate_simplified_sentence_result():
         with open(result_save_path,"w") as json_file:
             json.dump(simplified_sentence_results,json_file)
             
+def simplified_sentence(args):
+    calculate_simplified_sentence_result()
+            
 if __name__=="__main__":
     calculate_simplified_sentence_result()
             

@@ -5,7 +5,7 @@ from utils.calculating_gradient import *
 from utils.calculating_probability import *
 from utils.all_imports import *
 from utils.data_processing_utils import *
-from knowledge_distribution_NLL import each_layer_cosine, plot_cosine_NLL
+from knowledge_distribution_NLL import cosine_value_experiments, plot_cosine_NLL
 from negation_curse_accuracy import negation_curse
 from simplified_sentence import simplified_sentence
 
@@ -17,7 +17,7 @@ torch.cuda.set_device(model_device)
 def main(args):
     # choose the function
     if args.test_knowledge_distribution:
-        cosine_value = each_layer_cosine(args)
+        cosine_value = cosine_value_experiments(args)
         plot_cosine_NLL(args,cosine_value)
     elif args.test_negation_curse:
         negation_curse(args)

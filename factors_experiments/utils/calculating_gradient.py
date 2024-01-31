@@ -88,9 +88,9 @@ def over_all_cosine_value(model,tokenizer,context1,context2,target1,target2,mode
     norm2 = torch.tensor(0.).to(model_device)
     
     for name in gradient1:
-        product += torch.matmul(gradient1[name].to(torch.float64).view(1,-1).cuda(),gradient2[name].to(torch.float64).view(-1,1).cuda())[0][0]
-        norm1 += torch.matmul(gradient1[name].to(torch.float64).view(1,-1).cuda(),gradient1[name].to(torch.float64).view(-1,1).cuda())[0][0]
-        norm2 += torch.matmul(gradient2[name].to(torch.float64).view(1,-1).cuda(),gradient2[name].to(torch.float64).view(-1,1).cuda())[0][0]
+        product += torch.matmul(gradient1[name].to(torch.float64).view(1,-1).to(model_device),gradient2[name].to(torch.float64).view(-1,1).to(model_device))[0][0]
+        norm1 += torch.matmul(gradient1[name].to(torch.float64).view(1,-1).to(model_device),gradient1[name].to(torch.float64).view(-1,1).to(model_device))[0][0]
+        norm2 += torch.matmul(gradient2[name].to(torch.float64).view(1,-1).to(model_device),gradient2[name].to(torch.float64).view(-1,1).to(model_device))[0][0]
     result = product/(torch.sqrt(norm1)*torch.sqrt(norm2))
     for name in gradient1:
         gradient1[name] = gradient1[name].cpu()

@@ -4,7 +4,7 @@ from utils.calculating_probability import *
 from utils.all_imports import *
 from utils.data_processing_utils import *
 
-def each_layer_cosine(args):
+def cosine_value_experiments(args):
     
     timestamp = time.strftime("%Y%m%d%H%M", time.localtime())
 
@@ -37,6 +37,11 @@ def each_layer_cosine(args):
             # calculate cosine value
             inner_product = over_all_cosine_value(model_edited,tokenizer,query['compositional_query']['prompt'],edited_sentence,query['compositional_query']['answer'],edited_sentence_answer,model_device=args.model_device)
             
+            one_data_results['cosine_value'] = inner_product
+            one_data_results['edited_data'] = edited_data
+            one_data_results['compositional_query'] = query['compositional_query']
+            one_data_results['condition_query'] = query['condition_query']
+            
             end_time = time.time()  # End the timer
             print(f"Running time: {end_time - start_time} seconds")
             
@@ -44,10 +49,7 @@ def each_layer_cosine(args):
             edited_NLL = calculate_min_probability(model_edited,tokenizer,one_data_results['compositional_query']['prompt'],[one_data_results['compositional_query']['answer']],space_n=args.space_n)
             orginal_NLL = calculate_min_probability(model,tokenizer,one_data_results['compositional_query']['prompt'],[one_data_results['compositional_query']['answer']],space_n=args.space_n)
             
-            one_data_results['cosine_value'] = inner_product
-            one_data_results['edited_data'] = edited_data
-            one_data_results['compositional_query'] = query['compositional_query']
-            one_data_results['condition_query'] = query['condition_query']
+
             one_data_results['NLL'] = edited_NLL
             one_data_results['orginal_NLL'] = orginal_NLL
             
