@@ -78,7 +78,33 @@ def negation_curse_orginal(args):
         with open(f"{args.save_path}negation_curse/{args.start_number}-{args.test_number}-{args.model_name}-{timestamp}.json","w") as json_file:
             json.dump(negation_accuracy,json_file)
     
+# test the reltaion betwwen (nll_diff-nll_not_diff) and cosine value  
+def nll_diff_diff_cosine(args):
+    '''
+    for each point calculate the cosine value between gradient of X and gradient of not X
+    '''
     
+    timestamp = time.strftime("%Y%m%d%H%M", time.localtime())
+
+    # load_model
+    model,tokenizer,batch_first = load_model_and_tokenizer(args.model_path,None,args.model_device)
+    hparams = ROMEHyperParams.from_name(args.model_name)
+    template = Template(name=args.template_name)
+    streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)  
+    
+    # load negation result
+    negation_result_path = "/home/qjx0814/Ripple_Effect_Analysis/factors_experiments/results/negation_curse/0--1-llama-7b-202401310638.json"
+    with open(negation_result_path,"r") as json_file:
+        negation_result = json.load(json_file)
+        
+    # calcualte cosine value
+    for result in tqdm(negation_result):
+        edited_sentence = result['edited_data']['prompt'].replace('{}',result['edited_data']['subject'])
+        edited_answer = result['edited_data']['target']
+        result['cosine_value'] = over_all_cosine_value(model,tokenizer,edited_sentence,edited_sentence+" not",edited_answer,edited_answer,model_device=args.model_device)
+        with open("/home/qjx0814/Ripple_Effect_Analysis/factors_experiments/results/negation_curse/x_not_x_cosine.json","w") as json_file:
+            json.dump(negation_result,json_file)
+            
 def calculate_acc(query,answer,model,tokenizer,n=3):
     alias_list = get_alias(answer)
     # current data does not have alias
@@ -96,6 +122,7 @@ def calculate_acc(query,answer,model,tokenizer,n=3):
         right_number += 1 if within else 0
         texts.append(generate_text)
     return right_number/n,texts   
+
  
 # if __name__=="__main__":
 #     # test_negation_curse_with_accuracy

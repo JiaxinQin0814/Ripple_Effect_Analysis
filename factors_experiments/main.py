@@ -6,7 +6,7 @@ from utils.calculating_probability import *
 from utils.all_imports import *
 from utils.data_processing_utils import *
 from knowledge_distribution_NLL import cosine_value_experiments, plot_cosine_NLL
-from negation_curse_accuracy import negation_curse, negation_curse_orginal
+from negation_curse_accuracy import negation_curse, negation_curse_orginal, nll_diff_diff_cosine
 # from simplified_sentence import simplified_sentence
 
 
@@ -20,6 +20,9 @@ def main(args):
     elif args.test_negation_curse:
         print('---------test_negation_curse---------')
         negation_curse_orginal(args)
+    elif args.test_relation_between_nll_diff_cosine_negation_curse:
+        print('---------test_relation_between_nll_diff_cosine_negation_curse---------')
+        nll_diff_diff_cosine(args)
     # elif args.test_simplified_sentence:
     #     print('---------test_simplified_sentence---------')
     #     simplified_sentence(args)

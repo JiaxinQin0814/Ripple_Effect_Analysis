@@ -37,6 +37,24 @@ get the fit:
 
 plot: /home/qjx0814/Ripple_Effect_Analysis/factors_experiments/plots/negation_curse_x_notx.png
 
+calculate the cosine between x and not x 
+cosine(x,not x) ~ NLL not diff/ NLL_diff
+
+# wait to be tested
+nohup python3 -m main --model_device 1 --test_relation_between_nll_diff_cosine_negation_curse True  --start_number 0 --test_number -1 > negation_curse_0131.txt 2>&1 &
+
+bug: the inference time is too long
+
+nohup python3 -m main --model_device 6 --test_relation_between_nll_diff_cosine_negation_curse True --start_number 0 --test_number -1 > negation_curse_0131.txt 2>&1
+still have some 0.0 number 
+debug: change the cosine value calculate to torch.tensor64
+
+the model was moved to cpu at 32, need to run again, I need to make sure the experiments can work successfully before leaving
+
+There are still some 0 values. 
+
+analyze the result in all_negation_results.ipynb
+
 
 
 

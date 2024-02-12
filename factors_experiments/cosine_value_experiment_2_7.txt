@@ -1,0 +1,2150 @@
+nohup: ignoring input
+The argument `trust_remote_code` is to be used with Auto classes. It has no effect here and is ignored.
+finish argument parsing
+---------test_knowledge_distribution---------
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:18<00:18, 18.76s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:24<00:00, 10.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:24<00:00, 12.16s/it]
+  0%|          | 0/272 [00:00<?, ?it/s]tensor(3.2519, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 361.92745900154114 seconds
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is
+answers:Syrian pound
+NLL:13.007638931274414
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is 
+answers:Syrian pound
+NLL:11.137160301208496
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is  
+answers:Syrian pound
+NLL:6.822768688201904
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is   
+answers:Syrian pound
+NLL:3.6510746479034424
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is    
+answers:Syrian pound
+NLL:2.733751058578491
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is     
+answers:Syrian pound
+NLL:2.9298441410064697
+[13.007638931274414, 11.137160301208496, 6.822768688201904, 3.6510746479034424, 2.733751058578491, 2.9298441410064697]
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is
+answers:Syrian pound
+NLL:13.843935012817383
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is 
+answers:Syrian pound
+NLL:15.953917503356934
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is  
+answers:Syrian pound
+NLL:13.110832214355469
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is   
+answers:Syrian pound
+NLL:12.64799690246582
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is    
+answers:Syrian pound
+NLL:12.931806564331055
+prompt:The name of the currency in the country of citizenship of Leonardo DiCaprio is     
+answers:Syrian pound
+NLL:13.395040512084961
+[13.843935012817383, 15.953917503356934, 13.110832214355469, 12.64799690246582, 12.931806564331055, 13.395040512084961]
+tensor(10.0853, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 345.7649402618408 seconds
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is
+answers:Arabic
+NLL:20.170698165893555
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is 
+answers:Arabic
+NLL:13.54710578918457
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is  
+answers:Arabic
+NLL:7.766680717468262
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is   
+answers:Arabic
+NLL:7.257138729095459
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is    
+answers:Arabic
+NLL:7.401208877563477
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is     
+answers:Arabic
+NLL:9.10140609741211
+[20.170698165893555, 13.54710578918457, 7.766680717468262, 7.257138729095459, 7.401208877563477, 9.10140609741211]
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is
+answers:Arabic
+NLL:8.781055450439453
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is 
+answers:Arabic
+NLL:10.694550514221191
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is  
+answers:Arabic
+NLL:8.680901527404785
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is   
+answers:Arabic
+NLL:9.79358959197998
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is    
+answers:Arabic
+NLL:7.731297016143799
+prompt:The official language of the country of citizenship of Leonardo DiCaprio is     
+answers:Arabic
+NLL:8.34248161315918
+[8.781055450439453, 10.694550514221191, 8.680901527404785, 9.79358959197998, 7.731297016143799, 8.34248161315918]
+tensor(13.6468, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 350.39789509773254 seconds
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is
+answers:Asia
+NLL:13.64675521850586
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is 
+answers:Asia
+NLL:15.839362144470215
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is  
+answers:Asia
+NLL:10.973130226135254
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is   
+answers:Asia
+NLL:9.180816650390625
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is    
+answers:Asia
+NLL:8.930201530456543
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is     
+answers:Asia
+NLL:9.551966667175293
+[13.64675521850586, 15.839362144470215, 10.973130226135254, 9.180816650390625, 8.930201530456543, 9.551966667175293]
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is
+answers:Asia
+NLL:2.777108669281006
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is 
+answers:Asia
+NLL:6.803069114685059
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is  
+answers:Asia
+NLL:5.950007438659668
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is   
+answers:Asia
+NLL:6.163298606872559
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is    
+answers:Asia
+NLL:4.597607612609863
+prompt:The name of the continent which the country of citizenship of Leonardo DiCaprio is part of is     
+answers:Asia
+NLL:4.806601047515869
+[2.777108669281006, 6.803069114685059, 5.950007438659668, 6.163298606872559, 4.597607612609863, 4.806601047515869]
+tensor(5.1463, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 365.21700072288513 seconds
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is
+answers:Damascus
+NLL:15.439032554626465
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is 
+answers:Damascus
+NLL:14.49309253692627
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is  
+answers:Damascus
+NLL:6.179038047790527
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is   
+answers:Damascus
+NLL:4.156483173370361
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is    
+answers:Damascus
+NLL:4.543283462524414
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is     
+answers:Damascus
+NLL:4.800346374511719
+[15.439032554626465, 14.49309253692627, 6.179038047790527, 4.156483173370361, 4.543283462524414, 4.800346374511719]
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is
+answers:Damascus
+NLL:10.383323669433594
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is 
+answers:Damascus
+NLL:14.931035995483398
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is  
+answers:Damascus
+  0%|          | 1/272 [42:23<191:28:25, 2543.56s/it]NLL:13.289216041564941
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is   
+answers:Damascus
+NLL:12.644847869873047
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is    
+answers:Damascus
+NLL:11.437734603881836
+prompt:The name of the capital city of the country of citizenship of Leonardo DiCaprio is     
+answers:Damascus
+NLL:11.957569122314453
+[10.383323669433594, 14.931035995483398, 13.289216041564941, 12.644847869873047, 11.437734603881836, 11.957569122314453]
+tensor(3.8800, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 355.46900057792664 seconds
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is
+answers:Hussein Arnous
+NLL:15.519815444946289
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is 
+answers:Hussein Arnous
+NLL:17.785512924194336
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is  
+answers:Hussein Arnous
+NLL:17.99781608581543
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is   
+answers:Hussein Arnous
+NLL:17.773120880126953
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is    
+answers:Hussein Arnous
+NLL:16.888458251953125
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is     
+answers:Hussein Arnous
+NLL:16.345239639282227
+[15.519815444946289, 17.785512924194336, 17.99781608581543, 17.773120880126953, 16.888458251953125, 16.345239639282227]
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is
+answers:Hussein Arnous
+NLL:21.805646896362305
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is 
+answers:Hussein Arnous
+NLL:23.337793350219727
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is  
+answers:Hussein Arnous
+NLL:23.196922302246094
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is   
+answers:Hussein Arnous
+NLL:24.048280715942383
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is    
+answers:Hussein Arnous
+NLL:23.28451919555664
+prompt:The name of the head of government of the country of citizenship of Leonardo DiCaprio is     
+answers:Hussein Arnous
+NLL:23.267183303833008
+[21.805646896362305, 23.337793350219727, 23.196922302246094, 24.048280715942383, 23.28451919555664, 23.267183303833008]
+tensor(5.9280, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 352.4542987346649 seconds
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is
+answers:Humat ad-Diyar
+NLL:35.56796646118164
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is 
+answers:Humat ad-Diyar
+NLL:32.388885498046875
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is  
+answers:Humat ad-Diyar
+NLL:25.248943328857422
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is   
+answers:Humat ad-Diyar
+NLL:22.70808219909668
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is    
+answers:Humat ad-Diyar
+NLL:24.80730438232422
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is     
+answers:Humat ad-Diyar
+NLL:26.228910446166992
+[35.56796646118164, 32.388885498046875, 25.248943328857422, 22.70808219909668, 24.80730438232422, 26.228910446166992]
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is
+answers:Humat ad-Diyar
+NLL:22.256649017333984
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is 
+answers:Humat ad-Diyar
+NLL:26.36664581298828
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is  
+answers:Humat ad-Diyar
+NLL:20.656373977661133
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is   
+answers:Humat ad-Diyar
+NLL:21.764863967895508
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is    
+answers:Humat ad-Diyar
+NLL:21.467082977294922
+prompt:The name of the anthem of the country of citizenship of Leonardo DiCaprio is     
+answers:Humat ad-Diyar
+NLL:22.012033462524414
+[22.256649017333984, 26.36664581298828, 20.656373977661133, 21.764863967895508, 21.467082977294922, 22.012033462524414]
+tensor(1.8539, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(5.6878, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 387.61461091041565 seconds
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is
+answers:Bashar al-Assad
+NLL:11.123492240905762
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is 
+answers:Bashar al-Assad
+NLL:12.063802719116211
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is  
+answers:Bashar al-Assad
+NLL:7.6602783203125
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is   
+answers:Bashar al-Assad
+NLL:6.122394561767578
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is    
+answers:Bashar al-Assad
+NLL:5.412130355834961
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is     
+answers:Bashar al-Assad
+NLL:6.555067539215088
+[11.123492240905762, 12.063802719116211, 7.6602783203125, 6.122394561767578, 5.412130355834961, 6.555067539215088]
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is
+answers:Bashar al-Assad
+NLL:9.013401985168457
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is 
+answers:Bashar al-Assad
+NLL:13.430697441101074
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is  
+answers:Bashar al-Assad
+NLL:8.941702842712402
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is   
+answers:Bashar al-Assad
+NLL:9.53648853302002
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is    
+answers:Bashar al-Assad
+NLL:9.235222816467285
+prompt:The name of the head of state of the country of citizenship of Leonardo DiCaprio is     
+answers:Bashar al-Assad
+NLL:9.34948444366455
+[9.013401985168457, 13.430697441101074, 8.941702842712402, 9.53648853302002, 9.235222816467285, 9.34948444366455]
+tensor(5.8058, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.0201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.24055005609989166
+Running time: 50.596367597579956 seconds
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is
+answers:Bissandugu
+NLL:29.02887535095215
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is 
+answers:Bissandugu
+NLL:26.949148178100586
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is  
+answers:Bissandugu
+NLL:24.20850944519043
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is   
+answers:Bissandugu
+NLL:24.861129760742188
+  1%|          | 2/272 [50:06<98:59:41, 1319.93s/it] prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is    
+answers:Bissandugu
+NLL:24.31220245361328
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is     
+answers:Bissandugu
+NLL:23.833858489990234
+[29.02887535095215, 26.949148178100586, 24.20850944519043, 24.861129760742188, 24.31220245361328, 23.833858489990234]
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is
+answers:Bissandugu
+NLL:32.8306999206543
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is 
+answers:Bissandugu
+NLL:38.55620193481445
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is  
+answers:Bissandugu
+NLL:36.988059997558594
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is   
+answers:Bissandugu
+NLL:37.25599670410156
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is    
+answers:Bissandugu
+NLL:36.3270378112793
+prompt:The name of the capital city of the country Academy Award for Best Picture is associated with is     
+answers:Bissandugu
+NLL:36.04737854003906
+[32.8306999206543, 38.55620193481445, 36.988059997558594, 37.25599670410156, 36.3270378112793, 36.04737854003906]
+tensor(8.9316, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.0201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 342.1722993850708 seconds
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is
+answers:Africa
+NLL:8.931633949279785
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is 
+answers:Africa
+NLL:10.16291618347168
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is  
+answers:Africa
+NLL:6.062658309936523
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is   
+answers:Africa
+NLL:5.794795036315918
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is    
+answers:Africa
+NLL:5.99381685256958
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is     
+answers:Africa
+NLL:5.244896411895752
+[8.931633949279785, 10.16291618347168, 6.062658309936523, 5.794795036315918, 5.99381685256958, 5.244896411895752]
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is
+answers:Africa
+NLL:3.9554567337036133
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is 
+answers:Africa
+NLL:10.22602367401123
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is  
+answers:Africa
+NLL:6.416393280029297
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is   
+answers:Africa
+NLL:6.282285213470459
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is    
+answers:Africa
+NLL:4.906379222869873
+prompt:The name of the continent which the country Academy Award for Best Picture is associated with is part of is     
+answers:Africa
+NLL:4.101963520050049
+[3.9554567337036133, 10.22602367401123, 6.416393280029297, 6.282285213470459, 4.906379222869873, 4.101963520050049]
+tensor(3.4190, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.0201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.12214783579111099
+Running time: 57.308650970458984 seconds
+prompt:The official language of the country Academy Award for Best Picture is associated with is
+answers:Mandinka
+NLL:10.256937980651855
+prompt:The official language of the country Academy Award for Best Picture is associated with is 
+answers:Mandinka
+NLL:7.043373107910156
+prompt:The official language of the country Academy Award for Best Picture is associated with is  
+answers:Mandinka
+NLL:7.317557334899902
+prompt:The official language of the country Academy Award for Best Picture is associated with is   
+answers:Mandinka
+NLL:8.727742195129395
+prompt:The official language of the country Academy Award for Best Picture is associated with is    
+answers:Mandinka
+NLL:8.998263359069824
+prompt:The official language of the country Academy Award for Best Picture is associated with is     
+answers:Mandinka
+NLL:8.924553871154785
+[10.256937980651855, 7.043373107910156, 7.317557334899902, 8.727742195129395, 8.998263359069824, 8.924553871154785]
+prompt:The official language of the country Academy Award for Best Picture is associated with is
+answers:Mandinka
+NLL:14.848318099975586
+prompt:The official language of the country Academy Award for Best Picture is associated with is 
+answers:Mandinka
+NLL:19.835161209106445
+prompt:The official language of the country Academy Award for Best Picture is associated with is  
+answers:Mandinka
+NLL:16.226316452026367
+prompt:The official language of the country Academy Award for Best Picture is associated with is   
+answers:Mandinka
+NLL:17.399154663085938
+prompt:The official language of the country Academy Award for Best Picture is associated with is    
+answers:Mandinka
+NLL:16.193546295166016
+prompt:The official language of the country Academy Award for Best Picture is associated with is     
+answers:Mandinka
+NLL:16.500391006469727
+[14.848318099975586, 19.835161209106445, 16.226316452026367, 17.399154663085938, 16.193546295166016, 16.500391006469727]
+tensor(3.6879, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.9151, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:-0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is -0.0
+Running time: 353.8629238605499 seconds
+prompt:The gender of the spouse of Ron DeSantis is
+answers:female
+NLL:3.6879096031188965
+prompt:The gender of the spouse of Ron DeSantis is 
+answers:female
+NLL:8.197527885437012
+prompt:The gender of the spouse of Ron DeSantis is  
+answers:female
+NLL:4.2082037925720215
+prompt:The gender of the spouse of Ron DeSantis is   
+answers:female
+NLL:4.324521541595459
+prompt:The gender of the spouse of Ron DeSantis is    
+answers:female
+NLL:4.3418049812316895
+prompt:The gender of the spouse of Ron DeSantis is     
+answers:female
+NLL:3.98014760017395
+[3.6879096031188965, 8.197527885437012, 4.2082037925720215, 4.324521541595459, 4.3418049812316895, 3.98014760017395]
+prompt:The gender of the spouse of Ron DeSantis is
+answers:female
+NLL:2.6144115924835205
+prompt:The gender of the spouse of Ron DeSantis is 
+answers:female
+NLL:8.598987579345703
+prompt:The gender of the spouse of Ron DeSantis is  
+answers:female
+NLL:4.1198906898498535
+prompt:The gender of the spouse of Ron DeSantis is   
+answers:female
+NLL:4.18464469909668
+prompt:The gender of the spouse of Ron DeSantis is    
+answers:female
+NLL:3.5541810989379883
+prompt:The gender of the spouse of Ron DeSantis is     
+answers:female
+NLL:3.4137277603149414
+[2.6144115924835205, 8.598987579345703, 4.1198906898498535, 4.18464469909668, 3.5541810989379883, 3.4137277603149414]
+tensor(7.0234, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.9151, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 359.5198359489441 seconds
+prompt:The place of birth of the spouse of Ron DeSantis is
+answers:Penang
+NLL:14.0468168258667
+  1%|          | 3/272 [1:15:06<104:45:32, 1401.98s/it]prompt:The place of birth of the spouse of Ron DeSantis is 
+answers:Penang
+NLL:17.151758193969727
+prompt:The place of birth of the spouse of Ron DeSantis is  
+answers:Penang
+NLL:14.934609413146973
+prompt:The place of birth of the spouse of Ron DeSantis is   
+answers:Penang
+NLL:14.665672302246094
+prompt:The place of birth of the spouse of Ron DeSantis is    
+answers:Penang
+NLL:14.366403579711914
+prompt:The place of birth of the spouse of Ron DeSantis is     
+answers:Penang
+NLL:14.52446460723877
+[14.0468168258667, 17.151758193969727, 14.934609413146973, 14.665672302246094, 14.366403579711914, 14.52446460723877]
+prompt:The place of birth of the spouse of Ron DeSantis is
+answers:Penang
+NLL:12.21074104309082
+prompt:The place of birth of the spouse of Ron DeSantis is 
+answers:Penang
+NLL:17.358139038085938
+prompt:The place of birth of the spouse of Ron DeSantis is  
+answers:Penang
+NLL:14.29987907409668
+prompt:The place of birth of the spouse of Ron DeSantis is   
+answers:Penang
+NLL:13.887889862060547
+prompt:The place of birth of the spouse of Ron DeSantis is    
+answers:Penang
+NLL:13.630043983459473
+prompt:The place of birth of the spouse of Ron DeSantis is     
+answers:Penang
+NLL:13.410305976867676
+[12.21074104309082, 17.358139038085938, 14.29987907409668, 13.887889862060547, 13.630043983459473, 13.410305976867676]
+tensor(12.2793, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.9151, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 351.95321130752563 seconds
+prompt:The occupation of the spouse of Ron DeSantis is
+answers:model
+NLL:12.279329299926758
+prompt:The occupation of the spouse of Ron DeSantis is 
+answers:model
+NLL:15.689077377319336
+prompt:The occupation of the spouse of Ron DeSantis is  
+answers:model
+NLL:10.870756149291992
+prompt:The occupation of the spouse of Ron DeSantis is   
+answers:model
+NLL:10.65956974029541
+prompt:The occupation of the spouse of Ron DeSantis is    
+answers:model
+NLL:10.370304107666016
+prompt:The occupation of the spouse of Ron DeSantis is     
+answers:model
+NLL:10.621668815612793
+[12.279329299926758, 15.689077377319336, 10.870756149291992, 10.65956974029541, 10.370304107666016, 10.621668815612793]
+prompt:The occupation of the spouse of Ron DeSantis is
+answers:model
+NLL:9.00759220123291
+prompt:The occupation of the spouse of Ron DeSantis is 
+answers:model
+NLL:15.261962890625
+prompt:The occupation of the spouse of Ron DeSantis is  
+answers:model
+NLL:11.79011058807373
+prompt:The occupation of the spouse of Ron DeSantis is   
+answers:model
+NLL:11.602682113647461
+prompt:The occupation of the spouse of Ron DeSantis is    
+answers:model
+NLL:10.112800598144531
+prompt:The occupation of the spouse of Ron DeSantis is     
+answers:model
+NLL:10.578658103942871
+[9.00759220123291, 15.261962890625, 11.79011058807373, 11.602682113647461, 10.112800598144531, 10.578658103942871]
+tensor(3.4896, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.9151, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is -0.021526776254177094
+Running time: 55.02173900604248 seconds
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is
+answers:Buddhism
+NLL:6.979106426239014
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is 
+answers:Buddhism
+NLL:9.598685264587402
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is  
+answers:Buddhism
+NLL:5.798606872558594
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is   
+answers:Buddhism
+NLL:7.180206775665283
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is    
+answers:Buddhism
+NLL:5.72852897644043
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is     
+answers:Buddhism
+NLL:5.849066257476807
+[6.979106426239014, 9.598685264587402, 5.798606872558594, 7.180206775665283, 5.72852897644043, 5.849066257476807]
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is
+answers:Buddhism
+NLL:5.9145307540893555
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is 
+answers:Buddhism
+NLL:9.775136947631836
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is  
+answers:Buddhism
+NLL:6.064065933227539
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is   
+answers:Buddhism
+NLL:6.942713260650635
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is    
+answers:Buddhism
+NLL:5.39996337890625
+prompt:The name of the religion which the spouse of Ron DeSantis is associated with is     
+answers:Buddhism
+NLL:5.320979118347168
+[5.9145307540893555, 9.775136947631836, 6.064065933227539, 6.942713260650635, 5.39996337890625, 5.320979118347168]
+tensor(6.2074, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.9151, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 363.21264004707336 seconds
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is
+answers:Malaysia
+NLL:12.414711952209473
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is 
+answers:Malaysia
+NLL:12.006640434265137
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is  
+answers:Malaysia
+NLL:14.511275291442871
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is   
+answers:Malaysia
+NLL:14.026728630065918
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is    
+answers:Malaysia
+NLL:13.798026084899902
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is     
+answers:Malaysia
+NLL:13.559666633605957
+[12.414711952209473, 12.006640434265137, 14.511275291442871, 14.026728630065918, 13.798026084899902, 13.559666633605957]
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is
+answers:Malaysia
+NLL:10.072958946228027
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is 
+answers:Malaysia
+NLL:11.233466148376465
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is  
+answers:Malaysia
+NLL:11.321675300598145
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is   
+answers:Malaysia
+NLL:11.652148246765137
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is    
+answers:Malaysia
+NLL:11.26890754699707
+prompt:The name of the country of citizenship of the spouse of Ron DeSantis is     
+answers:Malaysia
+NLL:11.46571159362793
+[10.072958946228027, 11.233466148376465, 11.321675300598145, 11.652148246765137, 11.26890754699707, 11.46571159362793]
+tensor(2.4537, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.4230, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.17439618706703186
+Running time: 54.19216179847717 seconds
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is
+answers:Kuala Terengganu
+NLL:17.17593002319336
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is 
+answers:Kuala Terengganu
+NLL:17.661540985107422
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is  
+answers:Kuala Terengganu
+NLL:16.21742820739746
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is   
+answers:Kuala Terengganu
+NLL:15.422501564025879
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is    
+answers:Kuala Terengganu
+NLL:15.013526916503906
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is     
+answers:Kuala Terengganu
+NLL:14.868162155151367
+  1%|▏         | 4/272 [1:23:38<78:13:24, 1050.76s/it] [17.17593002319336, 17.661540985107422, 16.21742820739746, 15.422501564025879, 15.013526916503906, 14.868162155151367]
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is
+answers:Kuala Terengganu
+NLL:18.29258918762207
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is 
+answers:Kuala Terengganu
+NLL:23.12459945678711
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is  
+answers:Kuala Terengganu
+NLL:20.388652801513672
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is   
+answers:Kuala Terengganu
+NLL:20.1058349609375
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is    
+answers:Kuala Terengganu
+NLL:19.58613395690918
+prompt:The name of the capital city of the country of citizenship of Jerrod Carmichael is     
+answers:Kuala Terengganu
+NLL:19.380342483520508
+[18.29258918762207, 23.12459945678711, 20.388652801513672, 20.1058349609375, 19.58613395690918, 19.380342483520508]
+tensor(1.6629, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.4230, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.1820351779460907
+Running time: 47.132216691970825 seconds
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is
+answers:Mizan Zainal Abidin of Terengganu
+NLL:23.28031349182129
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is 
+answers:Mizan Zainal Abidin of Terengganu
+NLL:27.8338680267334
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is  
+answers:Mizan Zainal Abidin of Terengganu
+NLL:21.95427703857422
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is   
+answers:Mizan Zainal Abidin of Terengganu
+NLL:23.031721115112305
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is    
+answers:Mizan Zainal Abidin of Terengganu
+NLL:21.855789184570312
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is     
+answers:Mizan Zainal Abidin of Terengganu
+NLL:22.298608779907227
+[23.28031349182129, 27.8338680267334, 21.95427703857422, 23.031721115112305, 21.855789184570312, 22.298608779907227]
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is
+answers:Mizan Zainal Abidin of Terengganu
+NLL:31.508081436157227
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is 
+answers:Mizan Zainal Abidin of Terengganu
+NLL:38.29655838012695
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is  
+answers:Mizan Zainal Abidin of Terengganu
+NLL:33.043338775634766
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is   
+answers:Mizan Zainal Abidin of Terengganu
+NLL:32.237770080566406
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is    
+answers:Mizan Zainal Abidin of Terengganu
+NLL:31.785070419311523
+prompt:The name of the head of government of the country of citizenship of Jerrod Carmichael is     
+answers:Mizan Zainal Abidin of Terengganu
+NLL:31.60190200805664
+[31.508081436157227, 38.29655838012695, 33.043338775634766, 32.237770080566406, 31.785070419311523, 31.60190200805664]
+tensor(1.8733, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.4230, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.19228072464466095
+Running time: 40.67399311065674 seconds
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is
+answers:Terengganu State Anthem
+NLL:13.11275577545166
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is 
+answers:Terengganu State Anthem
+NLL:16.090055465698242
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is  
+answers:Terengganu State Anthem
+NLL:11.974095344543457
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is   
+answers:Terengganu State Anthem
+NLL:12.789438247680664
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is    
+answers:Terengganu State Anthem
+NLL:10.66996955871582
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is     
+answers:Terengganu State Anthem
+NLL:11.26031494140625
+[13.11275577545166, 16.090055465698242, 11.974095344543457, 12.789438247680664, 10.66996955871582, 11.26031494140625]
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is
+answers:Terengganu State Anthem
+NLL:19.84040641784668
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is 
+answers:Terengganu State Anthem
+NLL:23.25018310546875
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is  
+answers:Terengganu State Anthem
+NLL:19.316633224487305
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is   
+answers:Terengganu State Anthem
+NLL:19.84237289428711
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is    
+answers:Terengganu State Anthem
+NLL:19.59123420715332
+prompt:The name of the anthem of the country of citizenship of Jerrod Carmichael is     
+answers:Terengganu State Anthem
+NLL:20.06346321105957
+[19.84040641784668, 23.25018310546875, 19.316633224487305, 19.84237289428711, 19.59123420715332, 20.06346321105957]
+tensor(1.5671, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(2.4230, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:-0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is -0.0
+Running time: 353.7379879951477 seconds
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is
+answers:Asia
+NLL:1.5670703649520874
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is 
+answers:Asia
+NLL:4.140383243560791
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is  
+answers:Asia
+NLL:3.256164073944092
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is   
+answers:Asia
+NLL:3.1645586490631104
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is    
+answers:Asia
+NLL:1.1607829332351685
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is     
+answers:Asia
+NLL:1.0844253301620483
+[1.5670703649520874, 4.140383243560791, 3.256164073944092, 3.1645586490631104, 1.1607829332351685, 1.0844253301620483]
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is
+answers:Asia
+NLL:3.1925148963928223
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is 
+answers:Asia
+NLL:6.25039005279541
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is  
+answers:Asia
+NLL:5.950570106506348
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is   
+answers:Asia
+NLL:6.422815799713135
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is    
+answers:Asia
+NLL:5.2173004150390625
+prompt:The name of the continent which the country of citizenship of Jerrod Carmichael is part of is     
+answers:Asia
+NLL:5.364508628845215
+[3.1925148963928223, 6.25039005279541, 5.950570106506348, 6.422815799713135, 5.2173004150390625, 5.364508628845215]
+tensor(17.2563, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 369.56033658981323 seconds
+prompt:The gender of the composer of Vikram is
+answers:male
+NLL:17.256315231323242
+prompt:The gender of the composer of Vikram is 
+answers:male
+NLL:9.659355163574219
+prompt:The gender of the composer of Vikram is  
+answers:male
+NLL:10.643453598022461
+prompt:The gender of the composer of Vikram is   
+answers:male
+NLL:11.196730613708496
+prompt:The gender of the composer of Vikram is    
+answers:male
+NLL:9.869043350219727
+prompt:The gender of the composer of Vikram is     
+answers:male
+NLL:10.473390579223633
+[17.256315231323242, 9.659355163574219, 10.643453598022461, 11.196730613708496, 9.869043350219727, 10.473390579223633]
+prompt:The gender of the composer of Vikram is
+answers:male
+NLL:2.9287033081054688
+prompt:The gender of the composer of Vikram is 
+answers:male
+NLL:9.788415908813477
+prompt:The gender of the composer of Vikram is  
+answers:male
+NLL:5.591940402984619
+prompt:The gender of the composer of Vikram is   
+answers:male
+NLL:6.711982250213623
+prompt:The gender of the composer of Vikram is    
+answers:male
+NLL:4.868171691894531
+prompt:The gender of the composer of Vikram is     
+answers:male
+NLL:5.057826042175293
+[2.9287033081054688, 9.788415908813477, 5.591940402984619, 6.711982250213623, 4.868171691894531, 5.057826042175293]
+tensor(16.5694, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 354.4637174606323 seconds
+prompt:The occupation of the composer of Vikram is
+answers:singer
+NLL:16.569360733032227
+prompt:The occupation of the composer of Vikram is 
+answers:singer
+NLL:11.96678352355957
+prompt:The occupation of the composer of Vikram is  
+answers:singer
+NLL:13.138572692871094
+prompt:The occupation of the composer of Vikram is   
+answers:singer
+NLL:11.967620849609375
+prompt:The occupation of the composer of Vikram is    
+answers:singer
+NLL:11.409687995910645
+prompt:The occupation of the composer of Vikram is     
+answers:singer
+NLL:11.720850944519043
+[16.569360733032227, 11.96678352355957, 13.138572692871094, 11.967620849609375, 11.409687995910645, 11.720850944519043]
+prompt:The occupation of the composer of Vikram is
+answers:singer
+NLL:8.968802452087402
+prompt:The occupation of the composer of Vikram is 
+answers:singer
+NLL:13.67795467376709
+prompt:The occupation of the composer of Vikram is  
+answers:singer
+NLL:11.520967483520508
+prompt:The occupation of the composer of Vikram is   
+answers:singer
+NLL:12.267021179199219
+prompt:The occupation of the composer of Vikram is    
+answers:singer
+NLL:9.37942886352539
+prompt:The occupation of the composer of Vikram is     
+answers:singer
+NLL:9.940515518188477
+[8.968802452087402, 13.67795467376709, 11.520967483520508, 12.267021179199219, 9.37942886352539, 9.940515518188477]
+tensor(8.6099, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 364.3232045173645 seconds
+prompt:The occupation of the composer of Vikram is
+answers:songwriter
+NLL:17.21971893310547
+prompt:The occupation of the composer of Vikram is 
+answers:songwriter
+NLL:11.619112014770508
+prompt:The occupation of the composer of Vikram is  
+answers:songwriter
+NLL:13.840865135192871
+prompt:The occupation of the composer of Vikram is   
+answers:songwriter
+NLL:13.697940826416016
+prompt:The occupation of the composer of Vikram is    
+answers:songwriter
+NLL:12.249783515930176
+prompt:The occupation of the composer of Vikram is     
+answers:songwriter
+NLL:13.007966041564941
+[17.21971893310547, 11.619112014770508, 13.840865135192871, 13.697940826416016, 12.249783515930176, 13.007966041564941]
+prompt:The occupation of the composer of Vikram is
+answers:songwriter
+NLL:11.175704002380371
+prompt:The occupation of the composer of Vikram is 
+answers:songwriter
+NLL:13.40121078491211
+prompt:The occupation of the composer of Vikram is  
+answers:songwriter
+NLL:13.07494831085205
+prompt:The occupation of the composer of Vikram is   
+answers:songwriter
+NLL:13.943487167358398
+prompt:The occupation of the composer of Vikram is    
+answers:songwriter
+NLL:11.766032218933105
+prompt:The occupation of the composer of Vikram is     
+answers:songwriter
+NLL:12.687063217163086
+[11.175704002380371, 13.40121078491211, 13.07494831085205, 13.943487167358398, 11.766032218933105, 12.687063217163086]
+tensor(18.9175, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 354.2581295967102 seconds
+prompt:The occupation of the composer of Vikram is
+answers:composer
+NLL:18.917505264282227
+prompt:The occupation of the composer of Vikram is 
+answers:composer
+NLL:13.34276008605957
+prompt:The occupation of the composer of Vikram is  
+answers:composer
+NLL:14.951072692871094
+prompt:The occupation of the composer of Vikram is   
+answers:composer
+NLL:14.258636474609375
+prompt:The occupation of the composer of Vikram is    
+answers:composer
+NLL:14.248555183410645
+prompt:The occupation of the composer of Vikram is     
+answers:composer
+NLL:14.631495475769043
+[18.917505264282227, 13.34276008605957, 14.951072692871094, 14.258636474609375, 14.248555183410645, 14.631495475769043]
+prompt:The occupation of the composer of Vikram is
+answers:composer
+NLL:8.543021202087402
+prompt:The occupation of the composer of Vikram is 
+answers:composer
+NLL:11.12522029876709
+prompt:The occupation of the composer of Vikram is  
+answers:composer
+NLL:8.136354446411133
+prompt:The occupation of the composer of Vikram is   
+answers:composer
+NLL:10.536552429199219
+prompt:The occupation of the composer of Vikram is    
+answers:composer
+NLL:7.040073394775391
+prompt:The occupation of the composer of Vikram is     
+answers:composer
+NLL:7.343835830688477
+[8.543021202087402, 11.12522029876709, 8.136354446411133, 10.536552429199219, 7.040073394775391, 7.343835830688477]
+tensor(5.4999, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 374.5627796649933 seconds
+prompt:The name of the country of citizenship of the composer of Vikram is
+answers:United Kingdom
+NLL:10.999809265136719
+prompt:The name of the country of citizenship of the composer of Vikram is 
+answers:United Kingdom
+NLL:9.178214073181152
+prompt:The name of the country of citizenship of the composer of Vikram is  
+answers:United Kingdom
+NLL:8.568449020385742
+prompt:The name of the country of citizenship of the composer of Vikram is   
+answers:United Kingdom
+NLL:9.709834098815918
+prompt:The name of the country of citizenship of the composer of Vikram is    
+answers:United Kingdom
+NLL:8.786027908325195
+prompt:The name of the country of citizenship of the composer of Vikram is     
+answers:United Kingdom
+NLL:8.826216697692871
+[10.999809265136719, 9.178214073181152, 8.568449020385742, 9.709834098815918, 8.786027908325195, 8.826216697692871]
+prompt:The name of the country of citizenship of the composer of Vikram is
+answers:United Kingdom
+NLL:7.120683193206787
+prompt:The name of the country of citizenship of the composer of Vikram is 
+answers:United Kingdom
+NLL:10.78664779663086
+prompt:The name of the country of citizenship of the composer of Vikram is  
+answers:United Kingdom
+NLL:6.5534281730651855
+prompt:The name of the country of citizenship of the composer of Vikram is   
+answers:United Kingdom
+  2%|▏         | 5/272 [2:06:47<119:03:05, 1605.19s/it]NLL:8.15528678894043
+prompt:The name of the country of citizenship of the composer of Vikram is    
+answers:United Kingdom
+NLL:7.120477199554443
+prompt:The name of the country of citizenship of the composer of Vikram is     
+answers:United Kingdom
+NLL:7.236288547515869
+[7.120683193206787, 10.78664779663086, 6.5534281730651855, 8.15528678894043, 7.120477199554443, 7.236288547515869]
+tensor(8.7624, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 377.9896545410156 seconds
+prompt:The place of birth of the composer of Vikram is
+answers:England
+NLL:8.762414932250977
+prompt:The place of birth of the composer of Vikram is 
+answers:England
+NLL:12.121040344238281
+prompt:The place of birth of the composer of Vikram is  
+answers:England
+NLL:7.445509433746338
+prompt:The place of birth of the composer of Vikram is   
+answers:England
+NLL:8.155587196350098
+prompt:The place of birth of the composer of Vikram is    
+answers:England
+NLL:6.833195686340332
+prompt:The place of birth of the composer of Vikram is     
+answers:England
+NLL:7.027069568634033
+[8.762414932250977, 12.121040344238281, 7.445509433746338, 8.155587196350098, 6.833195686340332, 7.027069568634033]
+prompt:The place of birth of the composer of Vikram is
+answers:England
+NLL:8.594404220581055
+prompt:The place of birth of the composer of Vikram is 
+answers:England
+NLL:13.667206764221191
+prompt:The place of birth of the composer of Vikram is  
+answers:England
+NLL:8.240187644958496
+prompt:The place of birth of the composer of Vikram is   
+answers:England
+NLL:9.491988182067871
+prompt:The place of birth of the composer of Vikram is    
+answers:England
+NLL:7.8464860916137695
+prompt:The place of birth of the composer of Vikram is     
+answers:England
+NLL:7.67378044128418
+[8.594404220581055, 13.667206764221191, 8.240187644958496, 9.491988182067871, 7.8464860916137695, 7.67378044128418]
+tensor(5.3445, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(3.5473, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:-0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is -0.0
+Running time: 364.26185059547424 seconds
+prompt:The place of death of the composer of Vikram is
+answers:London
+NLL:5.344479084014893
+prompt:The place of death of the composer of Vikram is 
+answers:London
+NLL:13.291747093200684
+prompt:The place of death of the composer of Vikram is  
+answers:London
+NLL:8.059028625488281
+prompt:The place of death of the composer of Vikram is   
+answers:London
+NLL:8.499088287353516
+prompt:The place of death of the composer of Vikram is    
+answers:London
+NLL:8.014944076538086
+prompt:The place of death of the composer of Vikram is     
+answers:London
+NLL:7.516775131225586
+[5.344479084014893, 13.291747093200684, 8.059028625488281, 8.499088287353516, 8.014944076538086, 7.516775131225586]
+prompt:The place of death of the composer of Vikram is
+answers:London
+NLL:7.054906845092773
+prompt:The place of death of the composer of Vikram is 
+answers:London
+NLL:11.576918601989746
+prompt:The place of death of the composer of Vikram is  
+answers:London
+NLL:8.883213996887207
+prompt:The place of death of the composer of Vikram is   
+answers:London
+NLL:9.197176933288574
+prompt:The place of death of the composer of Vikram is    
+answers:London
+NLL:7.907134056091309
+prompt:The place of death of the composer of Vikram is     
+answers:London
+NLL:7.369348049163818
+[7.054906845092773, 11.576918601989746, 8.883213996887207, 9.197176933288574, 7.907134056091309, 7.369348049163818]
+tensor(4.5076, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.04269419237971306
+Running time: 51.992727756500244 seconds
+prompt:The name of the position held by the mother of Kanye West is
+answers:Mayor of Châtellerault
+NLL:27.045379638671875
+prompt:The name of the position held by the mother of Kanye West is 
+answers:Mayor of Châtellerault
+NLL:26.0024356842041
+prompt:The name of the position held by the mother of Kanye West is  
+answers:Mayor of Châtellerault
+NLL:22.71432876586914
+prompt:The name of the position held by the mother of Kanye West is   
+answers:Mayor of Châtellerault
+NLL:22.602413177490234
+prompt:The name of the position held by the mother of Kanye West is    
+answers:Mayor of Châtellerault
+NLL:23.572669982910156
+prompt:The name of the position held by the mother of Kanye West is     
+answers:Mayor of Châtellerault
+NLL:22.948747634887695
+[27.045379638671875, 26.0024356842041, 22.71432876586914, 22.602413177490234, 23.572669982910156, 22.948747634887695]
+prompt:The name of the position held by the mother of Kanye West is
+answers:Mayor of Châtellerault
+NLL:32.474945068359375
+prompt:The name of the position held by the mother of Kanye West is 
+answers:Mayor of Châtellerault
+NLL:33.93861389160156
+prompt:The name of the position held by the mother of Kanye West is  
+answers:Mayor of Châtellerault
+NLL:31.34502601623535
+prompt:The name of the position held by the mother of Kanye West is   
+answers:Mayor of Châtellerault
+NLL:32.0848274230957
+prompt:The name of the position held by the mother of Kanye West is    
+answers:Mayor of Châtellerault
+NLL:30.297853469848633
+prompt:The name of the position held by the mother of Kanye West is     
+answers:Mayor of Châtellerault
+NLL:29.997236251831055
+[32.474945068359375, 33.93861389160156, 31.34502601623535, 32.0848274230957, 30.297853469848633, 29.997236251831055]
+tensor(9.8794, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:-0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is -0.0
+Running time: 369.47225880622864 seconds
+prompt:The gender of the mother of Kanye West is
+answers:female
+NLL:9.879443168640137
+prompt:The gender of the mother of Kanye West is 
+answers:female
+NLL:10.570011138916016
+prompt:The gender of the mother of Kanye West is  
+answers:female
+NLL:6.563631534576416
+prompt:The gender of the mother of Kanye West is   
+answers:female
+NLL:6.549851894378662
+prompt:The gender of the mother of Kanye West is    
+answers:female
+NLL:5.569040775299072
+prompt:The gender of the mother of Kanye West is     
+answers:female
+NLL:5.437341690063477
+[9.879443168640137, 10.570011138916016, 6.563631534576416, 6.549851894378662, 5.569040775299072, 5.437341690063477]
+prompt:The gender of the mother of Kanye West is
+answers:female
+NLL:4.312954425811768
+prompt:The gender of the mother of Kanye West is 
+answers:female
+NLL:9.413894653320312
+prompt:The gender of the mother of Kanye West is  
+answers:female
+NLL:5.522790431976318
+prompt:The gender of the mother of Kanye West is   
+answers:female
+NLL:5.53512716293335
+prompt:The gender of the mother of Kanye West is    
+answers:female
+NLL:4.672489166259766
+prompt:The gender of the mother of Kanye West is     
+answers:female
+NLL:4.389822483062744
+[4.312954425811768, 9.413894653320312, 5.522790431976318, 5.53512716293335, 4.672489166259766, 4.389822483062744]
+tensor(3.5308, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:-0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is -0.0
+Running time: 371.1546366214752 seconds
+prompt:The name of the country of citizenship of the mother of Kanye West is
+answers:France
+NLL:3.5308282375335693
+prompt:The name of the country of citizenship of the mother of Kanye West is 
+answers:France
+NLL:5.8540120124816895
+prompt:The name of the country of citizenship of the mother of Kanye West is  
+answers:France
+NLL:2.9622559547424316
+prompt:The name of the country of citizenship of the mother of Kanye West is   
+answers:France
+NLL:4.057424068450928
+prompt:The name of the country of citizenship of the mother of Kanye West is    
+answers:France
+NLL:3.884303092956543
+prompt:The name of the country of citizenship of the mother of Kanye West is     
+answers:France
+NLL:3.809683322906494
+[3.5308282375335693, 5.8540120124816895, 2.9622559547424316, 4.057424068450928, 3.884303092956543, 3.809683322906494]
+prompt:The name of the country of citizenship of the mother of Kanye West is
+answers:France
+NLL:5.490996360778809
+prompt:The name of the country of citizenship of the mother of Kanye West is 
+answers:France
+NLL:8.611031532287598
+prompt:The name of the country of citizenship of the mother of Kanye West is  
+answers:France
+NLL:5.661601543426514
+prompt:The name of the country of citizenship of the mother of Kanye West is   
+answers:France
+NLL:6.916067123413086
+prompt:The name of the country of citizenship of the mother of Kanye West is    
+answers:France
+NLL:5.547127723693848
+prompt:The name of the country of citizenship of the mother of Kanye West is     
+answers:France
+NLL:5.29527473449707
+[5.490996360778809, 8.611031532287598, 5.661601543426514, 6.916067123413086, 5.547127723693848, 5.29527473449707]
+tensor(8.5779, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 364.68673396110535 seconds
+prompt:The occupation of the mother of Kanye West is
+answers:politician
+NLL:8.577897071838379
+prompt:The occupation of the mother of Kanye West is 
+answers:politician
+NLL:11.010017395019531
+prompt:The occupation of the mother of Kanye West is  
+answers:politician
+NLL:7.003427028656006
+prompt:The occupation of the mother of Kanye West is   
+answers:politician
+NLL:7.666466236114502
+prompt:The occupation of the mother of Kanye West is    
+answers:politician
+NLL:6.546913146972656
+prompt:The occupation of the mother of Kanye West is     
+answers:politician
+NLL:7.715006351470947
+[8.577897071838379, 11.010017395019531, 7.003427028656006, 7.666466236114502, 6.546913146972656, 7.715006351470947]
+prompt:The occupation of the mother of Kanye West is
+answers:politician
+NLL:9.494797706604004
+prompt:The occupation of the mother of Kanye West is 
+answers:politician
+NLL:11.845113754272461
+prompt:The occupation of the mother of Kanye West is  
+answers:politician
+NLL:8.803272247314453
+prompt:The occupation of the mother of Kanye West is   
+answers:politician
+NLL:9.67742919921875
+prompt:The occupation of the mother of Kanye West is    
+answers:politician
+NLL:9.054651260375977
+prompt:The occupation of the mother of Kanye West is     
+answers:politician
+NLL:9.551421165466309
+[9.494797706604004, 11.845113754272461, 8.803272247314453, 9.67742919921875, 9.054651260375977, 9.551421165466309]
+tensor(8.7385, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 360.5132682323456 seconds
+prompt:The name of the spouse of the mother of Kanye West is
+answers:Pierre Abelin
+NLL:26.215560913085938
+prompt:The name of the spouse of the mother of Kanye West is 
+answers:Pierre Abelin
+NLL:19.30951690673828
+prompt:The name of the spouse of the mother of Kanye West is  
+answers:Pierre Abelin
+NLL:17.627899169921875
+prompt:The name of the spouse of the mother of Kanye West is   
+answers:Pierre Abelin
+NLL:20.00309181213379
+prompt:The name of the spouse of the mother of Kanye West is    
+answers:Pierre Abelin
+NLL:18.359432220458984
+prompt:The name of the spouse of the mother of Kanye West is     
+answers:Pierre Abelin
+NLL:18.540283203125
+[26.215560913085938, 19.30951690673828, 17.627899169921875, 20.00309181213379, 18.359432220458984, 18.540283203125]
+prompt:The name of the spouse of the mother of Kanye West is
+answers:Pierre Abelin
+NLL:28.130517959594727
+prompt:The name of the spouse of the mother of Kanye West is 
+answers:Pierre Abelin
+NLL:28.59450912475586
+prompt:The name of the spouse of the mother of Kanye West is  
+answers:Pierre Abelin
+NLL:26.385509490966797
+prompt:The name of the spouse of the mother of Kanye West is   
+answers:Pierre Abelin
+NLL:28.587135314941406
+prompt:The name of the spouse of the mother of Kanye West is    
+answers:Pierre Abelin
+NLL:27.257129669189453
+prompt:The name of the spouse of the mother of Kanye West is     
+answers:Pierre Abelin
+NLL:27.18472671508789
+[28.130517959594727, 28.59450912475586, 26.385509490966797, 28.587135314941406, 27.257129669189453, 27.18472671508789]
+tensor(3.7856, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 358.3180103302002 seconds
+prompt:The name of the child of the mother of Kanye West is
+answers:Jean-Pierre Abelin
+NLL:18.92796516418457
+prompt:The name of the child of the mother of Kanye West is 
+answers:Jean-Pierre Abelin
+NLL:16.802932739257812
+prompt:The name of the child of the mother of Kanye West is  
+answers:Jean-Pierre Abelin
+NLL:16.06171226501465
+prompt:The name of the child of the mother of Kanye West is   
+answers:Jean-Pierre Abelin
+NLL:16.72899627685547
+prompt:The name of the child of the mother of Kanye West is    
+answers:Jean-Pierre Abelin
+NLL:15.398484230041504
+prompt:The name of the child of the mother of Kanye West is     
+answers:Jean-Pierre Abelin
+NLL:15.639873504638672
+[18.92796516418457, 16.802932739257812, 16.06171226501465, 16.72899627685547, 15.398484230041504, 15.639873504638672]
+prompt:The name of the child of the mother of Kanye West is
+answers:Jean-Pierre Abelin
+NLL:32.62322235107422
+prompt:The name of the child of the mother of Kanye West is 
+answers:Jean-Pierre Abelin
+NLL:31.574562072753906
+prompt:The name of the child of the mother of Kanye West is  
+answers:Jean-Pierre Abelin
+NLL:27.781322479248047
+prompt:The name of the child of the mother of Kanye West is   
+answers:Jean-Pierre Abelin
+NLL:29.26414680480957
+prompt:The name of the child of the mother of Kanye West is    
+answers:Jean-Pierre Abelin
+NLL:27.26519012451172
+prompt:The name of the child of the mother of Kanye West is     
+answers:Jean-Pierre Abelin
+NLL:26.634660720825195
+[32.62322235107422, 31.574562072753906, 27.781322479248047, 29.26414680480957, 27.26519012451172, 26.634660720825195]
+tensor(4.0170, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 363.49354815483093 seconds
+prompt:The place of death of the mother of Kanye West is
+answers:Châtellerault
+NLL:16.0681095123291
+prompt:The place of death of the mother of Kanye West is 
+answers:Châtellerault
+NLL:18.83048439025879
+prompt:The place of death of the mother of Kanye West is  
+answers:Châtellerault
+NLL:15.17952823638916
+prompt:The place of death of the mother of Kanye West is   
+answers:Châtellerault
+NLL:16.493854522705078
+prompt:The place of death of the mother of Kanye West is    
+answers:Châtellerault
+NLL:14.163256645202637
+prompt:The place of death of the mother of Kanye West is     
+answers:Châtellerault
+NLL:13.591632843017578
+[16.0681095123291, 18.83048439025879, 15.17952823638916, 16.493854522705078, 14.163256645202637, 13.591632843017578]
+prompt:The place of death of the mother of Kanye West is
+answers:Châtellerault
+NLL:20.212604522705078
+  2%|▏         | 6/272 [2:50:36<144:20:42, 1953.54s/it]prompt:The place of death of the mother of Kanye West is 
+answers:Châtellerault
+NLL:26.59004020690918
+prompt:The place of death of the mother of Kanye West is  
+answers:Châtellerault
+NLL:19.99030113220215
+prompt:The place of death of the mother of Kanye West is   
+answers:Châtellerault
+NLL:20.841360092163086
+prompt:The place of death of the mother of Kanye West is    
+answers:Châtellerault
+NLL:19.162551879882812
+prompt:The place of death of the mother of Kanye West is     
+answers:Châtellerault
+NLL:18.60980987548828
+[20.212604522705078, 26.59004020690918, 19.99030113220215, 20.841360092163086, 19.162551879882812, 18.60980987548828]
+tensor(5.4585, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.5598, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 366.8755226135254 seconds
+prompt:The place of birth of the mother of Kanye West is
+answers:Paris
+NLL:5.458492279052734
+prompt:The place of birth of the mother of Kanye West is 
+answers:Paris
+NLL:9.405600547790527
+prompt:The place of birth of the mother of Kanye West is  
+answers:Paris
+NLL:5.289783000946045
+prompt:The place of birth of the mother of Kanye West is   
+answers:Paris
+NLL:4.559713363647461
+prompt:The place of birth of the mother of Kanye West is    
+answers:Paris
+NLL:4.8998236656188965
+prompt:The place of birth of the mother of Kanye West is     
+answers:Paris
+NLL:4.617599010467529
+[5.458492279052734, 9.405600547790527, 5.289783000946045, 4.559713363647461, 4.8998236656188965, 4.617599010467529]
+prompt:The place of birth of the mother of Kanye West is
+answers:Paris
+NLL:7.8937249183654785
+prompt:The place of birth of the mother of Kanye West is 
+answers:Paris
+NLL:13.961647033691406
+prompt:The place of birth of the mother of Kanye West is  
+answers:Paris
+NLL:8.543096542358398
+prompt:The place of birth of the mother of Kanye West is   
+answers:Paris
+NLL:8.954147338867188
+prompt:The place of birth of the mother of Kanye West is    
+answers:Paris
+NLL:8.313114166259766
+prompt:The place of birth of the mother of Kanye West is     
+answers:Paris
+NLL:8.072787284851074
+[7.8937249183654785, 13.961647033691406, 8.543096542358398, 8.954147338867188, 8.313114166259766, 8.072787284851074]
+tensor(0.9422, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8085, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is -0.0005395790794864297
+Running time: 49.80760979652405 seconds
+prompt:The gender of the mother of Richard Nixon is
+answers:female
+NLL:0.9422319531440735
+prompt:The gender of the mother of Richard Nixon is 
+answers:female
+NLL:7.284400463104248
+prompt:The gender of the mother of Richard Nixon is  
+answers:female
+NLL:3.9179630279541016
+prompt:The gender of the mother of Richard Nixon is   
+answers:female
+NLL:5.137758731842041
+prompt:The gender of the mother of Richard Nixon is    
+answers:female
+NLL:3.2305715084075928
+prompt:The gender of the mother of Richard Nixon is     
+answers:female
+NLL:2.791167736053467
+[0.9422319531440735, 7.284400463104248, 3.9179630279541016, 5.137758731842041, 3.2305715084075928, 2.791167736053467]
+prompt:The gender of the mother of Richard Nixon is
+answers:female
+NLL:5.17228889465332
+prompt:The gender of the mother of Richard Nixon is 
+answers:female
+NLL:10.151074409484863
+prompt:The gender of the mother of Richard Nixon is  
+answers:female
+NLL:8.331506729125977
+prompt:The gender of the mother of Richard Nixon is   
+answers:female
+NLL:10.254115104675293
+prompt:The gender of the mother of Richard Nixon is    
+answers:female
+NLL:6.1903300285339355
+prompt:The gender of the mother of Richard Nixon is     
+answers:female
+NLL:5.961743354797363
+[5.17228889465332, 10.151074409484863, 8.331506729125977, 10.254115104675293, 6.1903300285339355, 5.961743354797363]
+tensor(14.7492, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8085, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 352.9686486721039 seconds
+prompt:The place of burial of the mother of Richard Nixon is
+answers:Lyon
+NLL:14.749200820922852
+prompt:The place of burial of the mother of Richard Nixon is 
+answers:Lyon
+NLL:13.111959457397461
+prompt:The place of burial of the mother of Richard Nixon is  
+answers:Lyon
+NLL:12.769828796386719
+prompt:The place of burial of the mother of Richard Nixon is   
+answers:Lyon
+NLL:14.38989543914795
+prompt:The place of burial of the mother of Richard Nixon is    
+answers:Lyon
+NLL:11.658390998840332
+prompt:The place of burial of the mother of Richard Nixon is     
+answers:Lyon
+NLL:11.302163124084473
+[14.749200820922852, 13.111959457397461, 12.769828796386719, 14.38989543914795, 11.658390998840332, 11.302163124084473]
+prompt:The place of burial of the mother of Richard Nixon is
+answers:Lyon
+NLL:11.800122261047363
+prompt:The place of burial of the mother of Richard Nixon is 
+answers:Lyon
+NLL:11.93637752532959
+prompt:The place of burial of the mother of Richard Nixon is  
+answers:Lyon
+NLL:12.41354751586914
+prompt:The place of burial of the mother of Richard Nixon is   
+answers:Lyon
+NLL:15.139432907104492
+prompt:The place of burial of the mother of Richard Nixon is    
+answers:Lyon
+NLL:10.26211166381836
+prompt:The place of burial of the mother of Richard Nixon is     
+answers:Lyon
+NLL:9.804537773132324
+[11.800122261047363, 11.93637752532959, 12.41354751586914, 15.139432907104492, 10.26211166381836, 9.804537773132324]
+tensor(3.2397, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8085, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.04030181095004082
+Running time: 54.381603717803955 seconds
+prompt:The name of the religion which the mother of Richard Nixon is associated with is
+answers:Nicene Christianity
+NLL:12.958708763122559
+prompt:The name of the religion which the mother of Richard Nixon is associated with is 
+answers:Nicene Christianity
+NLL:13.69975757598877
+prompt:The name of the religion which the mother of Richard Nixon is associated with is  
+answers:Nicene Christianity
+NLL:13.168495178222656
+prompt:The name of the religion which the mother of Richard Nixon is associated with is   
+answers:Nicene Christianity
+NLL:12.032005310058594
+prompt:The name of the religion which the mother of Richard Nixon is associated with is    
+answers:Nicene Christianity
+NLL:13.362606048583984
+prompt:The name of the religion which the mother of Richard Nixon is associated with is     
+answers:Nicene Christianity
+NLL:12.747690200805664
+[12.958708763122559, 13.69975757598877, 13.168495178222656, 12.032005310058594, 13.362606048583984, 12.747690200805664]
+prompt:The name of the religion which the mother of Richard Nixon is associated with is
+answers:Nicene Christianity
+NLL:13.318151473999023
+prompt:The name of the religion which the mother of Richard Nixon is associated with is 
+answers:Nicene Christianity
+NLL:16.287309646606445
+prompt:The name of the religion which the mother of Richard Nixon is associated with is  
+answers:Nicene Christianity
+NLL:13.342229843139648
+prompt:The name of the religion which the mother of Richard Nixon is associated with is   
+answers:Nicene Christianity
+NLL:12.04978084564209
+prompt:The name of the religion which the mother of Richard Nixon is associated with is    
+answers:Nicene Christianity
+NLL:13.123464584350586
+prompt:The name of the religion which the mother of Richard Nixon is associated with is     
+answers:Nicene Christianity
+NLL:13.001971244812012
+[13.318151473999023, 16.287309646606445, 13.342229843139648, 12.04978084564209, 13.123464584350586, 13.001971244812012]
+tensor(8.9047, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8085, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:-0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+  3%|▎         | 7/272 [3:12:30<128:24:00, 1744.31s/it]  3%|▎         | 8/272 [3:19:05<96:24:31, 1314.67s/it] The cosine value is -0.0
+Running time: 397.6547763347626 seconds
+prompt:The name of the spouse of the mother of Richard Nixon is
+answers:Gundobad
+NLL:35.61860275268555
+prompt:The name of the spouse of the mother of Richard Nixon is 
+answers:Gundobad
+NLL:39.743797302246094
+prompt:The name of the spouse of the mother of Richard Nixon is  
+answers:Gundobad
+NLL:34.596099853515625
+prompt:The name of the spouse of the mother of Richard Nixon is   
+answers:Gundobad
+NLL:34.966529846191406
+prompt:The name of the spouse of the mother of Richard Nixon is    
+answers:Gundobad
+NLL:33.755184173583984
+prompt:The name of the spouse of the mother of Richard Nixon is     
+answers:Gundobad
+NLL:33.891448974609375
+[35.61860275268555, 39.743797302246094, 34.596099853515625, 34.966529846191406, 33.755184173583984, 33.891448974609375]
+prompt:The name of the spouse of the mother of Richard Nixon is
+answers:Gundobad
+NLL:27.976285934448242
+prompt:The name of the spouse of the mother of Richard Nixon is 
+answers:Gundobad
+NLL:32.76495361328125
+prompt:The name of the spouse of the mother of Richard Nixon is  
+answers:Gundobad
+NLL:28.32178497314453
+prompt:The name of the spouse of the mother of Richard Nixon is   
+answers:Gundobad
+NLL:29.678674697875977
+prompt:The name of the spouse of the mother of Richard Nixon is    
+answers:Gundobad
+NLL:25.22808837890625
+prompt:The name of the spouse of the mother of Richard Nixon is     
+answers:Gundobad
+NLL:25.06724739074707
+[27.976285934448242, 32.76495361328125, 28.32178497314453, 29.678674697875977, 25.22808837890625, 25.06724739074707]
+tensor(4.9027, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8085, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.01780969277024269
+Running time: 42.17076516151428 seconds
+prompt:The name of the child of the mother of Richard Nixon is
+answers:Sigismund of Burgundy
+NLL:34.31905746459961
+prompt:The name of the child of the mother of Richard Nixon is 
+answers:Sigismund of Burgundy
+NLL:36.42617416381836
+prompt:The name of the child of the mother of Richard Nixon is  
+answers:Sigismund of Burgundy
+NLL:32.62284469604492
+prompt:The name of the child of the mother of Richard Nixon is   
+answers:Sigismund of Burgundy
+NLL:33.28023147583008
+prompt:The name of the child of the mother of Richard Nixon is    
+answers:Sigismund of Burgundy
+NLL:31.78324317932129
+prompt:The name of the child of the mother of Richard Nixon is     
+answers:Sigismund of Burgundy
+NLL:31.738317489624023
+[34.31905746459961, 36.42617416381836, 32.62284469604492, 33.28023147583008, 31.78324317932129, 31.738317489624023]
+prompt:The name of the child of the mother of Richard Nixon is
+answers:Sigismund of Burgundy
+NLL:28.92110252380371
+prompt:The name of the child of the mother of Richard Nixon is 
+answers:Sigismund of Burgundy
+NLL:29.293655395507812
+prompt:The name of the child of the mother of Richard Nixon is  
+answers:Sigismund of Burgundy
+NLL:28.609725952148438
+prompt:The name of the child of the mother of Richard Nixon is   
+answers:Sigismund of Burgundy
+NLL:29.954158782958984
+prompt:The name of the child of the mother of Richard Nixon is    
+answers:Sigismund of Burgundy
+NLL:29.06070327758789
+prompt:The name of the child of the mother of Richard Nixon is     
+answers:Sigismund of Burgundy
+NLL:28.776235580444336
+[28.92110252380371, 29.293655395507812, 28.609725952148438, 29.954158782958984, 29.06070327758789, 28.776235580444336]
+tensor(13.9557, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8085, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 398.221049785614 seconds
+prompt:The place of death of the mother of Richard Nixon is
+answers:Lyon
+NLL:13.955739974975586
+prompt:The place of death of the mother of Richard Nixon is 
+answers:Lyon
+NLL:14.295705795288086
+prompt:The place of death of the mother of Richard Nixon is  
+answers:Lyon
+NLL:11.641444206237793
+prompt:The place of death of the mother of Richard Nixon is   
+answers:Lyon
+NLL:13.063017845153809
+prompt:The place of death of the mother of Richard Nixon is    
+answers:Lyon
+NLL:11.562824249267578
+prompt:The place of death of the mother of Richard Nixon is     
+answers:Lyon
+NLL:11.399765014648438
+[13.955739974975586, 14.295705795288086, 11.641444206237793, 13.063017845153809, 11.562824249267578, 11.399765014648438]
+prompt:The place of death of the mother of Richard Nixon is
+answers:Lyon
+NLL:11.415366172790527
+prompt:The place of death of the mother of Richard Nixon is 
+answers:Lyon
+NLL:14.350934982299805
+prompt:The place of death of the mother of Richard Nixon is  
+answers:Lyon
+NLL:10.625734329223633
+prompt:The place of death of the mother of Richard Nixon is   
+answers:Lyon
+NLL:14.445738792419434
+prompt:The place of death of the mother of Richard Nixon is    
+answers:Lyon
+NLL:9.874628067016602
+prompt:The place of death of the mother of Richard Nixon is     
+answers:Lyon
+NLL:9.583015441894531
+[11.415366172790527, 14.350934982299805, 10.625734329223633, 14.445738792419434, 9.874628067016602, 9.583015441894531]
+tensor(13.1715, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.0539, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 369.68034052848816 seconds
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is
+answers:Europe
+NLL:13.1715087890625
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is 
+answers:Europe
+NLL:12.405227661132812
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is  
+answers:Europe
+NLL:9.719919204711914
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is   
+answers:Europe
+NLL:8.887517929077148
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is    
+answers:Europe
+NLL:8.716748237609863
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is     
+answers:Europe
+NLL:8.227116584777832
+[13.1715087890625, 12.405227661132812, 9.719919204711914, 8.887517929077148, 8.716748237609863, 8.227116584777832]
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is
+answers:Europe
+NLL:5.239565372467041
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is 
+answers:Europe
+NLL:10.439329147338867
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is  
+answers:Europe
+NLL:6.973441123962402
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is   
+answers:Europe
+NLL:6.720324516296387
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is    
+answers:Europe
+NLL:6.899707794189453
+prompt:The name of the continent which the country 2021 Myanmar coup d'état is associated with is part of is     
+answers:Europe
+NLL:6.77082633972168
+[5.239565372467041, 10.439329147338867, 6.973441123962402, 6.720324516296387, 6.899707794189453, 6.77082633972168]
+tensor(5.0552, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8626, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 383.53317403793335 seconds
+prompt:The gender of the composer of XXX: State of the Union is
+answers:male
+NLL:5.055171966552734
+prompt:The gender of the composer of XXX: State of the Union is 
+answers:male
+NLL:6.23553466796875
+prompt:The gender of the composer of XXX: State of the Union is  
+answers:male
+NLL:2.7878758907318115
+prompt:The gender of the composer of XXX: State of the Union is   
+answers:male
+NLL:5.666873455047607
+prompt:The gender of the composer of XXX: State of the Union is    
+answers:male
+NLL:4.981067657470703
+prompt:The gender of the composer of XXX: State of the Union is     
+answers:male
+NLL:4.98706579208374
+[5.055171966552734, 6.23553466796875, 2.7878758907318115, 5.666873455047607, 4.981067657470703, 4.98706579208374]
+prompt:The gender of the composer of XXX: State of the Union is
+answers:male
+NLL:3.128835439682007
+prompt:The gender of the composer of XXX: State of the Union is 
+answers:male
+NLL:9.11690616607666
+prompt:The gender of the composer of XXX: State of the Union is  
+answers:male
+NLL:4.819246768951416
+prompt:The gender of the composer of XXX: State of the Union is   
+answers:male
+NLL:6.761951923370361
+prompt:The gender of the composer of XXX: State of the Union is    
+answers:male
+NLL:3.854976177215576
+prompt:The gender of the composer of XXX: State of the Union is     
+answers:male
+NLL:3.9838712215423584
+[3.128835439682007, 9.11690616607666, 4.819246768951416, 6.761951923370361, 3.854976177215576, 3.9838712215423584]
+tensor(0.7115, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8626, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.02144978754222393
+Running time: 42.796926498413086 seconds
+prompt:The name of the alma mater of the composer of XXX: State of the Union is
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:8.538084983825684
+prompt:The name of the alma mater of the composer of XXX: State of the Union is 
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:10.296369552612305
+prompt:The name of the alma mater of the composer of XXX: State of the Union is  
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:10.334750175476074
+prompt:The name of the alma mater of the composer of XXX: State of the Union is   
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:10.94295597076416
+prompt:The name of the alma mater of the composer of XXX: State of the Union is    
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:7.062086582183838
+prompt:The name of the alma mater of the composer of XXX: State of the Union is     
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:6.859985828399658
+[8.538084983825684, 10.296369552612305, 10.334750175476074, 10.94295597076416, 7.062086582183838, 6.859985828399658]
+prompt:The name of the alma mater of the composer of XXX: State of the Union is
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:15.903241157531738
+prompt:The name of the alma mater of the composer of XXX: State of the Union is 
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:17.384201049804688
+prompt:The name of the alma mater of the composer of XXX: State of the Union is  
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:17.40802001953125
+prompt:The name of the alma mater of the composer of XXX: State of the Union is   
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:17.205699920654297
+prompt:The name of the alma mater of the composer of XXX: State of the Union is    
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:16.681379318237305
+prompt:The name of the alma mater of the composer of XXX: State of the Union is     
+answers:École Normale de Musique de Paris Alfred Cortot
+NLL:16.266592025756836
+[15.903241157531738, 17.384201049804688, 17.40802001953125, 17.205699920654297, 16.681379318237305, 16.266592025756836]
+tensor(1.4766, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8626, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.003280388191342354
+Running time: 54.825119733810425 seconds
+prompt:The place of birth of the composer of XXX: State of the Union is
+answers:Paris
+NLL:1.4766002893447876
+prompt:The place of birth of the composer of XXX: State of the Union is 
+answers:Paris
+NLL:7.393805503845215
+prompt:The place of birth of the composer of XXX: State of the Union is  
+answers:Paris
+NLL:4.062838554382324
+prompt:The place of birth of the composer of XXX: State of the Union is   
+answers:Paris
+NLL:4.746719837188721
+prompt:The place of birth of the composer of XXX: State of the Union is    
+answers:Paris
+NLL:2.6473870277404785
+prompt:The place of birth of the composer of XXX: State of the Union is     
+answers:Paris
+NLL:2.007721424102783
+[1.4766002893447876, 7.393805503845215, 4.062838554382324, 4.746719837188721, 2.6473870277404785, 2.007721424102783]
+prompt:The place of birth of the composer of XXX: State of the Union is
+answers:Paris
+NLL:5.412581443786621
+prompt:The place of birth of the composer of XXX: State of the Union is 
+answers:Paris
+NLL:12.062122344970703
+prompt:The place of birth of the composer of XXX: State of the Union is  
+answers:Paris
+NLL:7.423515319824219
+prompt:The place of birth of the composer of XXX: State of the Union is   
+answers:Paris
+NLL:8.938117027282715
+prompt:The place of birth of the composer of XXX: State of the Union is    
+answers:Paris
+NLL:6.70681619644165
+prompt:The place of birth of the composer of XXX: State of the Union is     
+answers:Paris
+NLL:6.527099132537842
+[5.412581443786621, 12.062122344970703, 7.423515319824219, 8.938117027282715, 6.70681619644165, 6.527099132537842]
+tensor(6.9306, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8626, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 418.8649015426636 seconds
+prompt:The occupation of the composer of XXX: State of the Union is
+answers:composer
+NLL:6.930631160736084
+prompt:The occupation of the composer of XXX: State of the Union is 
+answers:composer
+NLL:8.913046836853027
+prompt:The occupation of the composer of XXX: State of the Union is  
+answers:composer
+NLL:7.900514602661133
+prompt:The occupation of the composer of XXX: State of the Union is   
+answers:composer
+NLL:11.775474548339844
+prompt:The occupation of the composer of XXX: State of the Union is    
+answers:composer
+NLL:7.007675647735596
+prompt:The occupation of the composer of XXX: State of the Union is     
+answers:composer
+NLL:6.118871688842773
+[6.930631160736084, 8.913046836853027, 7.900514602661133, 11.775474548339844, 7.007675647735596, 6.118871688842773]
+prompt:The occupation of the composer of XXX: State of the Union is
+answers:composer
+NLL:7.620761871337891
+prompt:The occupation of the composer of XXX: State of the Union is 
+answers:composer
+NLL:9.740062713623047
+prompt:The occupation of the composer of XXX: State of the Union is  
+answers:composer
+NLL:9.119784355163574
+prompt:The occupation of the composer of XXX: State of the Union is   
+answers:composer
+NLL:11.585295677185059
+prompt:The occupation of the composer of XXX: State of the Union is    
+answers:composer
+NLL:7.337649345397949
+prompt:The occupation of the composer of XXX: State of the Union is     
+answers:composer
+NLL:7.598991870880127
+[7.620761871337891, 9.740062713623047, 9.119784355163574, 11.585295677185059, 7.337649345397949, 7.598991870880127]
+tensor(2.5158, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.8626, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 441.33687353134155 seconds
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is
+answers:France
+NLL:2.5158159732818604
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is 
+answers:France
+NLL:2.7568464279174805
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is  
+answers:France
+NLL:1.7138950824737549
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is   
+answers:France
+  3%|▎         | 9/272 [3:41:45<97:04:39, 1328.82s/it]NLL:2.81880521774292
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is    
+answers:France
+NLL:1.4149115085601807
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is     
+answers:France
+NLL:1.4005967378616333
+[2.5158159732818604, 2.7568464279174805, 1.7138950824737549, 2.81880521774292, 1.4149115085601807, 1.4005967378616333]
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is
+answers:France
+NLL:3.6861042976379395
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is 
+answers:France
+NLL:7.674846649169922
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is  
+answers:France
+NLL:5.642055988311768
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is   
+answers:France
+NLL:6.721485137939453
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is    
+answers:France
+NLL:5.235305309295654
+prompt:The name of the country of citizenship of the composer of XXX: State of the Union is     
+answers:France
+NLL:4.659808158874512
+[3.6861042976379395, 7.674846649169922, 5.642055988311768, 6.721485137939453, 5.235305309295654, 4.659808158874512]
+tensor(5.9477, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.7201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 420.9838488101959 seconds
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is
+answers:Maykop
+NLL:11.89548397064209
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is 
+answers:Maykop
+NLL:12.867877960205078
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is  
+answers:Maykop
+NLL:6.04734468460083
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is   
+answers:Maykop
+NLL:5.368703365325928
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is    
+answers:Maykop
+NLL:5.341398239135742
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is     
+answers:Maykop
+NLL:3.8985772132873535
+[11.89548397064209, 12.867877960205078, 6.04734468460083, 5.368703365325928, 5.341398239135742, 3.8985772132873535]
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is
+answers:Maykop
+NLL:15.506898880004883
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is 
+answers:Maykop
+NLL:19.59528160095215
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is  
+answers:Maykop
+NLL:16.138011932373047
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is   
+answers:Maykop
+NLL:16.4854793548584
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is    
+answers:Maykop
+NLL:16.02208137512207
+prompt:The name of the capital city of the country of citizenship of Randhir Kapoor is     
+answers:Maykop
+NLL:15.480876922607422
+[15.506898880004883, 19.59528160095215, 16.138011932373047, 16.4854793548584, 16.02208137512207, 15.480876922607422]
+tensor(4.6940, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.7201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 385.35275530815125 seconds
+prompt:The official language of the country of citizenship of Randhir Kapoor is
+answers:Russian
+NLL:4.694042682647705
+prompt:The official language of the country of citizenship of Randhir Kapoor is 
+answers:Russian
+NLL:6.632497787475586
+prompt:The official language of the country of citizenship of Randhir Kapoor is  
+answers:Russian
+NLL:0.5594236254692078
+prompt:The official language of the country of citizenship of Randhir Kapoor is   
+answers:Russian
+NLL:0.6331135630607605
+prompt:The official language of the country of citizenship of Randhir Kapoor is    
+answers:Russian
+NLL:0.5594713687896729
+prompt:The official language of the country of citizenship of Randhir Kapoor is     
+answers:Russian
+NLL:0.3953555226325989
+[4.694042682647705, 6.632497787475586, 0.5594236254692078, 0.6331135630607605, 0.5594713687896729, 0.3953555226325989]
+prompt:The official language of the country of citizenship of Randhir Kapoor is
+answers:Russian
+NLL:8.010396957397461
+prompt:The official language of the country of citizenship of Randhir Kapoor is 
+answers:Russian
+NLL:12.937243461608887
+prompt:The official language of the country of citizenship of Randhir Kapoor is  
+answers:Russian
+NLL:9.061942100524902
+prompt:The official language of the country of citizenship of Randhir Kapoor is   
+answers:Russian
+NLL:8.966548919677734
+prompt:The official language of the country of citizenship of Randhir Kapoor is    
+answers:Russian
+NLL:8.297818183898926
+prompt:The official language of the country of citizenship of Randhir Kapoor is     
+answers:Russian
+NLL:8.655929565429688
+[8.010396957397461, 12.937243461608887, 9.061942100524902, 8.966548919677734, 8.297818183898926, 8.655929565429688]
+tensor(3.1891, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.7201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is too small:0.0, the result is not reliable, recalculate with float32
+The cosine value is too small:{result.item()}, the result is not reliable, recalculate with float64
+The cosine value is 0.0
+Running time: 399.38286995887756 seconds
+prompt:The official language of the country of citizenship of Randhir Kapoor is
+answers:Adyghe
+NLL:9.567296028137207
+prompt:The official language of the country of citizenship of Randhir Kapoor is 
+answers:Adyghe
+NLL:9.475232124328613
+prompt:The official language of the country of citizenship of Randhir Kapoor is  
+answers:Adyghe
+NLL:6.164902687072754
+prompt:The official language of the country of citizenship of Randhir Kapoor is   
+answers:Adyghe
+NLL:6.069533824920654
+prompt:The official language of the country of citizenship of Randhir Kapoor is    
+answers:Adyghe
+NLL:5.626213073730469
+prompt:The official language of the country of citizenship of Randhir Kapoor is     
+answers:Adyghe
+NLL:6.714962959289551
+[9.567296028137207, 9.475232124328613, 6.164902687072754, 6.069533824920654, 5.626213073730469, 6.714962959289551]
+prompt:The official language of the country of citizenship of Randhir Kapoor is
+answers:Adyghe
+NLL:17.05792236328125
+prompt:The official language of the country of citizenship of Randhir Kapoor is 
+answers:Adyghe
+NLL:19.834596633911133
+prompt:The official language of the country of citizenship of Randhir Kapoor is  
+answers:Adyghe
+NLL:17.383024215698242
+prompt:The official language of the country of citizenship of Randhir Kapoor is   
+answers:Adyghe
+NLL:18.379491806030273
+prompt:The official language of the country of citizenship of Randhir Kapoor is    
+answers:Adyghe
+NLL:17.899301528930664
+prompt:The official language of the country of citizenship of Randhir Kapoor is     
+answers:Adyghe
+NLL:18.354000091552734
+[17.05792236328125, 19.834596633911133, 17.383024215698242, 18.379491806030273, 17.899301528930664, 18.354000091552734]
+tensor(1.5833, device='cuda:2', grad_fn=<NllLossBackward0>)
+tensor(1.7201, device='cuda:2', grad_fn=<NllLossBackward0>)
+The cosine value is 0.09701953083276749
+Running time: 54.265467405319214 seconds
+prompt:The name of the anthem of the country of citizenship of Randhir Kapoor is
+answers:Anthem of the Republic of Adygea
+NLL:15.832513809204102
+prompt:The name of the anthem of the country of citizenship of Randhir Kapoor is 
+answers:Anthem of the Republic of Adygea
+NLL:8.834545135498047
+prompt:The name of the anthem of the country of citizenship of Randhir Kapoor is  
+answers:Anthem of the Republic of Adygea
+NLL:9.552483558654785
